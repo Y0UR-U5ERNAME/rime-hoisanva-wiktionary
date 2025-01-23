@@ -22,11 +22,11 @@ The files still say "gene" as I didn't bother to change them.
 ### Base Tones
 | Input / 輸入 | Output / 產值 |
 | ----------- | ------------ |
-| x           | 55           |
+| j           | 55           |
 | q           | 33           |
 | r           | 22           |
-| w           | 31           |
-| j           | 21           |
+| w           | 32           |
+| x           | 21           |
 
 ### Changed Tones
 
@@ -37,7 +37,7 @@ The changed tones are input by duplicating the corresponding input letter.
 | qq          | 335          |
 | rr          | 225          |
 | ww          | 325          |
-| jj          | 215          |
+| xx          | 215          |
 
 ## Collaborators ##
 - [suspiciouscactus](https://github.com/suspiciouscactus)

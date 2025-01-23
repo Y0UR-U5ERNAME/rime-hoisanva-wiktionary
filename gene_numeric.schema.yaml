@@ -38,12 +38,12 @@ translator:
   preedit_format:
     # `xform` tones with longer strings first so they don't get intercepted by
     # substring `xform`s.
-    - xform/x\b/⁵⁵/
     - xform/qq\b/³³⁵/
     - xform/rr\b/²²⁵/
     - xform/ww\b/³²⁵/
-    - xform/jj\b/²¹⁵/
+    - xform/xx\b/²¹⁵/
+    - xform/j\b/⁵⁵/
     - xform/q\b/³³/
     - xform/r\b/²²/
     - xform/w\b/³²/
-    - xform/j\b/²¹/
+    - xform/x\b/²¹/

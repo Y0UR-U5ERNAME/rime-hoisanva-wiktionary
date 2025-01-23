@@ -1,4 +1,4 @@
-# Rime schema
+# Rime schema
 # encoding: utf-8
 
 schema:
@@ -62,14 +62,14 @@ speller:
     # `xform` tones with longer strings first so they don't get intercepted by
     # substring `xform`s.
     - xform/325$/ww/
-    - xform/215$/jj/
-    - xform/55$/x/
+    - xform/215$/xx/
+    - xform/55$/j/
     - xform/33$/q/
     - xform/335$/qq/
     - xform/22$/r/
     - xform/225$/rr/
     - xform/32$/w/
-    - xform/21$/j/
+    - xform/21$/x/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
 
@@ -116,33 +116,33 @@ translator:
     - xform/([aeiou])([a-z]*)21\b/$1̂$2 /
     - xform_([aeiou])([a-z]*)215\b_$1̂$2/ _
   preedit_format:
-    - xform/\b(m)x\b/$1̄/
+    - xform/\b(m)j\b/$1̄/
     - xform/\b(m)q\b/$1̈/
     - xform_\b(m)qq\b_$1̈/_
     - xform/\b(m)r\b/$1̃/
     - xform_\b(m)rr\b_$1̃/_
     - xform/\b(m)w\b/$1̀/
     - xform_\b(m)ww\b_$1̀/_
-    - xform/\b(m)j\b/$1̂/
-    - xform_\b(m)jj\b_$1̂/_
-    - xform/(ui|iu)x\b/$1̄/
+    - xform/\b(m)x\b/$1̂/
+    - xform_\b(m)xx\b_$1̂/_
+    - xform/(ui|iu)j\b/$1̄/
     - xform/(ui|iu)q\b/$1̈/
     - xform_(ui|iu)qq\b_$1̈/_
     - xform/(ui|iu)r\b/$1̃/
     - xform_(ui|iu)rr\b_$1̃/_
     - xform/(ui|iu)w\b/$1̀/
     - xform_(ui|iu)ww\b_$1̀/_
-    - xform/(ui|iu)j\b/$1̂/
-    - xform_(ui|iu)jj\b_$1̂/_
-    - xform/([aeiou])([^xqrwj ]*)x\b/$1̄$2/
-    - xform/([aeiou])([^xqrwj ]*)q\b/$1̈$2/
-    - xform_([aeiou])([^xqrwj ]*)qq\b_$1̈$2/_
-    - xform/([aeiou])([^xqrwj ]*)r\b/$1̃$2/
-    - xform_([aeiou])([^xqrwj ]*)rr\b_$1̃$2/_
-    - xform/([aeiou])([^xqrwj ]*)w\b/$1̀$2/
-    - xform_([aeiou])([^xqrwj ]*)ww\b_$1̀$2/_
-    - xform/([aeiou])([^xqrwj ]*)j\b/$1̂$2/
-    - xform_([aeiou])([^xqrwj ]*)jj\b_$1̂$2/_
+    - xform/(ui|iu)x\b/$1̂/
+    - xform_(ui|iu)xx\b_$1̂/_
+    - xform/([aeiou])([^jqrwx ]*)j\b/$1̄$2/
+    - xform/([aeiou])([^jqrwx ]*)q\b/$1̈$2/
+    - xform_([aeiou])([^jqrwx ]*)qq\b_$1̈$2/_
+    - xform/([aeiou])([^jqrwx ]*)r\b/$1̃$2/
+    - xform_([aeiou])([^jqrwx ]*)rr\b_$1̃$2/_
+    - xform/([aeiou])([^jqrwx ]*)w\b/$1̀$2/
+    - xform_([aeiou])([^jqrwx ]*)ww\b_$1̀$2/_
+    - xform/([aeiou])([^jqrwx ]*)x\b/$1̂$2/
+    - xform_([aeiou])([^jqrwx ]*)xx\b_$1̂$2/_
 
 
 reverse_lookup:
