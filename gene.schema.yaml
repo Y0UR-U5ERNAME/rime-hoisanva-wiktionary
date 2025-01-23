@@ -63,24 +63,12 @@ speller:
     # substring `xform`s.
     - xform/325$/ww/
     - xform/215$/zz/
-    - derive/55$/qr/
-    - derive/55$/qw/
-    - derive/55$/qz/
-    - derive/55$/rq/
-    - derive/55$/rw/
-    - derive/55$/rz/
-    - derive/55$/wq/
-    - derive/55$/wr/
-    - derive/55$/wz/
-    - derive/55$/zq/
-    - derive/55$/zr/
-    - derive/55$/zw/
-    - erase/55$/
+    - xform/55$/x/
     - xform/33$/q/
-    - xform/35$/qq/
-    - xform/11$/r/
-    - xform/15$/rr/
-    - xform/31$/w/
+    - xform/335$/qq/
+    - xform/22$/r/
+    - xform/225$/rr/
+    - xform/32$/w/
     - xform/21$/z/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
@@ -102,33 +90,33 @@ translator:
     # workaround.
     - xform/\b(m)55\b/$1̄ /
     - xform/\b(m)33\b/$1̈ /
-    - xform_\b(m)35\b_$1̈ /_
-    - xform/\b(m)11\b/$1̃ /
-    - xform_\b(m)15\b_$1̃ /_
-    - xform/\b(m)31\b/$1̀ /
+    - xform_\b(m)335\b_$1̈ /_
+    - xform/\b(m)22\b/$1̃ /
+    - xform_\b(m)225\b_$1̃ /_
+    - xform/\b(m)32\b/$1̀ /
     - xform_\b(m)325\b_$1̀ /_
     - xform/\b(m)21\b/$1̂ /
     - xform_\b(m)215\b_$1̂ /_
     - xform/(ui|iu)55\b/$1̄ /
     - xform/(ui|iu)33\b/$1̈ /
-    - xform_(ui|iu)35\b_$1̈ /_
-    - xform/(ui|iu)11\b/$1̃ /
-    - xform_(ui|iu)15\b_$1̃ /_
-    - xform/(ui|iu)31\b/$1̀ /
+    - xform_(ui|iu)335\b_$1̈ /_
+    - xform/(ui|iu)22\b/$1̃ /
+    - xform_(ui|iu)225\b_$1̃ /_
+    - xform/(ui|iu)32\b/$1̀ /
     - xform_(ui|iu)325\b_$1̀ /_
     - xform/(ui|iu)21\b/$1̂ /
     - xform_(ui|iu)215\b_$1̂ /_
     - xform/([aeiou])([a-z]*)55\b/$1̄$2 /
     - xform/([aeiou])([a-z]*)33\b/$1̈$2 /
-    - xform_([aeiou])([a-z]*)35\b_$1̈$2/ _
-    - xform/([aeiou])([a-z]*)11\b/$1̃$2 /
-    - xform_([aeiou])([a-z]*)15\b_$1̃$2/ _
-    - xform/([aeiou])([a-z]*)31\b/$1̀$2 /
+    - xform_([aeiou])([a-z]*)335\b_$1̈$2/ _
+    - xform/([aeiou])([a-z]*)22\b/$1̃$2 /
+    - xform_([aeiou])([a-z]*)225\b_$1̃$2/ _
+    - xform/([aeiou])([a-z]*)32\b/$1̀$2 /
     - xform_([aeiou])([a-z]*)325\b_$1̀$2/ _
     - xform/([aeiou])([a-z]*)21\b/$1̂$2 /
     - xform_([aeiou])([a-z]*)215\b_$1̂$2/ _
   preedit_format:
-    - xform/\b(m)(?:q[rwz]|r[qwr]|w[qrz]|z[qrw])\b/$1̄/
+    - xform/\b(m)x\b/$1̄/
     - xform/\b(m)q\b/$1̈/
     - xform_\b(m)qq\b_$1̈/_
     - xform/\b(m)r\b/$1̃/
@@ -137,7 +125,7 @@ translator:
     - xform_\b(m)ww\b_$1̀/_
     - xform/\b(m)z\b/$1̂/
     - xform_\b(m)zz\b_$1̂/_
-    - xform/(ui|iu)(?:q[rwz]|r[qwr]|w[qrz]|z[qrw])\b/$1̄/
+    - xform/(ui|iu)x\b/$1̄/
     - xform/(ui|iu)q\b/$1̈/
     - xform_(ui|iu)qq\b_$1̈/_
     - xform/(ui|iu)r\b/$1̃/
@@ -146,7 +134,7 @@ translator:
     - xform_(ui|iu)ww\b_$1̀/_
     - xform/(ui|iu)z\b/$1̂/
     - xform_(ui|iu)zz\b_$1̂/_
-    - xform/([aeiou])([^qrwz ]*)(?:q[rwz]|r[qwr]|w[qrz]|z[qrw])\b/$1̄$2/
+    - xform/([aeiou])([^qrwz ]*)x\b/$1̄$2/
     - xform/([aeiou])([^qrwz ]*)q\b/$1̈$2/
     - xform_([aeiou])([^qrwz ]*)qq\b_$1̈$2/_
     - xform/([aeiou])([^qrwz ]*)r\b/$1̃$2/

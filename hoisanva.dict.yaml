@@ -19,9 +19,9 @@ import_tables:
 
 丫	a21
 椏	a21
-呀	a31
-啊	a31
-枒	a31	3%
+呀	a32
+啊	a32
+枒	a32	3%
 丫	a33
 亞	a33
 吖	a33
@@ -39,27 +39,27 @@ import_tables:
 鵶	a33
 䃁	a33
 䝟	a33
-嗄	a35	0%
+嗄	a335	0%
 咑	a55	3%
 啞	a55	3%
 喔	a55	3%
 打	a55	5%
 瘂	a55
 帶	ai21
-俤	ai31
-唉	ai31	3%
-噯	ai31	3%
-大	ai31	0%
-弟	ai31	3%
-悌	ai31	0%
-杕	ai31
-棣	ai31
-第	ai31
-苐	ai31
-逓	ai31
-逮	ai31
-遞	ai31	3%
-䑯	ai31
+俤	ai32
+唉	ai32	3%
+噯	ai32	3%
+大	ai32	0%
+弟	ai32	3%
+悌	ai32	0%
+杕	ai32
+棣	ai32
+第	ai32
+苐	ai32
+逓	ai32
+逮	ai32
+遞	ai32	3%
+䑯	ai32
 低	ai33
 唉	ai33	3%
 嗌	ai33
@@ -109,10 +109,10 @@ import_tables:
 軛	ak21	3%
 軶	ak21	0%
 鐲	ak21	3%
-揳	ak31	0%
-特	ak31
-螣	ak31
-蟘	ak31	0%
+揳	ak32	0%
+特	ak32
+螣	ak32
+蟘	ak32	0%
 得	ak33
 扼	ak33	0%
 握	ak33	3%
@@ -127,10 +127,10 @@ import_tables:
 苊	ak55
 鍀	ak55
 㝵	ak55
-啖	am31
-氮	am31
-淡	am31	3%
-澹	am31	0%
+啖	am32
+氮	am32
+淡	am32	3%
+澹	am32	0%
 俺	am33	3%
 儋	am33	3%
 唵	am33
@@ -157,15 +157,15 @@ import_tables:
 諳	am55	0%
 黯	am55	0%
 黵	am55	0%
-亶	an31	3%
-但	an31
-彈	an31
-憚	an31
-撣	an31
-澶	an31	0%
-疍	an31
-蛋	an31	3%
-蜑	an31
+亶	an32	3%
+但	an32
+彈	an32
+憚	an32
+撣	an32
+澶	an32	0%
+疍	an32
+蛋	an32	3%
+蜑	an32
 丹	an33
 單	an33	5%
 旦	an33	3%
@@ -182,8 +182,8 @@ import_tables:
 旦	an55	3%
 凳	ang21
 罌	ang21	0%
-蹬	ang31	3%
-鄧	ang31
+蹬	ang32	3%
+鄧	ang32
 噔	ang33
 嶝	ang33
 燈	ang33
@@ -198,55 +198,16 @@ import_tables:
 𣩟	ang33
 戥	ang55	0%
 等	ang55
-凹	ao21	3%
-坳	ao21	0%
-垇	ao21
-襖	ao21
-導	ao31
-幬	ao31	0%
-悼	ao31
-燾	ao31
-盜	ao31
-稻	ao31
-纛	ao31
-衜	ao31
-衟	ao31
-蹈	ao31	0%
-道	ao31	0%
-𡭑	ao31
-凹	ao33	3%
-刀	ao33
-到	ao33
-叨	ao33
-塢	ao33
-奧	ao33	0%
-媼	ao33
-嶴	ao33
-忉	ao33	3%
-懊	ao33
-拗	ao33	3%
-氘	ao33
-澳	ao33	3%
-襖	ao33
-魛	ao33
-倒	ao55	3%
-到	ao55
-島	ao55
-抝	ao55
-拗	ao55	3%
-捯	ao55	3%
-搗	ao55
-㠀	ao55
 閤	ap21	3%
 鴿	ap21	3%
-匼	ap31	0%
-沓	ap31
-譶	ap31	0%
-踏	ap31
-蹹	ap31	0%
-遝	ap31
-鞳	ap31	0%
-𦾽	ap31
+匼	ap32	0%
+沓	ap32
+譶	ap32	0%
+踏	ap32
+蹹	ap32	0%
+遝	ap32
+鞳	ap32	0%
+𦾽	ap32
 墶	ap33
 搕	ap33	0%
 搭	ap33	3%
@@ -261,13 +222,13 @@ import_tables:
 耷	ap55
 褡	ap55
 噠	at21	3%
-噠	at31	3%
-繨	at31
-躂	at31
-逹	at31	0%
-達	at31	3%
-龖	at31	0%
-龘	at31
+噠	at32	3%
+繨	at32
+躂	at32
+逹	at32	0%
+達	at32	3%
+龖	at32	0%
+龘	at32
 押	at33	3%
 撻	at33	5%
 澾	at33
@@ -285,9 +246,48 @@ import_tables:
 閼	at55
 頞	at55
 齃	at55	0%
-爸	ba11
-吧	ba31	5%
-罷	ba31	3%
+凹	au21	3%
+坳	au21	0%
+垇	au21
+襖	au21
+導	au32
+幬	au32	0%
+悼	au32
+燾	au32
+盜	au32
+稻	au32
+纛	au32
+衜	au32
+衟	au32
+蹈	au32	0%
+道	au32	0%
+𡭑	au32
+凹	au33	3%
+刀	au33
+到	au33
+叨	au33
+塢	au33
+奧	au33	0%
+媼	au33
+嶴	au33
+忉	au33	3%
+懊	au33
+拗	au33	3%
+氘	au33
+澳	au33	3%
+襖	au33
+魛	au33
+倒	au55	3%
+到	au55
+島	au55
+抝	au55
+拗	au55	3%
+捯	au55	3%
+搗	au55
+㠀	au55
+爸	ba22
+吧	ba32	5%
+罷	ba32	3%
 吧	ba33	5%
 壩	ba33
 岜	ba33
@@ -309,19 +309,19 @@ import_tables:
 把	ba55	3%
 爸	ba55
 䶕	ba55
-唄	bai31	3%
-幣	bai31
-弊	bai31
-憊	bai31
-敗	bai31
-敝	bai31
-斃	bai31
-棑	bai31
-獘	bai31
-獙	bai31
-贁	bai31
-陛	bai31
-𡚁	bai31
+唄	bai32	3%
+幣	bai32
+弊	bai32
+憊	bai32
+敗	bai32
+敝	bai32
+斃	bai32
+棑	bai32
+獘	bai32
+獙	bai32
+贁	bai32
+陛	bai32
+𡚁	bai32
 拜	bai33	0%
 湃	bai33	3%
 狴	bai33	0%
@@ -332,24 +332,24 @@ import_tables:
 擺	bai55
 跛	bai55	3%
 伯	bak21	3%
-僰	bak31	0%
-匐	bak31	0%
-卜	bak31	3%
-帛	bak31
-白	bak31
-百	bak31	3%
-蔔	bak31
-鮊	bak31
+僰	bak32	0%
+匐	bak32	0%
+卜	bak32	3%
+帛	bak32
+白	bak32
+百	bak32	3%
+蔔	bak32
+鮊	bak32
 佰	bak33	3%
 百	bak33	3%
 伯	bak55	3%
 北	bak55	0%
 百	bak55	3%
-扮	ban31	3%
-湴	ban31
-爿	ban31	3%
-瓣	ban31
-辦	ban31
+扮	ban32	3%
+湴	ban32
+爿	ban32	3%
+瓣	ban32
+辦	ban32
 扳	ban33	3%
 攽	ban33	0%
 斑	ban33
@@ -369,7 +369,7 @@ import_tables:
 闆	ban55
 阪	ban55	0%
 嘣	bang21
-憑	bang31	0%
+憑	bang32	0%
 傍	bang33
 崩	bang33
 榜	bang33	3%
@@ -384,201 +384,170 @@ import_tables:
 䩬	bang33
 𧩱	bang33
 崩	bang55
-包	bao21
-𨰻	bao21
-孵	bao31
-暴	bao31	3%
-曝	bao31	0%
-瀑	bao31	3%
-虣	bao31
-齙	bao31	0%
-勹	bao33
-包	bao33
-報	bao33
-孢	bao33
-煲	bao33
-爆	bao33	0%
-狍	bao33	0%
-胞	bao33	0%
-苞	bao33
-蚫	bao33	0%
-裒	bao33
-褒	bao33
-豹	bao33
-趵	bao33	0%
-鮑	bao33
-麅	bao33
-保	bao55
-堡	bao55	0%
-寳	bao55	0%
-寶	bao55
-緥	bao55
-葆	bao55
-褓	bao55
-飽	bao55
-鴇	bao55
-䯽	bao55
-𨰻	bao55
-𩭍	bao55
-拔	bat31
-茇	bat31	3%
-菝	bat31
-跋	bat31	0%
-魃	bat31	3%
-鮁	bat31
-鼥	bat31
+拔	bat32
+茇	bat32	3%
+菝	bat32
+跋	bat32	0%
+魃	bat32	3%
+鮁	bat32
+鼥	bat32
 丷	bat33
 八	bat33
 捌	bat33
 八	bat55
-孭	beh21
-背	beh21
-啤	beh55	3%
-別	beik31	3%
-憋	beik31
-癟	beik31
-鱉	beik31
-鼈	beik31	0%
-癟	beik33
-㿜	beik33
-偪	beik55
-壁	beik55	0%
-廹	beik55
-必	beik55
-愊	beik55
-愎	beik55	0%
-滭	beik55
-珌	beik55
-璧	beik55	0%
-皕	beik55	0%
-碧	beik55
-腷	beik55
-苾	beik55	0%
-襞	beik55
-觱	beik55	0%
-贔	beik55
-躃	beik55
-躄	beik55
-辟	beik55	3%
-迫	beik55
-逼	beik55
-鉍	beik55
-鞸	beik55
-馝	beik55	0%
-鷿	beik55
-鸊	beik55
-㧙	beik55
-㳼	beik55
-䩛	beik55
-泵	beim55
-邊	bein21
-並	bein31	3%
-併	bein31	3%
-便	bein31	0%
-偋	bein31
-卞	bein31
-堋	bein31	3%
-屏	bein31	3%
-弁	bein31
-忭	bein31
-抃	bein31
-汴	bein31
-竝	bein31
-苄	bein31
-諞	bein31
-跰	bein31
-辨	bein31
-辯	bein31
-迸	bein31	3%
-釆	bein31
-靐	bein31	0%
-鞞	bein31
-鞸	bein31
-䒪	bein31
-䗒	bein31
-𠀤	bein31
-兵	bein33
-冫	bein33
-冰	bein33	0%
-并	bein33	3%
-掤	bein33
-摒	bein33	0%
-栟	bein33	3%
-氷	bein33
-煸	bein33	3%
-籩	bein33
-緶	bein33
-變	bein33
-邊	bein33
-鞭	bein33
-丙	bein55
-匾	bein55
-屏	bein55	3%
-扁	bein55
-抦	bein55
-昞	bein55
-炳	bein55
-眪	bein55
-砭	bein55
-碥	bein55
-秉	bein55
-稨	bein55
-窆	bein55
-苪	bein55
-萹	bein55	0%
-藊	bein55
-蛃	bein55
-蝙	bein55
-褊	bein55	3%
-貶	bein55
-邴	bein55
-鯿	bein55
-𩶁	bein55
-彪	bel33
-杓	bel33
-標	bel33
-猋	bel33
-瘭	bel33
-膘	bel33
-臕	bel33
-錶	bel33	0%
-鏢	bel33
-鑣	bel33
-飆	bel33
-飇	bel33
-飈	bel33
-飊	bel33	0%
-驃	bel33	0%
-驫	bel33
-髟	bel33
-俵	bel55	0%
-婊	bel55
-表	bel55
-裱	bel55
-柄	beng21	3%
-棅	beng21
-病	beng31
-屏	beng33	3%
-窉	beng33
-鉼	beng55
-餅	beng55	0%
-踎	beo33
+包	bau21
+𨰻	bau21
+孵	bau32
+暴	bau32	3%
+曝	bau32	0%
+瀑	bau32	3%
+虣	bau32
+齙	bau32	0%
+勹	bau33
+包	bau33
+報	bau33
+孢	bau33
+煲	bau33
+爆	bau33	0%
+狍	bau33	0%
+胞	bau33	0%
+苞	bau33
+蚫	bau33	0%
+裒	bau33
+褒	bau33
+豹	bau33
+趵	bau33	0%
+鮑	bau33
+麅	bau33
+保	bau55
+堡	bau55	0%
+寳	bau55	0%
+寶	bau55
+緥	bau55
+葆	bau55
+褓	bau55
+飽	bau55
+鴇	bau55
+䯽	bau55
+𨰻	bau55
+𩭍	bau55
+泵	bem55
+邊	ben21
+並	ben32	3%
+併	ben32	3%
+便	ben32	0%
+偋	ben32
+卞	ben32
+堋	ben32	3%
+屏	ben32	3%
+弁	ben32
+忭	ben32
+抃	ben32
+汴	ben32
+竝	ben32
+苄	ben32
+諞	ben32
+跰	ben32
+辨	ben32
+辯	ben32
+迸	ben32	3%
+釆	ben32
+靐	ben32	0%
+鞞	ben32
+鞸	ben32
+䒪	ben32
+䗒	ben32
+𠀤	ben32
+兵	ben33
+冫	ben33
+冰	ben33	0%
+并	ben33	3%
+掤	ben33
+摒	ben33	0%
+栟	ben33	3%
+氷	ben33
+煸	ben33	3%
+籩	ben33
+緶	ben33
+變	ben33
+邊	ben33
+鞭	ben33
+丙	ben55
+匾	ben55
+屏	ben55	3%
+扁	ben55
+抦	ben55
+昞	ben55
+炳	ben55
+眪	ben55
+砭	ben55
+碥	ben55
+秉	ben55
+稨	ben55
+窆	ben55
+苪	ben55
+萹	ben55	0%
+藊	ben55
+蛃	ben55
+蝙	ben55
+褊	ben55	3%
+貶	ben55
+邴	ben55
+鯿	ben55
+𩶁	ben55
+別	bet32	3%
+憋	bet32
+癟	bet32
+鱉	bet32
+鼈	bet32	0%
+癟	bet33
+㿜	bet33
+偪	bet55
+壁	bet55	0%
+廹	bet55
+必	bet55
+愊	bet55
+愎	bet55	0%
+滭	bet55
+珌	bet55
+璧	bet55	0%
+皕	bet55	0%
+碧	bet55
+腷	bet55
+苾	bet55	0%
+襞	bet55
+觱	bet55	0%
+贔	bet55
+躃	bet55
+躄	bet55
+辟	bet55	3%
+迫	bet55
+逼	bet55
+鉍	bet55
+鞸	bet55
+馝	bet55	0%
+鷿	bet55
+鸊	bet55
+㧙	bet55
+㳼	bet55
+䩛	bet55
+踎	beu33
 臂	bi21
-備	bi31
-濞	bi31	3%
-笓	bi31
-篦	bi31	3%
-絥	bi31	0%
-螕	bi31	0%
-被	bi31
-避	bi31
-鐾	bi31
-鞁	bi31	0%
-鞴	bi31
-韛	bi31
-髲	bi31
-鼻	bi31
-𩍘	bi31
+備	bi32
+濞	bi32	3%
+笓	bi32
+篦	bi32	3%
+絥	bi32	0%
+螕	bi32	0%
+被	bi32
+避	bi32
+鐾	bi32
+鞁	bi32	0%
+鞴	bi32
+韛	bi32
+髲	bi32
+鼻	bi32
+𩍘	bi32
 仳	bi33	3%
 匕	bi33	3%
 卑	bi33
@@ -630,6 +599,37 @@ import_tables:
 肶	bi55
 舭	bi55
 髀	bi55
+柄	biang21	3%
+棅	biang21
+病	biang32
+屏	biang33	3%
+窉	biang33
+鉼	biang55
+餅	biang55	0%
+彪	biau33
+杓	biau33
+標	biau33
+猋	biau33
+瘭	biau33
+膘	biau33
+臕	biau33
+錶	biau33	0%
+鏢	biau33
+鑣	biau33
+飆	biau33
+飇	biau33
+飈	biau33
+飊	biau33	0%
+驃	biau33	0%
+驫	biau33
+髟	biau33
+俵	biau55	0%
+婊	biau55
+表	biau55
+裱	biau55
+孭	bie21
+背	bie21
+啤	bie55	3%
 辮	bin21
 倴	bin33
 儐	bin33	3%
@@ -665,9 +665,9 @@ import_tables:
 榀	bin55
 砰	bin55	3%
 稟	bin55
-弼	bit31
-拂	bit31	3%
-肸	bit31	0%
+弼	bit32
+拂	bit32	3%
+肸	bit32	0%
 嗶	bit55
 潷	bit55	3%
 畢	bit55
@@ -694,8 +694,8 @@ import_tables:
 鄱	bo33
 陂	bo33	3%
 玻	bo55
-焙	boi31
-蓓	boi31
+焙	boi32
+蓓	boi32
 孛	boi33	3%
 悖	boi33	0%
 揹	boi33
@@ -710,22 +710,22 @@ import_tables:
 邶	boi33	0%
 鋇	boi33
 搵	boi55	0%
-亳	bok31	0%
-嶨	bok31
-欂	bok31	3%
-泊	bok31	3%
-濼	bok31	0%
-礡	bok31
-礴	bok31
-箔	bok31
-縛	bok31	0%
-舶	bok31	0%
-艊	bok31	0%
-薄	bok31
-踣	bok31	0%
-鉑	bok31
-雹	bok31
-魄	bok31	3%
+亳	bok32	0%
+嶨	bok32
+欂	bok32	3%
+泊	bok32	3%
+濼	bok32	0%
+礡	bok32
+礴	bok32
+箔	bok32
+縛	bok32	0%
+舶	bok32	0%
+艊	bok32	0%
+薄	bok32
+踣	bok32	0%
+鉑	bok32
+雹	bok32
+魄	bok32	3%
 駁	bok33
 博	bok55
 搏	bok55
@@ -733,14 +733,14 @@ import_tables:
 餺	bok55
 䬪	bok55
 半	bon21
-伴	bon31	3%
-叛	bon31
-拌	bon31	3%
-沜	bon31	0%
-畔	bon31
-絆	bon31	0%
-胖	bon31	0%
-靽	bon31	0%
+伴	bon32	3%
+叛	bon32
+拌	bon32	3%
+沜	bon32	0%
+畔	bon32
+絆	bon32	0%
+胖	bon32	0%
+靽	bon32	0%
 半	bon33
 搬	bon33
 般	bon33	3%
@@ -751,11 +751,11 @@ import_tables:
 䉽	bon55
 梆	bong21
 𨧜	bong21
-傍	bong31
-搒	bong31	3%
-榜	bong31	3%
-磅	bong31
-鎊	bong31
+傍	bong32
+搒	bong32	3%
+榜	bong32	3%
+磅	bong32
+鎊	bong32
 幫	bong33
 浜	bong33
 邦	bong33
@@ -771,33 +771,33 @@ import_tables:
 癶	bot21	0%
 缽	bot21
 鉢	bot21
-勃	bot31
-孛	bot31	3%
-悖	bot31	0%
-撥	bot31	3%
-桲	bot31
-浡	bot31
-渤	bot31
-脖	bot31
-艴	bot31	0%
-荸	bot31
-鈸	bot31	3%
-餑	bot31
-馞	bot31
-鵓	bot31
-㶿	bot31
+勃	bot32
+孛	bot32	3%
+悖	bot32	0%
+撥	bot32	3%
+桲	bot32
+浡	bot32
+渤	bot32
+脖	bot32
+艴	bot32	0%
+荸	bot32
+鈸	bot32	3%
+餑	bot32
+馞	bot32
+鵓	bot32
+㶿	bot32
 潑	bot55	3%
 簸	bu21	0%
-哺	bu31	0%
-孵	bu31
-峬	bu31
-庯	bu31
-捕	bu31
-步	bu31	0%
-歨	bu31
-簿	bu31
-逋	bu31
-部	bu31
+哺	bu32	0%
+孵	bu32
+峬	bu32
+庯	bu32
+捕	bu32
+步	bu32	0%
+歨	bu32
+簿	bu32
+逋	bu32
+部	bu32
 佈	bu33
 埔	bu33
 布	bu33
@@ -809,17 +809,17 @@ import_tables:
 斧	bu55
 玻	bu55
 補	bu55
-僕	buk31
-暴	buk31	3%
-曝	buk31	0%
-濮	buk31	0%
-瀑	buk31	3%
-鏷	buk31
+僕	buk32
+暴	buk32	3%
+曝	buk32	0%
+濮	buk32	0%
+瀑	buk32	3%
+鏷	buk32
 卜	buk55	3%
 卟	buk55
-坌	bun31
-夯	bun31
-笨	bun31
+坌	bun32
+夯	bun32
+笨	bun32
 崩	bung33
 蒙	bung33
 捧	bung55	0%
@@ -828,501 +828,501 @@ import_tables:
 不	but55	3%
 吥	but55
 鈈	but55
-叉	cha21
-岔	cha21
-扠	cha21	0%
-杈	cha21
-碴	cha21	0%
-衩	cha21
-鑔	cha21
-塗	cha11	0%
-嵖	cha11
-搽	cha11
-查	cha11
-楂	cha11
-槎	cha11
-猹	cha11
-茬	cha11
-茶	cha11
-蹅	cha11
-餷	cha11
-侘	cha33
-叉	cha33
-喳	cha33
-嗏	cha33
-垞	cha33
-奼	cha33	0%
-差	cha33	0%
-汊	cha33
-詫	cha33
-赤	cha33
-叉	cha55
-喍	chai21
-柴	chai21	3%
-瘥	chai21	0%
-䓱	chai21
-豺	chai11
-嘬	chai33	0%
-差	chai33	0%
-搋	chai33	0%
-猜	chai33
-瘛	chai33	0%
-蠆	chai33
-釵	chai33
-䜺	chai33
-歪	chai55	3%
-膪	chai55
-跐	chai55	0%
-跴	chai55	0%
-踩	chai55	3%
-踹	chai55	3%
-坼	chak33
-拆	chak33
-冊	chak55
-惻	chak55
-擦	chak55
-敇	chak55
-柵	chak55	0%
-測	chak55
-策	chak55
-筴	chak55
-讒	cham11
-篸	cham55	3%
-剗	chan55
-滻	chan55
-產	chan55
-羼	chan55	0%
-鏟	chan55
-棖	chang11
-橙	chang11	0%
-鋥	chang11
-䁎	chang11
-撐	chang33	0%
-槍	chang33	3%
-牚	chang33
-睜	chang33	3%
-瞠	chang33	0%
-罉	chang33
-蹭	chang33	0%
-鋥	chang33
-鐣	chang33	0%
-鐺	chang33	0%
-䁎	chang33
-䟓	chang33
-巢	chao11	0%
-皺	chao11
-窼	chao11	0%
-剿	chao33	3%
-抄	chao33
-鈔	chao33	0%
-吵	chao55
-炒	chao55
-煼	chao55
-訬	chao55	0%
-扱	chap33	3%
-插	chap33
-歃	chap33	0%
-臿	chap33
-鍤	chap33
-刷	chat21
-獺	chat21	0%
-刷	chat33
-唰	chat33	0%
-嚓	chat33
-擦	chat33
-攃	chat33
-礤	chat33
-礸	chat33	0%
-䃰	chat33
-察	chat55
-檫	chat55
-唓	cheh33
-奢	cheh33	0%
-硨	cheh33
-車	cheh33	5%
-且	cheh55	3%
-尺	cheh55
-扯	cheh55
-撦	cheh55
-趄	cheh55	0%
-跙	cheh55	0%
-仄	cheik55
-勅	cheik55
-勑	cheik55
-叱	cheik55
-哧	cheik55	3%
-尺	cheik55
-屮	cheik55
-彳	cheik55
-徹	cheik55
-掣	cheik55
-撤	cheik55
-敕	cheik55
-斥	cheik55
-沏	cheik55	0%
-澈	cheik55
-赤	cheik55
-飭	cheik55	3%
-㡿	cheik55	0%
-䃎	cheik55
-𢮓	cheik55
-參	cheim33	0%
-杉	cheim33
-釤	cheim33	0%
-秤	chein21	3%
-稱	chein21	3%
-𦓬	chein21
-侱	chein11
-呈	chein11
-埕	chein11
-徎	chein11
-懲	chein11
-浧	chein11
-澂	chein11
-澄	chein11	3%
-澶	chein11	0%
-珵	chein11
-程	chein11
-纏	chein11	3%
-裎	chein11	0%
-躔	chein11
-逞	chein11
-郢	chein11	0%
-酲	chein11
-鋥	chein11
-餳	chein11
-𨙼	chein11
-偁	chein33
-稱	chein33	3%
-穪	chein33
-拯	chein55
-裎	chein55	0%
-逞	chein55
-郢	chein55	0%
-騁	chein55	0%
-𩧢	chein55
-尺	chek21
-⻌	chek31
-⻍	chek31
-⻎	chek31
-辵	chek31
-辶	chek31
-㚟	chek31	0%
-呎	chek33	3%
-尺	chek33
-赤	chek33
-倬	chek55	0%
-卓	chek55	3%
-焯	chek55
-綽	chek55	3%
-踔	chek55
-逴	chek55
-鵫	chek55	0%
-晁	chel11	0%
-朝	chel11	3%
-潮	chel11
-瞅	chel11
-瞧	chel11
-鼂	chel11
-怊	chel33	0%
-繰	chel33
-超	chel33
-諂	chem55
-蟬	chen21	0%
-廛	chen11
-瀍	chen11
-丈	cheng21
-場	cheng11
-塲	cheng11
-澄	cheng11	3%
-腸	cheng11
-萇	cheng11
-長	cheng11
-倀	cheng33	3%
-倡	cheng33
-唱	cheng33
-娼	cheng33
-昌	cheng33
-晿	cheng33
-猖	cheng33
-琩	cheng33
-菖	cheng33
-閶	cheng33
-鯧	cheng33
-䱽	cheng33
-悵	cheng55
-暢	cheng55
-瑒	cheng55	3%
-鬯	cheng55
-抽	cheo33
-瘳	cheo33
-篘	cheo33
-紬	cheo33
-轍	chet55
-峙	chi21	0%
-俿	chi11	0%
-倁	chi11	0%
-坻	chi11	3%
-墀	chi11
-弛	chi11	3%
-持	chi11
-池	chi11	0%
-疷	chi11	0%
-竾	chi11
-筂	chi11	0%
-箎	chi11
-篪	chi11
-胝	chi11	0%
-蚳	chi11
-踟	chi11
-遲	chi11	3%
-馳	chi11
-䶵	chi11
-嚏	chi31	0%
-杘	chi31	0%
-跮	chi31	0%
-㗣	chi31
-侈	chi33
-呲	chi33	3%
-啻	chi33
-嗤	chi33
-媸	chi33
-差	chi33	0%
-幟	chi33
-旘	chi33	0%
-滍	chi33	0%
-熾	chi33
-癡	chi33
-眙	chi33
-眵	chi33
-笞	chi33
-絺	chi33
-翄	chi33
-翅	chi33
-翤	chi33	0%
-翨	chi33
-胵	chi33
-茌	Chi33
-蚩	chi33
-蚳	chi33
-螭	chi33
-褫	chi33
-魑	chi33	0%
-鴟	chi33
-黐	chi33
-始	chi55
-恥	chi55
-歯	chi55	0%
-齒	chi55
-䚀	chim21
-沈	chim11	0%
-沉	chim11	3%
-𧠿	chim11
-諂	chim33
-磣	chim55
-趻	chim55
-踸	chim55
-塵	chin11	3%
-敶	chin11	0%
-樄	chin11
-軙	chin11	0%
-迧	chin11	0%
-陳	chin11	0%
-𨻰	chin11
-儭	chin33
-嗔	chin33	0%
-櫬	chin33
-瞋	chin33
-磣	chin33
-襯	chin33
-趁	chin33
-齔	chin33
-哂	chin55	0%
-殄	chin55
-畛	chin55	0%
-疹	chin55	0%
-矧	chin55
-稹	chin55	0%
-縝	chin55	3%
-胗	chin55	0%
-蕆	chin55	0%
-訠	chin55	0%
-診	chin55	0%
-軫	chin55	3%
-闡	chin55
-鬒	chin55	0%
-㐱	chin55
-䂧	chin55
-籌	chiu21
-儔	chiu11
-幬	chiu11	0%
-惆	chiu11
-疇	chiu11
-稠	chiu11
-籌	chiu11
-紬	chiu11
-綢	chiu11
-躊	chiu11
-酧	chiu11
-酬	chiu11
-醻	chiu11
-嗅	chiu33	0%
-溴	chiu33
-獸	chiu33
-糗	chiu33	3%
-臭	chiu33
-螑	chiu33
-丑	chiu55
-醜	chiu55
-矬	cho11
-耡	cho11	0%
-鉏	cho11	3%
-鋤	cho11
-初	cho33
-芻	cho33
-蒭	cho33	0%
-雛	cho33
-鶵	cho33	3%
-𥝢	cho33
-憷	cho55
-楚	cho55
-礎	cho55
-剒	chok21
-戳	chok21	0%
-剒	chok33
-戳	chok33	0%
-傳	chon11	3%
-竄	chon55
-瘡	chong21
-噇	chong11
-幢	chong11
-床	chong11	0%
-橦	chong11
-牀	chong11
-創	chong55
-廠	chong55
-惝	chong55
-敞	chong55
-昶	chong55	0%
-氅	chong55
-闖	chong55	3%
-耡	chu11	0%
-鉏	chu11	3%
-鋤	chu11
-佇	chui21
-儲	chui21	0%
-壴	chui21
-宁	chui21	0%
-杵	chui21	3%
-杼	chui21
-柱	chui21
-楮	chui21	3%
-槌	chui21
-砫	chui21	0%
-紵	chui21
-苧	chui21
-處	chui21	3%
-褚	chui21	3%
-貯	chui21	3%
-幮	chui11	0%
-廚	chui11	0%
-捶	chui11
-棰	chui11	0%
-椎	chui11
-櫥	chui11	0%
-滁	chui11	0%
-箠	chui11	0%
-篨	chui11	0%
-蜍	chui11	3%
-蠩	chui11
-躇	chui11	3%
-躕	chui11	0%
-錘	chui11
-鎚	chui11
-除	chui11	3%
-吹	chui33	3%
-炊	chui33	0%
-䶴	chui33
-処	chui55
-處	chui55	3%
-亍	chuk55
-俶	chuk55
-怵	chuk55	0%
-搐	chuk55	3%
-束	chuk55
-畜	chuk55
-矗	chuk55
-蓄	chuk55
-觸	chuk55
-豖	chuk55
-串	chun21	3%
-膥	chun21	0%
-傳	chun11	3%
-串	chun33	3%
-巛	chun33
-川	chun33
-攢	chun33	3%
-旾	chun33
-春	chun33
-椿	chun33
-氚	chun33
-汌	chun33
-穿	chun33
-蝽	chun33
-釧	chun33
-鰆	chun33
-喘	chun55
-忖	chun55
-揣	chun55
-湍	chun55	0%
-猯	chun55	0%
-篅	chun55
-舛	chun55
-蠢	chun55
-貒	chun55	0%
-踳	chun55
-遄	chun55	0%
-䦟	chun55	0%
-涌	chung21	0%
-蟲	chung21
-种	chung11	0%
-虫	chung11	3%
-蟲	chung11
-重	chung11
-充	chung33
-冢	chung33
-寵	chung33
-忡	chung33
-憃	chung33
-憧	chung33	0%
-揰	chung33
-橦	chung33
-沖	chung33
-浺	chung33
-珫	chung33
-罿	chung33
-翀	chung33
-艟	chung33	3%
-茺	chung33
-衝	chung33	3%
-衷	chung33
-謥	chung33
-重	chung33
-銃	chung33
-㤝	chung33
-㳘	chung33
-䆔	chung33
-䆹	chung33
-䘪	chung33
-𡺪	chung33
-𥅻	chung33
-出	chut55
-黢	chut55
-齣	chut55
-咑	da11	3%
+叉	ca21
+岔	ca21
+扠	ca21	0%
+杈	ca21
+碴	ca21	0%
+衩	ca21
+鑔	ca21
+塗	ca22	0%
+嵖	ca22
+搽	ca22
+查	ca22
+楂	ca22
+槎	ca22
+猹	ca22
+茬	ca22
+茶	ca22
+蹅	ca22
+餷	ca22
+侘	ca33
+叉	ca33
+喳	ca33
+嗏	ca33
+垞	ca33
+奼	ca33	0%
+差	ca33	0%
+汊	ca33
+詫	ca33
+赤	ca33
+叉	ca55
+喍	cai21
+柴	cai21	3%
+瘥	cai21	0%
+䓱	cai21
+豺	cai22
+嘬	cai33	0%
+差	cai33	0%
+搋	cai33	0%
+猜	cai33
+瘛	cai33	0%
+蠆	cai33
+釵	cai33
+䜺	cai33
+歪	cai55	3%
+膪	cai55
+跐	cai55	0%
+跴	cai55	0%
+踩	cai55	3%
+踹	cai55	3%
+坼	cak33
+拆	cak33
+冊	cak55
+惻	cak55
+擦	cak55
+敇	cak55
+柵	cak55	0%
+測	cak55
+策	cak55
+筴	cak55
+讒	cam22
+篸	cam55	3%
+剗	can55
+滻	can55
+產	can55
+羼	can55	0%
+鏟	can55
+棖	cang22
+橙	cang22	0%
+鋥	cang22
+䁎	cang22
+撐	cang33	0%
+槍	cang33	3%
+牚	cang33
+睜	cang33	3%
+瞠	cang33	0%
+罉	cang33
+蹭	cang33	0%
+鋥	cang33
+鐣	cang33	0%
+鐺	cang33	0%
+䁎	cang33
+䟓	cang33
+扱	cap33	3%
+插	cap33
+歃	cap33	0%
+臿	cap33
+鍤	cap33
+刷	cat21
+獺	cat21	0%
+刷	cat33
+唰	cat33	0%
+嚓	cat33
+擦	cat33
+攃	cat33
+礤	cat33
+礸	cat33	0%
+䃰	cat33
+察	cat55
+檫	cat55
+巢	cau22	0%
+皺	cau22
+窼	cau22	0%
+剿	cau33	3%
+抄	cau33
+鈔	cau33	0%
+吵	cau55
+炒	cau55
+煼	cau55
+訬	cau55	0%
+參	cem33	0%
+杉	cem33
+釤	cem33	0%
+秤	cen21	3%
+稱	cen21	3%
+𦓬	cen21
+蟬	cen21	0%
+侱	cen22
+呈	cen22
+埕	cen22
+徎	cen22
+懲	cen22
+浧	cen22
+澂	cen22
+澄	cen22	3%
+澶	cen22	0%
+珵	cen22
+程	cen22
+纏	cen22	3%
+裎	cen22	0%
+躔	cen22
+逞	cen22
+郢	cen22	0%
+酲	cen22
+鋥	cen22
+餳	cen22
+𨙼	cen22
+廛	cen22
+瀍	cen22
+偁	cen33
+稱	cen33	3%
+穪	cen33
+拯	cen55
+裎	cen55	0%
+逞	cen55
+郢	cen55	0%
+騁	cen55	0%
+𩧢	cen55
+仄	cet55
+勅	cet55
+勑	cet55
+叱	cet55
+哧	cet55	3%
+尺	cet55
+屮	cet55
+彳	cet55
+徹	cet55
+掣	cet55
+撤	cet55
+敕	cet55
+斥	cet55
+沏	cet55	0%
+澈	cet55
+赤	cet55
+飭	cet55	3%
+㡿	cet55	0%
+䃎	cet55
+𢮓	cet55
+轍	cet55
+抽	ceu33
+瘳	ceu33
+篘	ceu33
+紬	ceu33
+峙	ci21	0%
+俿	ci22	0%
+倁	ci22	0%
+坻	ci22	3%
+墀	ci22
+弛	ci22	3%
+持	ci22
+池	ci22	0%
+疷	ci22	0%
+竾	ci22
+筂	ci22	0%
+箎	ci22
+篪	ci22
+胝	ci22	0%
+蚳	ci22
+踟	ci22
+遲	ci22	3%
+馳	ci22
+䶵	ci22
+嚏	ci32	0%
+杘	ci32	0%
+跮	ci32	0%
+㗣	ci32
+侈	ci33
+呲	ci33	3%
+啻	ci33
+嗤	ci33
+媸	ci33
+差	ci33	0%
+幟	ci33
+旘	ci33	0%
+滍	ci33	0%
+熾	ci33
+癡	ci33
+眙	ci33
+眵	ci33
+笞	ci33
+絺	ci33
+翄	ci33
+翅	ci33
+翤	ci33	0%
+翨	ci33
+胵	ci33
+茌	ci33
+蚩	ci33
+蚳	ci33
+螭	ci33
+褫	ci33
+魑	ci33	0%
+鴟	ci33
+黐	ci33
+始	ci55
+恥	ci55
+歯	ci55	0%
+齒	ci55
+尺	ciak21
+⻌	ciak32
+⻍	ciak32
+⻎	ciak32
+辵	ciak32
+辶	ciak32
+㚟	ciak32	0%
+呎	ciak33	3%
+尺	ciak33
+赤	ciak33
+倬	ciak55	0%
+卓	ciak55	3%
+焯	ciak55
+綽	ciak55	3%
+踔	ciak55
+逴	ciak55
+鵫	ciak55	0%
+諂	ciam55
+丈	ciang21
+場	ciang22
+塲	ciang22
+澄	ciang22	3%
+腸	ciang22
+萇	ciang22
+長	ciang22
+倀	ciang33	3%
+倡	ciang33
+唱	ciang33
+娼	ciang33
+昌	ciang33
+晿	ciang33
+猖	ciang33
+琩	ciang33
+菖	ciang33
+閶	ciang33
+鯧	ciang33
+䱽	ciang33
+悵	ciang55
+暢	ciang55
+瑒	ciang55	3%
+鬯	ciang55
+晁	ciau22	0%
+朝	ciau22	3%
+潮	ciau22
+瞅	ciau22
+瞧	ciau22
+鼂	ciau22
+怊	ciau33	0%
+繰	ciau33
+超	ciau33
+唓	cie33
+奢	cie33	0%
+硨	cie33
+車	cie33	5%
+且	cie55	3%
+尺	cie55
+扯	cie55
+撦	cie55
+趄	cie55	0%
+跙	cie55	0%
+䚀	cim21
+沈	cim22	0%
+沉	cim22	3%
+𧠿	cim22
+諂	cim33
+磣	cim55
+趻	cim55
+踸	cim55
+塵	cin22	3%
+敶	cin22	0%
+樄	cin22
+軙	cin22	0%
+迧	cin22	0%
+陳	cin22	0%
+𨻰	cin22
+儭	cin33
+嗔	cin33	0%
+櫬	cin33
+瞋	cin33
+磣	cin33
+襯	cin33
+趁	cin33
+齔	cin33
+哂	cin55	0%
+殄	cin55
+畛	cin55	0%
+疹	cin55	0%
+矧	cin55
+稹	cin55	0%
+縝	cin55	3%
+胗	cin55	0%
+蕆	cin55	0%
+訠	cin55	0%
+診	cin55	0%
+軫	cin55	3%
+闡	cin55
+鬒	cin55	0%
+㐱	cin55
+䂧	cin55
+籌	ciu21
+儔	ciu22
+幬	ciu22	0%
+惆	ciu22
+疇	ciu22
+稠	ciu22
+籌	ciu22
+紬	ciu22
+綢	ciu22
+躊	ciu22
+酧	ciu22
+酬	ciu22
+醻	ciu22
+嗅	ciu33	0%
+溴	ciu33
+獸	ciu33
+糗	ciu33	3%
+臭	ciu33
+螑	ciu33
+丑	ciu55
+醜	ciu55
+矬	co22
+耡	co22	0%
+鉏	co22	3%
+鋤	co22
+初	co33
+芻	co33
+蒭	co33	0%
+雛	co33
+鶵	co33	3%
+𥝢	co33
+憷	co55
+楚	co55
+礎	co55
+剒	cok21
+戳	cok21	0%
+剒	cok33
+戳	cok33	0%
+傳	con22	3%
+竄	con55
+瘡	cong21
+噇	cong22
+幢	cong22
+床	cong22	0%
+橦	cong22
+牀	cong22
+創	cong55
+廠	cong55
+惝	cong55
+敞	cong55
+昶	cong55	0%
+氅	cong55
+闖	cong55	3%
+耡	cu22	0%
+鉏	cu22	3%
+鋤	cu22
+佇	cui21
+儲	cui21	0%
+壴	cui21
+宁	cui21	0%
+杵	cui21	3%
+杼	cui21
+柱	cui21
+楮	cui21	3%
+槌	cui21
+砫	cui21	0%
+紵	cui21
+苧	cui21
+處	cui21	3%
+褚	cui21	3%
+貯	cui21	3%
+幮	cui22	0%
+廚	cui22	0%
+捶	cui22
+棰	cui22	0%
+椎	cui22
+櫥	cui22	0%
+滁	cui22	0%
+箠	cui22	0%
+篨	cui22	0%
+蜍	cui22	3%
+蠩	cui22
+躇	cui22	3%
+躕	cui22	0%
+錘	cui22
+鎚	cui22
+除	cui22	3%
+吹	cui33	3%
+炊	cui33	0%
+䶴	cui33
+処	cui55
+處	cui55	3%
+亍	cuk55
+俶	cuk55
+怵	cuk55	0%
+搐	cuk55	3%
+束	cuk55
+畜	cuk55
+矗	cuk55
+蓄	cuk55
+觸	cuk55
+豖	cuk55
+串	cun21	3%
+膥	cun21	0%
+傳	cun22	3%
+串	cun33	3%
+巛	cun33
+川	cun33
+攢	cun33	3%
+旾	cun33
+春	cun33
+椿	cun33
+氚	cun33
+汌	cun33
+穿	cun33
+蝽	cun33
+釧	cun33
+鰆	cun33
+喘	cun55
+忖	cun55
+揣	cun55
+湍	cun55	0%
+猯	cun55	0%
+篅	cun55
+舛	cun55
+蠢	cun55
+貒	cun55	0%
+踳	cun55
+遄	cun55	0%
+䦟	cun55	0%
+涌	cung21	0%
+蟲	cung21
+种	cung22	0%
+虫	cung22	3%
+蟲	cung22
+重	cung22
+充	cung33
+冢	cung33
+寵	cung33
+忡	cung33
+憃	cung33
+憧	cung33	0%
+揰	cung33
+橦	cung33
+沖	cung33
+浺	cung33
+珫	cung33
+罿	cung33
+翀	cung33
+艟	cung33	3%
+茺	cung33
+衝	cung33	3%
+衷	cung33
+謥	cung33
+重	cung33
+銃	cung33
+㤝	cung33
+㳘	cung33
+䆔	cung33
+䆹	cung33
+䘪	cung33
+𡺪	cung33
+𥅻	cung33
+出	cut55
+黢	cut55
+齣	cut55
+咑	da22	3%
 打	da55	5%
 䍤	dai21
-濟	dai31
+濟	dai32
 儕	dai33
 嚌	dai33
 懠	dai33
@@ -1344,7 +1344,7 @@ import_tables:
 賫	dai55
 躋	dai55
 齎	dai55	0%
-自	dak31
+自	dak32
 則	dak33
 得	dak33
 則	dak55
@@ -1352,10 +1352,10 @@ import_tables:
 襶	dak55	0%
 鯽	dak55	3%
 昨	dam21
-蘸	dam31
+蘸	dam32
 簪	dam33
 泵	dam55
-彈	dan31
+彈	dan32
 偺	dan33	0%
 喒	dan33	0%
 昝	dan33	0%
@@ -1369,9 +1369,9 @@ import_tables:
 纘	dan55
 趲	dan55	0%
 甑	dang21	0%
-贈	dang31
-蹭	dang31	0%
-鋥	dang31
+贈	dang32
+蹭	dang32	0%
+鋥	dang32
 噌	dang33	0%
 增	dang33	0%
 嶒	dang33
@@ -1380,259 +1380,259 @@ import_tables:
 矰	dang33
 繒	dang33	3%
 罾	dang33	3%
-灶	dao21	0%
-竈	dao21
-叨	dao31
-唣	dao31
-慥	dao31
-皁	dao31	0%
-皂	dao31	0%
-簉	dao31	0%
-造	dao31	3%
-糟	dao33
-遭	dao33
-醩	dao33	0%
-倒	dao55	3%
-早	dao55
-棗	dao55
-蚤	dao55
-䖣	dao55
-𧎮	dao55
-什	dap31	3%
-矺	dap31
-襲	dap31	0%
-集	dap31	0%
-雜	dap31
-雥	dap31
+什	dap32	3%
+矺	dap32
+襲	dap32	0%
+集	dap32	0%
+雜	dap32
+雥	dap32
 噠	dat33	3%
-嗟	deh31
-榭	deh31
-謝	deh31
-借	deh33
-嗟	deh33
-姐	deh55
-卩	deik21
-節	deik21
-借	deik31
-夕	deik31
-寂	deik31
-席	deik31	3%
-截	deik31
-昳	deik31
-汐	deik31
-矽	deik31
-穸	deik31
-籍	deik31
-莋	deik31
-藉	deik31	3%
-褯	deik31
-節	deik33
-勣	deik55
-即	deik55
-卽	deik55
-唧	deik55	3%
-櫛	deik55
-漬	deik55	3%
-癤	deik55
-的	deik55
-磧	deik55	0%
-稷	deik55
-積	deik55
-節	deik55
-績	deik55	0%
-襀	deik55
-跡	deik55	0%
-蹐	deik55	3%
-蹟	deik55
-鯽	deik55	3%
-䲙	deik55
-䳭	deik55
-泵	deim55
-凈	dein31	0%
-凊	dein31	0%
-婧	dein31
-汬	dein31
-淨	dein31	3%
-濺	dein31
-穽	dein31
-竫	dein31
-賤	dein31
-踐	dein31
-阱	dein31	0%
-靖	dein31
-靘	dein31
-靚	dein31
-靜	dein31
-餞	dein31	0%
-𩓞	dein31
-墊	dein33	3%
-戔	dein33	3%
-旌	dein33
-晶	dein33
-毯	dein33
-淺	dein33	3%
-湔	dein33	0%
-濺	dein33
-煎	dein33
-牋	dein33
-牮	dein33
-睛	dein33
-箋	dein33
-箐	dein33	3%
-箭	dein33
-精	dein33	3%
-腈	dein33
-菁	dein33	0%
-薦	dein33
-韀	dein33
-韉	dein33
-鶄	dein33
-鼱	dein33	3%
-𣻒	dein33
-𣻓	dein33
-𦜳	dein33
-𩓨	dein33
-井	dein55
-剪	dein55
-劗	dein55	3%
-戩	dein55
-揃	dein55
-翦	dein55
-肼	dein55
-譾	dein55
-餞	dein55	0%
-鬋	dein55	0%
-𨙷	dein55
-脊	dek21	3%
-跡	dek21	0%
-雀	dek21	3%
-席	dek31	3%
-蓆	dek31
-嵴	dek33	0%
-瘠	dek33	3%
-績	dek33	0%
-脊	dek33	3%
-鶺	dek33	3%
-叕	dek55
-啄	dek55	3%
-嚼	dek55	3%
-斫	dek55
-椓	dek55
-櫡	dek55	0%
-涿	dek55
-爝	dek55	0%
-爵	dek55
-琢	dek55
-罬	dek55
-諑	dek55
-雀	dek55	3%
-蕉	del21
-瞧	del11
-噍	del31	0%
-僬	del33	3%
-劁	del33
-噍	del33	0%
-嚼	del33	3%
-椒	del33
-焦	del33
-礁	del33
-蟭	del33
-醮	del33
-鷦	del33
-剿	del55	3%
-湫	del55	3%
-尖	dem21
-櫼	dem21	0%
-僭	dem31	3%
-暫	dem31
-漸	dem31	3%
-蹔	dem31
-尖	dem33
-櫼	dem33	0%
-漸	dem33	3%
-瀸	dem33	0%
-釘	deng21
-像	deng31
-凈	deng31	0%
-匞	deng31	0%
-匠	deng31
-橡	deng31
-淨	deng31	3%
-繒	deng31	3%
-蟓	deng31
-象	deng31
-將	deng33	3%
-漿	deng33
-糡	deng33
-糨	deng33	0%
-螿	deng33
-醤	deng33	0%
-醬	deng33
-鏘	deng33
-丼	deng55	0%
-井	deng55
-槳	deng55
-汫	deng55
-獎	deng55
-蔣	deng55	3%
-阱	deng55	0%
-䒂	deng55
-豆	deo31	3%
-奏	deo33	0%
-揍	deo33	0%
-楱	deo33
-甃	deo33
-腠	deo33	3%
-㔿	deo33
-走	deo55
-龰	deo55
-婕	dep31	3%
-捷	dep31	3%
-洽	dep31	3%
-睫	dep31	0%
-箑	dep31	3%
-霅	dep31	0%
-接	dep33
-接	dep55
+灶	dau21	0%
+竈	dau21
+叨	dau32
+唣	dau32
+慥	dau32
+皁	dau32	0%
+皂	dau32	0%
+簉	dau32	0%
+造	dau32	3%
+糟	dau33
+遭	dau33
+醩	dau33	0%
+倒	dau55	3%
+早	dau55
+棗	dau55
+蚤	dau55
+䖣	dau55
+𧎮	dau55
+泵	dem55
+凈	den32	0%
+凊	den32	0%
+婧	den32
+汬	den32
+淨	den32	3%
+濺	den32
+穽	den32
+竫	den32
+賤	den32
+踐	den32
+阱	den32	0%
+靖	den32
+靘	den32
+靚	den32
+靜	den32
+餞	den32	0%
+𩓞	den32
+墊	den33	3%
+戔	den33	3%
+旌	den33
+晶	den33
+毯	den33
+淺	den33	3%
+湔	den33	0%
+濺	den33
+煎	den33
+牋	den33
+牮	den33
+睛	den33
+箋	den33
+箐	den33	3%
+箭	den33
+精	den33	3%
+腈	den33
+菁	den33	0%
+薦	den33
+韀	den33
+韉	den33
+鶄	den33
+鼱	den33	3%
+𣻒	den33
+𣻓	den33
+𦜳	den33
+𩓨	den33
+井	den55
+剪	den55
+劗	den55	3%
+戩	den55
+揃	den55
+翦	den55
+肼	den55
+譾	den55
+餞	den55	0%
+鬋	den55	0%
+𨙷	den55
+卩	det21
+節	det21
+借	det32
+夕	det32
+寂	det32
+席	det32	3%
+截	det32
+昳	det32
+汐	det32
+矽	det32
+穸	det32
+籍	det32
+莋	det32
+藉	det32	3%
+褯	det32
+節	det33
+勣	det55
+即	det55
+卽	det55
+唧	det55	3%
+櫛	det55
+漬	det55	3%
+癤	det55
+的	det55
+磧	det55	0%
+稷	det55
+積	det55
+節	det55
+績	det55	0%
+襀	det55
+跡	det55	0%
+蹐	det55	3%
+蹟	det55
+鯽	det55	3%
+䲙	det55
+䳭	det55
+豆	deu32	3%
+奏	deu33	0%
+揍	deu33	0%
+楱	deu33
+甃	deu33
+腠	deu33	3%
+㔿	deu33
+走	deu55
+龰	deu55
 螆	di21
-地	di31	0%
+地	di32	0%
 螆	di33
 姉	di55
 姊	di55	0%
 秭	di55
+脊	diak21	3%
+跡	diak21	0%
+雀	diak21	3%
+席	diak32	3%
+蓆	diak32
+嵴	diak33	0%
+瘠	diak33	3%
+績	diak33	0%
+脊	diak33	3%
+鶺	diak33	3%
+叕	diak55
+啄	diak55	3%
+嚼	diak55	3%
+斫	diak55
+椓	diak55
+櫡	diak55	0%
+涿	diak55
+爝	diak55	0%
+爵	diak55
+琢	diak55
+罬	diak55
+諑	diak55
+雀	diak55	3%
+尖	diam21
+櫼	diam21	0%
+僭	diam32	3%
+暫	diam32
+漸	diam32	3%
+蹔	diam32
+尖	diam33
+櫼	diam33	0%
+漸	diam33	3%
+瀸	diam33	0%
+釘	diang21
+像	diang32
+凈	diang32	0%
+匞	diang32	0%
+匠	diang32
+橡	diang32
+淨	diang32	3%
+繒	diang32	3%
+蟓	diang32
+象	diang32
+將	diang33	3%
+漿	diang33
+糡	diang33
+糨	diang33	0%
+螿	diang33
+醤	diang33	0%
+醬	diang33
+鏘	diang33
+丼	diang55	0%
+井	diang55
+槳	diang55
+汫	diang55
+獎	diang55
+蔣	diang55	3%
+阱	diang55	0%
+䒂	diang55
+婕	diap32	3%
+捷	diap32	3%
+洽	diap32	3%
+睫	diap32	0%
+箑	diap32	3%
+霅	diap32	0%
+接	diap33
+接	diap55
+蕉	diau21
+瞧	diau22
+噍	diau32	0%
+僬	diau33	3%
+劁	diau33
+噍	diau33	0%
+嚼	diau33	3%
+椒	diau33
+焦	diau33
+礁	diau33
+蟭	diau33
+醮	diau33
+鷦	diau33
+剿	diau55	3%
+湫	diau55	3%
+嗟	die32
+榭	die32
+謝	die32
+借	die33
+嗟	die33
+姐	die55
 浸	dim33	3%
 祲	dim33	0%
 怎	dim55	0%
-儘	din31
-濜	din31
-燼	din31	0%
-盡	din31	0%
-藎	din31	0%
+儘	din32
+濜	din32
+燼	din32	0%
+盡	din32	0%
+藎	din32	0%
 進	din33
-嫉	dip31	0%
-嶍	dip31
-疾	dip31	0%
-習	dip31	0%
-蒺	dip31	0%
-隰	dip31
-鰼	dip31
+嫉	dip32	0%
+嶍	dip32
+疾	dip32	0%
+習	dip32	0%
+蒺	dip32	0%
+隰	dip32
+鰼	dip32
 叫	diu21
-僦	diu31	0%
-就	diu31
-岫	diu31
-袖	diu31
-鷲	diu31
+僦	diu32	0%
+就	diu32
+岫	diu32
+袖	diu32
+鷲	diu32
 叫	diu33
 召	diu33	0%
 酒	diu55
-坐	do31
-座	do31	3%
-怍	do31
-祚	do31
-胙	do31
-阼	do31
-在	doi31
-扗	doi31	0%
+坐	do32
+座	do32	3%
+怍	do32
+祚	do32
+胙	do32
+阼	do32
+在	doi32
+扗	doi32	0%
 再	doi33
 哉	doi33
 栽	doi33
@@ -1653,13 +1653,13 @@ import_tables:
 莋	dok21
 葃	dok21
 雹	dok21
-怍	dok31
-柞	dok31	0%
-砟	dok31	0%
-笮	dok31	0%
-酢	dok31
-鐸	dok31	0%
-鑿	dok31
+怍	dok32
+柞	dok32	0%
+砟	dok32	0%
+笮	dok32	0%
+酢	dok32
+鐸	dok32	0%
+鑿	dok32
 作	dok33
 作	dok55
 躦	don33
@@ -1670,9 +1670,9 @@ import_tables:
 篹	don55	3%
 纂	don55
 鑽	don55	3%
-牂	dong31
-臟	dong31
-藏	dong31	3%
+牂	dong32
+臟	dong32
+藏	dong32	3%
 檔	dong33
 臧	dong33	0%
 葬	dong33
@@ -1681,21 +1681,21 @@ import_tables:
 擋	dong55
 嘬	dot33	0%
 嘬	dot55	0%
-伺	du31	3%
-俟	du31
-嗣	du31
-字	du31
-寺	du31
-巳	du31
-汜	du31
-牸	du31
-祀	du31
-禩	du31
-竢	du31
-耜	du31	0%
-自	du31
-食	du31	3%
-飼	du31
+伺	du32	3%
+俟	du32
+嗣	du32
+字	du32
+寺	du32
+巳	du32
+汜	du32
+牸	du32
+祀	du32
+禩	du32
+竢	du32
+耜	du32	0%
+自	du32
+食	du32	3%
+飼	du32
 佐	du33
 做	du33
 呲	du33	3%
@@ -1750,16 +1750,16 @@ import_tables:
 訿	du55	0%
 都	du55
 釨	du55
-嶼	dui31	3%
-序	dui31
-敘	dui31
-漵	dui31
-罪	dui31
-聚	dui31
-足	dui31	0%
-辠	dui31
-隊	dui31	0%
-鱮	dui31
+嶼	dui32	3%
+序	dui32
+敘	dui32
+漵	dui32
+罪	dui32
+聚	dui32
+足	dui32	0%
+辠	dui32
+隊	dui32	0%
+鱮	dui32
 晬	dui33
 最	dui33
 槜	dui33
@@ -1784,27 +1784,27 @@ import_tables:
 趄	dui55	0%
 跙	dui55	0%
 齟	dui55	0%
-俗	duk31
-匵	duk31
-娖	duk31	3%
-族	duk31	3%
-柚	duk31	3%
-櫝	duk31
-濁	duk31
-瀆	duk31	3%
-牘	duk31
-犢	duk31
-續	duk31
-躅	duk31	3%
-鏃	duk31	0%
-黷	duk31
-䠱	duk31
+俗	duk32
+匵	duk32
+娖	duk32	3%
+族	duk32	3%
+柚	duk32	3%
+櫝	duk32
+濁	duk32
+瀆	duk32	3%
+牘	duk32
+犢	duk32
+續	duk32
+躅	duk32	3%
+鏃	duk32	0%
+黷	duk32
+䠱	duk32
 足	duk33	0%
 浞	duk55	0%
 足	duk55	0%
 樽	dun21
 罇	dun21
-扽	dun31	3%
+扽	dun32	3%
 俊	dun33
 尊	dun33
 峻	dun33
@@ -1834,11 +1834,11 @@ import_tables:
 糉	dung21
 糭	dung21	0%
 𧄓	dung21
-吅	dung31	0%
-瘲	dung31
-訟	dung31
-誦	dung31
-頌	dung31	0%
+吅	dung32	0%
+瘲	dung32
+訟	dung32
+誦	dung32
+頌	dung32	0%
 宗	dung33
 嵷	dung33
 嵸	dung33
@@ -1882,226 +1882,148 @@ import_tables:
 𦁕	dung55
 𨍈	dung55
 𨍉	dung55
-絕	dut31	0%
+絕	dut32	0%
 卒	dut55	3%
 嘟	dut55
 捽	dut55	0%
-欸	e31	3%
-誒	e31	0%
+欸	e32	3%
+誒	e32	0%
 欸	e33	3%
 誒	e33	0%
-欸	e35	3%
-誒	e35	0%
+欸	e335	3%
+誒	e335	0%
 欸	e55	3%
 誒	e55	0%
-爹	eh33
-嗲	eh55
-佚	eik31
-垤	eik31
-帙	eik31
-敵	eik31
-滌	eik31
-滴	eik31	5%
-狄	eik31	3%
-瓞	eik31
-秩	eik31
-紩	eik31
-絰	eik31
-翟	eik31
-耋	eik31
-荻	eik31
-螲	eik31	0%
-袠	eik31
-覿	eik31
-詄	eik31
-踧	eik31	0%
-軼	eik31	0%
-迪	eik31
-迭	eik31	3%
-逖	eik31	3%
-逷	eik31
-渧	eik33
-跌	eik33	0%
-嘀	eik55
-嫡	eik55
-的	eik55
-菂	eik55
-蹢	eik55	0%
-鍉	eik55
-鏑	eik55	0%
-鵪	eim33
-佃	ein31
-啶	ein31
-奠	ein31
-定	ein31	3%
-掟	ein31	0%
-椗	ein31
-殿	ein31
-澱	ein31
-甸	ein31	3%
-癜	ein31
-矴	ein31
-碇	ein31
-碘	ein31
-簟	ein31	3%
-腚	ein31
-訂	ein31	3%
-錠	ein31	0%
-電	ein31
-靛	ein31
-㝎	ein31
-𥇓	ein31
-丁	ein33	3%
-仃	ein33
-叮	ein33
-奵	ein33
-巔	ein33
-攧	ein33
-汀	ein33	0%
-滇	ein33	3%
-玎	ein33
-町	ein33	3%
-疔	ein33	3%
-癲	ein33
-耵	ein33	0%
-艼	ein33
-訂	ein33	3%
-酊	ein33
-顚	ein33	0%
-顛	ein33
-飣	ein33
-㣔	ein33
-䟓	ein33
-典	ein55
-奵	ein55
-濎	ein55
-碘	ein55
-腆	ein55
-覥	ein55
-靦	ein55
-頂	ein55	3%
-鼎	ein55
-㴿	ein55
-䅍	ein55
-𥟐	ein55
-𧡝	ein55
-𩕢	ein55
-𩠑	ein55
-踏	eip31
-𢱕	eip31
-笛	ek31	3%
-糴	ek31
-渧	ek33
-滴	ek33	5%
-琢	ek33
-趯	ek33
-剁	ek55	3%
-啄	ek55	3%
-斫	ek55
-斮	ek55	3%
-斲	ek55	0%
-斵	ek55	0%
-滴	ek55	5%
-㓸	ek55
-窅	el21
-丟	el31
-掉	el31	0%
-敦	el31	3%
-窕	el31	0%
-調	el31	0%
-銩	el31
-凋	el33
-刁	el33
-叼	el33
-吊	el33
-弔	el33	0%
-彫	el33
-汈	el33
-碉	el33
-窵	el33
-藋	el33
-貂	el33
-踔	el33
-釣	el33
-銱	el33
-雕	el33
-鮉	el33	0%
-鯛	el33
-掂	em31	5%
-坫	em33
-埝	em33
-店	em33
-惦	em33
-掂	em33	5%
-敁	em33	0%
-玷	em33	0%
-痁	em33
-跕	em33	3%
-踮	em33	0%
-阽	em33
-丶	em55
-點	em55
-丁	eng21	3%
-釘	eng21
-靪	eng21
-定	eng31	3%
-訂	eng31	3%
-掟	eng33	0%
-盯	eng33	3%
-釘	eng33
-靪	eng33
-頂	eng55	3%
-竇	eo21	3%
-痘	eo31	3%
-竇	eo31	3%
-脰	eo31
-荳	eo31
-讀	eo31	3%
-豆	eo31	3%
-逗	eo31
-餖	eo31
-兜	eo33
-區	eo33
-唗	eo33
-嘔	eo33	3%
-媼	eo33
-嫗	eo33	0%
-慪	eo33	3%
-歐	eo33	0%
-毆	eo33	3%
-漚	eo33
-甌	eo33
-瞘	eo33
-篼	eo33
-蔸	eo33
-謳	eo33
-鬥	eo33
-鬦	eo33
-鬪	eo33	0%
-鬭	eo33
-鷗	eo33
-唗	eo55
-嘔	eo55	3%
-抖	eo55
-斗	eo55	0%
-枓	eo55
-蚪	eo55
-鈄	eo55
-陡	eo55
-喋	ep31	3%
-堞	ep31
-挕	ep31
-揲	ep31	3%
-楪	ep31	0%
-牒	ep31
-疊	ep31	0%
-碟	ep31	3%
-蝶	ep31	3%
-諜	ep31
-蹀	ep31
-鰈	ep31
-㲲	ep31
-喋	ep55	3%
+鵪	em33
+佃	en32
+啶	en32
+奠	en32
+定	en32	3%
+掟	en32	0%
+椗	en32
+殿	en32
+澱	en32
+甸	en32	3%
+癜	en32
+矴	en32
+碇	en32
+碘	en32
+簟	en32	3%
+腚	en32
+訂	en32	3%
+錠	en32	0%
+電	en32
+靛	en32
+㝎	en32
+𥇓	en32
+丁	en33	3%
+仃	en33
+叮	en33
+奵	en33
+巔	en33
+攧	en33
+汀	en33	0%
+滇	en33	3%
+玎	en33
+町	en33	3%
+疔	en33	3%
+癲	en33
+耵	en33	0%
+艼	en33
+訂	en33	3%
+酊	en33
+顚	en33	0%
+顛	en33
+飣	en33
+㣔	en33
+䟓	en33
+典	en55
+奵	en55
+濎	en55
+碘	en55
+腆	en55
+覥	en55
+靦	en55
+頂	en55	3%
+鼎	en55
+㴿	en55
+䅍	en55
+𥟐	en55
+𧡝	en55
+𩕢	en55
+𩠑	en55
+踏	ep32
+𢱕	ep32
+佚	et32
+垤	et32
+帙	et32
+敵	et32
+滌	et32
+滴	et32	5%
+狄	et32	3%
+瓞	et32
+秩	et32
+紩	et32
+絰	et32
+翟	et32
+耋	et32
+荻	et32
+螲	et32	0%
+袠	et32
+覿	et32
+詄	et32
+踧	et32	0%
+軼	et32	0%
+迪	et32
+迭	et32	3%
+逖	et32	3%
+逷	et32
+渧	et33
+跌	et33	0%
+嘀	et55
+嫡	et55
+的	et55
+菂	et55
+蹢	et55	0%
+鍉	et55
+鏑	et55	0%
+竇	eu21	3%
+痘	eu32	3%
+竇	eu32	3%
+脰	eu32
+荳	eu32
+讀	eu32	3%
+豆	eu32	3%
+逗	eu32
+餖	eu32
+兜	eu33
+區	eu33
+唗	eu33
+嘔	eu33	3%
+媼	eu33
+嫗	eu33	0%
+慪	eu33	3%
+歐	eu33	0%
+毆	eu33	3%
+漚	eu33
+甌	eu33
+瞘	eu33
+篼	eu33
+蔸	eu33
+謳	eu33
+鬥	eu33
+鬦	eu33
+鬪	eu33	0%
+鬭	eu33
+鷗	eu33
+唗	eu55
+嘔	eu55	3%
+抖	eu55
+斗	eu55	0%
+枓	eu55
+蚪	eu55
+鈄	eu55
+陡	eu55
 化	fa21	3%
 化	fa33	3%
 花	fa33	0%
@@ -2118,35 +2040,35 @@ import_tables:
 瓣	fan21
 畈	fan21
 販	fan21	0%
-凡	fan11
-帆	fan11	0%
-梵	fan11
-樊	fan11
-煩	fan11
-燔	fan11
-璠	fan11
-礬	fan11	0%
-笲	fan11
-籓	fan11
-籵	fan11	0%
-緐	fan11
-繁	fan11	3%
-膰	fan11
-蕃	fan11	3%
-藩	fan11
-蘩	fan11
-襎	fan11	0%
-蹯	fan11
-軬	fan11
-釩	fan11
-颿	fan11
-㠶	fan11
-樊	fan31
-泛	fan31	3%
-犯	fan31
-範	fan31
-范	fan31
-飯	fan31	3%
+凡	fan22
+帆	fan22	0%
+梵	fan22
+樊	fan22
+煩	fan22
+燔	fan22
+璠	fan22
+礬	fan22	0%
+笲	fan22
+籓	fan22
+籵	fan22	0%
+緐	fan22
+繁	fan22	3%
+膰	fan22
+蕃	fan22	3%
+藩	fan22
+蘩	fan22
+襎	fan22	0%
+蹯	fan22
+軬	fan22
+釩	fan22
+颿	fan22
+㠶	fan22
+樊	fan32
+泛	fan32	3%
+犯	fan32
+範	fan32
+范	fan32
+飯	fan32	3%
 幡	fan33
 番	fan33	3%
 繙	fan33
@@ -2155,22 +2077,22 @@ import_tables:
 返	fan33	0%
 飜	fan33
 反	fan55	3%
-吰	fang11
-宏	fang11
-弘	fang11
-汯	fang11
-泓	fang11
-竑	fang11
-竤	fang11	0%
-閎	fang11
-乏	fat31
-伐	fat31
-垡	fat31
-栰	fat31	0%
-筏	fat31
-罰	fat31
-罸	fat31
-閥	fat31
+吰	fang22
+宏	fang22
+弘	fang22
+汯	fang22
+泓	fang22
+竑	fang22
+竤	fang22	0%
+閎	fang22
+乏	fat32
+伐	fat32
+垡	fat32
+栰	fat32	0%
+筏	fat32
+罰	fat32
+罸	fat32
+閥	fat32
 發	fat33	3%
 醱	fat33
 法	fat55	0%
@@ -2179,39 +2101,37 @@ import_tables:
 砝	fat55	0%
 髪	fat55	0%
 髮	fat55	0%
-啡	feh21
-啡	feh55
-桴	feo11	0%
-浮	feo11
-涪	feo11
-罘	feo11
-芣	feo11
-蜉	feo11
-齁	feo11
-埠	feo31	3%
-缶	feo31
-阜	feo31
-否	feo55	0%
+桴	feu22	0%
+浮	feu22
+涪	feu22
+罘	feu22
+芣	feu22
+蜉	feu22
+齁	feu22
+埠	feu32	3%
+缶	feu32
+阜	feu32
+否	feu55	0%
 飛	fi21
-淝	fi11	0%
-肥	fi11	0%
-蜰	fi11	0%
-裴	fi11
-僡	fi31
-吠	fi31
-喙	fi31
-彗	fi31	3%
-恚	fi31	0%
-惠	fi31
-慧	fi31	3%
-憓	fi31
-槥	fi31
-潓	fi31
-篲	fi31	0%
-蔧	fi31
-蕙	fi31
-蟪	fi31
-㱱	fi31
+淝	fi22	0%
+肥	fi22	0%
+蜰	fi22	0%
+裴	fi22
+僡	fi32
+吠	fi32
+喙	fi32
+彗	fi32	3%
+恚	fi32	0%
+惠	fi32
+慧	fi32	3%
+憓	fi32
+槥	fi32
+潓	fi32
+篲	fi32	0%
+蔧	fi32
+蕙	fi32
+蟪	fi32
+㱱	fi32
 剕	fi33	0%
 剕	fi33	0%
 妃	fi33	3%
@@ -2262,6 +2182,8 @@ import_tables:
 誹	fi55
 隳	fi55
 䨾	fi55
+啡	fie21
+啡	fie55
 匼	fo33	0%
 堁	fo33
 戈	fo33
@@ -2281,8 +2203,8 @@ import_tables:
 灬	fo55
 鈥	fo55
 顆	fo55	3%
-咍	foi11	0%
-㾂	foi11
+咍	foi22	0%
+㾂	foi22
 傀	foi33
 咴	foi33
 喹	foi33
@@ -2299,15 +2221,15 @@ import_tables:
 悔	foi55
 晦	foi55
 誨	foi55
-縛	fok31	0%
+縛	fok32	0%
 霍	fok55
 靃	fok55	0%
-喚	fon31
-奐	fon31
-渙	fon31
-煥	fon31
-瘓	fon31
-緩	fon31	0%
+喚	fon32
+奐	fon32
+渙	fon32
+煥	fon32
+瘓	fon32
+緩	fon32	0%
 寛	fon33	0%
 寬	fon33
 歡	fon33
@@ -2325,9 +2247,9 @@ import_tables:
 莞	fon55	3%
 詪	fon55	0%
 房	fong21	3%
-妨	fong11
-防	fong11
-魴	fong11
+妨	fong22
+防	fong22
+魴	fong22
 匚	fong33
 塃	fong33
 慌	fong33	3%
@@ -2372,47 +2294,47 @@ import_tables:
 絝	fu21
 袴	fu21
 褲	fu21
-乎	fu11	0%
-俘	fu11
-夫	fu11
-孚	fu11
-孵	fu11
-扶	fu11	0%
-枎	fu11
-桴	fu11	0%
-烀	fu11
-稃	fu11
-符	fu11
-罦	fu11	3%
-芙	fu11
-苻	fu11
-莩	fu11
-虖	fu11
-蚨	fu11	0%
-郛	fu11
-鄜	fu11
-鈇	fu11
-鳧	fu11
-付	fu31
-傅	fu31	0%
-怙	fu31
-戶	fu31
-戸	fu31	0%
-扈	fu31
-敷	fu31
-柎	fu31
-滬	fu31
-父	fu31
-祜	fu31	0%
-腐	fu31
-訃	fu31
-負	fu31
-賻	fu31
-輔	fu31
-鄠	fu31
-附	fu31
-駙	fu31
-鮒	fu31
+乎	fu22	0%
+俘	fu22
+夫	fu22
+孚	fu22
+孵	fu22
+扶	fu22	0%
+枎	fu22
+桴	fu22	0%
+烀	fu22
+稃	fu22
+符	fu22
+罦	fu22	3%
+芙	fu22
+苻	fu22
+莩	fu22
+虖	fu22
+蚨	fu22	0%
+郛	fu22
+鄜	fu22
+鈇	fu22
+鳧	fu22
+付	fu32
+傅	fu32	0%
+怙	fu32
+戶	fu32
+戸	fu32	0%
+扈	fu32
+敷	fu32
+柎	fu32
+滬	fu32
+父	fu32
+祜	fu32	0%
+腐	fu32
+訃	fu32
+負	fu32
+賻	fu32
+輔	fu32
+鄠	fu32
+附	fu32
+駙	fu32
+鮒	fu32
 仆	fu33	3%
 伕	fu33
 副	fu33	3%
@@ -2467,22 +2389,22 @@ import_tables:
 䯽	fu55
 𩭍	fu55
 伏	fuk21	0%
-伏	fuk31	0%
-匐	fuk31	0%
-宓	fuk31
-幞	fuk31
-復	fuk31
-斛	fuk31	0%
-服	fuk31
-栿	fuk31
-洑	fuk31	3%
-絥	fuk31	0%
-茯	fuk31
-菔	fuk31
-袱	fuk31
-襆	fuk31
-鴔	fuk31
-𩢰	fuk31
+伏	fuk32	0%
+匐	fuk32	0%
+宓	fuk32
+幞	fuk32
+復	fuk32
+斛	fuk32	0%
+服	fuk32
+栿	fuk32
+洑	fuk32	3%
+絥	fuk32	0%
+茯	fuk32
+菔	fuk32
+袱	fuk32
+襆	fuk32
+鴔	fuk32
+𩢰	fuk32
 幅	fuk55
 復	fuk55
 福	fuk55	3%
@@ -2501,22 +2423,22 @@ import_tables:
 瀵	fun21
 糞	fun21
 鱝	fun21
-垣	fun11
-墳	fun11	3%
-桓	fun11
-汾	fun11
-洹	fun11	0%
-濆	fun11	3%
-焚	fun11	0%
-萑	fun11
-蚠	fun11	0%
-蚡	fun11
-豶	fun11
-賁	fun11	0%
-鼢	fun11
-份	fun31	0%
-分	fun31
-坌	fun31
+垣	fun22
+墳	fun22	3%
+桓	fun22
+汾	fun22
+洹	fun22	0%
+濆	fun22	3%
+焚	fun22	0%
+萑	fun22
+蚠	fun22	0%
+蚡	fun22
+豶	fun22
+賁	fun22	0%
+鼢	fun22
+份	fun32	0%
+分	fun32
+坌	fun32
 分	fun33
 勛	fun33	0%
 勳	fun33
@@ -2549,19 +2471,19 @@ import_tables:
 閽	fun33
 䎜	fun33
 粉	fun55
-摓	fung11
-渢	fung11	3%
-漨	fung11
-縫	fung11	3%
-艂	fung11
-菶	fung11
-逢	fung11	3%
-馮	fung11	3%
-𠗦	fung11
-塳	fung31
-奉	fung31
-甮	fung31
-鳳	fung31
+摓	fung22
+渢	fung22	3%
+漨	fung22
+縫	fung22	3%
+艂	fung22
+菶	fung22
+逢	fung22	3%
+馮	fung22	3%
+𠗦	fung22
+塳	fung32
+奉	fung32
+甮	fung32
+鳳	fung32
 仹	fung33
 夆	fung33	0%
 妦	fung33
@@ -2597,8 +2519,8 @@ import_tables:
 賵	fung55	3%
 䩬	fung55
 忽	fut21
-佛	fut31	0%
-怫	fut31	0%
+佛	fut32	0%
+怫	fut32	0%
 㧾	fut33
 佛	fut55	0%
 唿	fut55
@@ -2683,8 +2605,8 @@ import_tables:
 街	gai21
 髻	gai21
 䯻	gai21
-偈	gai31
-計	gai31
+偈	gai32
+計	gai32
 乖	gai33
 介	gai33	3%
 价	gai33
@@ -2812,7 +2734,7 @@ import_tables:
 鹼	gan55
 𥳑	gan55
 逕	gang21	0%
-逛	gang31
+逛	gang32
 侊	gang33	0%
 埂	gang33
 庚	gang33
@@ -2843,68 +2765,6 @@ import_tables:
 綆	gang55
 耿	gang55	0%
 骾	gang55	0%
-交	gao21
-篙	gao21
-嚿	gao31
-交	gao33
-告	gao33
-峧	gao33
-教	gao33	3%
-斠	gao33	3%
-校	gao33
-槔	gao33
-櫜	gao33
-滘	gao33
-漖	gao33
-皋	gao33
-睾	gao33
-窌	gao33
-窖	gao33
-篙	gao33
-糕	gao33
-羔	gao33
-羙	gao33	0%
-膏	gao33	3%
-膠	gao33
-臯	gao33
-艽	gao33	3%
-茭	gao33
-蛟	gao33
-覺	gao33
-誥	gao33
-跤	gao33
-較	gao33	3%
-郊	gao33
-郜	gao33
-鉸	gao33	3%
-鋯	gao33
-韟	gao33	0%
-餻	gao33
-高	gao33
-鮫	gao33
-鵁	gao33
-㬵	gao33
-佼	gao55
-姣	gao55
-搞	gao55
-攪	gao55
-晈	gao55	0%
-杲	gao55
-槀	gao55
-槁	gao55
-狡	gao55
-皎	gao55
-稁	gao55	0%
-稾	gao55
-稿	gao55
-絞	gao55	3%
-縞	gao55
-蒿	gao55
-藁	gao55
-藳	gao55
-鎬	gao55
-餃	gao55
-高	gao55
 合	gap21	3%
 夾	gap21	3%
 甲	gap21
@@ -2939,255 +2799,239 @@ import_tables:
 軋	gat55	3%
 釓	gat55	3%
 鴰	gat55
-嘅	geh33	100%
-呱	geh55	3%
-偈	geik31
-傑	geik31
-桀	geik31
-極	geik31	3%
-竭	geik31
-羯	geik31	0%
-結	geik33	3%
-亟	geik55
-墼	geik55
-戟	geik55
-拮	geik55	3%
-挈	geik55	3%
-擊	geik55
-棘	geik55	0%
-殛	geik55
-潔	geik55
-激	geik55
-結	geik55	3%
-絜	geik55
-纈	geik55	3%
-詰	geik55	3%
-革	geik55	3%
-頡	geik55	3%
-鮚	geik55	0%
-黠	geik55	3%
-㛃	geik55
-㦸	geik55
-件	gein31
-俓	gein31
-健	gein31
-勁	gein31	0%
-建	gein31
-弳	gein31
-徑	gein31
-楗	gein31
-毽	gein31	3%
-獍	gein31	3%
-痙	gein31
-竟	gein31
-競	gein31	3%
-羥	gein31	0%
-脛	gein31	0%
-腱	gein31	0%
-莖	gein31	0%
-誩	gein31	0%
-踁	gein31
-踺	gein31
-逕	gein31	0%
-鍵	gein31
-鞬	gein31
-𠗊	gein31
-𥯙	gein31
-京	gein33	3%
-兢	gein33
-堅	gein33
-婛	gein33
-巠	gein33
-敬	gein33
-涇	gein33
-犍	gein33	5%
-矜	gein33	3%
-矝	gein33
-経	gein33	0%
-經	gein33
-荊	gein33
-見	gein33	0%
-豜	gein33
-豣	gein33
-驚	gein33	3%
-鰹	gein33
-鶁	gein33
-麖	gein33
-麠	gein33
-䔔	gein33
-𦽁	gein33
-儆	gein55
-冂	gein55	0%
-冏	gein55
-剄	gein55
-囧	gein55
-境	gein55
-幜	gein55
-憬	gein55
-扃	gein55	0%
-扄	gein55
-擏	gein55
-景	gein55	3%
-暻	gein55
-檾	gein55
-泂	gein55
-浻	gein55
-瀽	gein55
-炅	gein55
-炯	gein55
-烱	gein55
-煛	gein55
-熲	gein55
-璄	gein55
-璟	gein55
-絅	gein55
-綗	gein55
-繭	gein55	0%
-苘	gein55
-褧	gein55
-謇	gein55	0%
-警	gein55
-趼	gein55
-蹇	gein55	0%
-迥	gein55
-頸	gein55
-顈	gein55
-駉	gein55
-䜘	gein55
-𢇺	gein55
-𣕄	gein55
-𧑊	gein55
-𨴀	gein55
-蛤	geip55	3%
-腳	gek21	3%
-屩	gek33
-屫	gek33	0%
-腳	gek33	3%
-蹻	gek33	0%
-腳	gek55	3%
-嶠	gel31	0%
-撬	gel31	0%
-轎	gel31	3%
-叫	gel33
-呌	gel33
-嘂	gel33
-嘦	gel33
-嬌	gel33
-徼	gel33	3%
-敫	gel33
-驕	gel33
-鱎	gel33
-䆗	gel33
-撟	gel55	0%
-敫	gel55
-矯	gel55	0%
-糾	gel55	3%
-繳	gel55	3%
-赳	gel55
-儉	gem31
-瞼	gem31	0%
-兼	gem33
-剣	gem33	0%
-剱	gem33	0%
-劍	gem33
-劎	gem33	0%
-劒	gem33
-劔	gem33	0%
-搛	gem33	3%
-縑	gem33
-蒹	gem33
-鐱	gem33	0%
-鰜	gem33
-鶼	gem33
-撿	gem55
-檢	gem55
-瞼	gem55	0%
-強	geng31	0%
-彊	geng31	0%
-犟	geng31
-糨	geng31	0%
-僵	geng33
-姜	geng33
-弶	geng33	3%
-殭	geng33
-猄	geng33
-畺	geng33
-疆	geng33
-礓	geng33
-繮	geng33
-羌	geng33
-薑	geng33
-蜣	geng33
-鏡	geng33
-韁	geng33	0%
-驚	geng33	3%
-頸	geng55
-亅	geo21
-勾	geo21	0%
-鈎	geo21	0%
-佝	geo33	3%
-夠	geo33
-廄	geo33
-彀	geo33
-攰	geo33
-穋	geo33
-緱	geo33	0%
-鳩	geo33	3%
-龜	geo33	3%
-垢	geo55	3%
-岣	geo55
-枸	geo55	3%
-狗	geo55
-笱	geo55
-芶	geo55
-苟	geo55	3%
-蚼	geo55
-伋	gep31	0%
-及	gep31	3%
-狹	gep31	3%
-芨	gep31	0%
-劫	gep33
-澀	gep33	3%
-鵖	gep33
-劫	gep55
-匧	gep55	0%
-喼	gep55
-笈	gep55	0%
-篋	gep55	0%
-鷑	gep55
+交	gau21
+篙	gau21
+嚿	gau32
+交	gau33
+告	gau33
+峧	gau33
+教	gau33	3%
+斠	gau33	3%
+校	gau33
+槔	gau33
+櫜	gau33
+滘	gau33
+漖	gau33
+皋	gau33
+睾	gau33
+窌	gau33
+窖	gau33
+篙	gau33
+糕	gau33
+羔	gau33
+羙	gau33	0%
+膏	gau33	3%
+膠	gau33
+臯	gau33
+艽	gau33	3%
+茭	gau33
+蛟	gau33
+覺	gau33
+誥	gau33
+跤	gau33
+較	gau33	3%
+郊	gau33
+郜	gau33
+鉸	gau33	3%
+鋯	gau33
+韟	gau33	0%
+餻	gau33
+高	gau33
+鮫	gau33
+鵁	gau33
+㬵	gau33
+佼	gau55
+姣	gau55
+搞	gau55
+攪	gau55
+晈	gau55	0%
+杲	gau55
+槀	gau55
+槁	gau55
+狡	gau55
+皎	gau55
+稁	gau55	0%
+稾	gau55
+稿	gau55
+絞	gau55	3%
+縞	gau55
+蒿	gau55
+藁	gau55
+藳	gau55
+鎬	gau55
+餃	gau55
+高	gau55
+件	gen32
+俓	gen32
+健	gen32
+勁	gen32	0%
+建	gen32
+弳	gen32
+徑	gen32
+楗	gen32
+毽	gen32	3%
+獍	gen32	3%
+痙	gen32
+竟	gen32
+競	gen32	3%
+羥	gen32	0%
+脛	gen32	0%
+腱	gen32	0%
+莖	gen32	0%
+誩	gen32	0%
+踁	gen32
+踺	gen32
+逕	gen32	0%
+鍵	gen32
+鞬	gen32
+𠗊	gen32
+𥯙	gen32
+京	gen33	3%
+兢	gen33
+堅	gen33
+婛	gen33
+巠	gen33
+敬	gen33
+涇	gen33
+犍	gen33	5%
+矜	gen33	3%
+矝	gen33
+経	gen33	0%
+經	gen33
+荊	gen33
+見	gen33	0%
+豜	gen33
+豣	gen33
+驚	gen33	3%
+鰹	gen33
+鶁	gen33
+麖	gen33
+麠	gen33
+䔔	gen33
+𦽁	gen33
+儆	gen55
+冂	gen55	0%
+冏	gen55
+剄	gen55
+囧	gen55
+境	gen55
+幜	gen55
+憬	gen55
+扃	gen55	0%
+扄	gen55
+擏	gen55
+景	gen55	3%
+暻	gen55
+檾	gen55
+泂	gen55
+浻	gen55
+瀽	gen55
+炅	gen55
+炯	gen55
+烱	gen55
+煛	gen55
+熲	gen55
+璄	gen55
+璟	gen55
+絅	gen55
+綗	gen55
+繭	gen55	0%
+苘	gen55
+褧	gen55
+謇	gen55	0%
+警	gen55
+趼	gen55
+蹇	gen55	0%
+迥	gen55
+頸	gen55
+顈	gen55
+駉	gen55
+䜘	gen55
+𢇺	gen55
+𣕄	gen55
+𧑊	gen55
+𨴀	gen55
+蛤	gep55	3%
+偈	get32
+傑	get32
+桀	get32
+極	get32	3%
+竭	get32
+羯	get32	0%
+結	get33	3%
+亟	get55
+墼	get55
+戟	get55
+拮	get55	3%
+挈	get55	3%
+擊	get55
+棘	get55	0%
+殛	get55
+潔	get55
+激	get55
+結	get55	3%
+絜	get55
+纈	get55	3%
+詰	get55	3%
+革	get55	3%
+頡	get55	3%
+鮚	get55	0%
+黠	get55	3%
+㛃	get55
+㦸	get55
 疙	get55	3%
+亅	geu21
+勾	geu21	0%
+鈎	geu21	0%
+佝	geu33	3%
+夠	geu33
+廄	geu33
+彀	geu33
+攰	geu33
+穋	geu33
+緱	geu33	0%
+鳩	geu33	3%
+龜	geu33	3%
+垢	geu55	3%
+岣	geu55
+枸	geu55	3%
+狗	geu55
+笱	geu55
+芶	geu55
+苟	geu55	3%
+蚼	geu55
 基	gi21
 箕	gi21
 萁	gi21
 逵	gi21
-伎	gi31
-几	gi31	0%
-刏	gi31
-匱	gi31
-妓	gi31
-徛	gi31	3%
-忌	gi31
-忮	gi31	0%
-惎	gi31	0%
-憒	gi31	0%
-技	gi31
-檵	gi31
-櫃	gi31
-洎	gi31	0%
-潰	gi31
-瞶	gi31
-簣	gi31
-籄	gi31	0%
-聵	gi31	0%
-胿	gi31
-臾	gi31	3%
-芰	gi31
-蕢	gi31
-跪	gi31
-跽	gi31
-餽	gi31
-饋	gi31	0%
-䙡	gi31
+伎	gi32
+几	gi32	0%
+刏	gi32
+匱	gi32
+妓	gi32
+徛	gi32	3%
+忌	gi32
+忮	gi32	0%
+惎	gi32	0%
+憒	gi32	0%
+技	gi32
+檵	gi32
+櫃	gi32
+洎	gi32	0%
+潰	gi32
+瞶	gi32
+簣	gi32
+籄	gi32	0%
+聵	gi32	0%
+胿	gi32
+臾	gi32	3%
+芰	gi32
+蕢	gi32
+跪	gi32
+跽	gi32
+餽	gi32
+饋	gi32	0%
+䙡	gi32
 丌	gi33
 乩	gi33
 亀	gi33	0%
@@ -3276,20 +3120,98 @@ import_tables:
 軌	gi55
 鬼	gi55
 麂	gi55
+腳	giak21	3%
+屩	giak33
+屫	giak33	0%
+腳	giak33	3%
+蹻	giak33	0%
+腳	giak55	3%
+儉	giam32
+瞼	giam32	0%
+兼	giam33
+剣	giam33	0%
+剱	giam33	0%
+劍	giam33
+劎	giam33	0%
+劒	giam33
+劔	giam33	0%
+搛	giam33	3%
+縑	giam33
+蒹	giam33
+鐱	giam33	0%
+鰜	giam33
+鶼	giam33
+撿	giam55
+檢	giam55
+瞼	giam55	0%
+強	giang32	0%
+彊	giang32	0%
+犟	giang32
+糨	giang32	0%
+僵	giang33
+姜	giang33
+弶	giang33	3%
+殭	giang33
+猄	giang33
+畺	giang33
+疆	giang33
+礓	giang33
+繮	giang33
+羌	giang33
+薑	giang33
+蜣	giang33
+鏡	giang33
+韁	giang33	0%
+驚	giang33	3%
+頸	giang55
+伋	giap32	0%
+及	giap32	3%
+狹	giap32	3%
+芨	giap32	0%
+劫	giap33
+澀	giap33	3%
+鵖	giap33
+劫	giap55
+匧	giap55	0%
+喼	giap55
+笈	giap55	0%
+篋	giap55	0%
+鷑	giap55
+嶠	giau32	0%
+撬	giau32	0%
+轎	giau32	3%
+叫	giau33
+呌	giau33
+嘂	giau33
+嘦	giau33
+嬌	giau33
+徼	giau33	3%
+敫	giau33
+驕	giau33
+鱎	giau33
+䆗	giau33
+撟	giau55	0%
+敫	giau55
+矯	giau55	0%
+糾	giau55	3%
+繳	giau55	3%
+赳	giau55
+嘅	gie33	100%
+呱	gie55	3%
 禁	gim21	3%
 衾	gim21
 衿	gim21	0%
 襟	gim21	0%
-撳	gim31
-監	gim31
+撳	gim32
+監	gim32
 今	gim33
 禁	gim33	3%
 金	gim33
 錦	gim55
 𢀷	gim55
-覲	gin31	0%
-近	gin31
-靳	gin31
+覲	gin32	0%
+近	gin32
+靳	gin32
 哏	gin33	0%
 巾	gin33
 斤	gin33	0%
@@ -3313,7 +3235,7 @@ import_tables:
 饉	gin55	0%
 急	gip55
 靸	gip55
-吉	git31
+吉	git32
 拮	git33	3%
 㓤	git33
 仡	git55	3%
@@ -3323,9 +3245,9 @@ import_tables:
 桔	git55	3%
 虼	git55	0%
 詰	git55	3%
-柩	giu31
-臼	giu31
-舊	giu31
+柩	giu32
+臼	giu32
+舊	giu32
 匛	giu33	0%
 咎	giu33	3%
 廄	giu33
@@ -3401,7 +3323,7 @@ import_tables:
 乾	gon21
 竿	gon21
 罐	gon21
-瓹	gon31
+瓹	gon32
 乾	gon33
 倌	gon33
 冠	gon33
@@ -3489,7 +3411,7 @@ import_tables:
 蓋	got55	3%
 䦪	got55
 𪆰	got55
-咕	gu31	3%
+咕	gu32	3%
 估	gu33	3%
 僱	gu33
 固	gu33
@@ -3538,21 +3460,21 @@ import_tables:
 𦍩	gu55
 𦜐	guan21
 句	gui21	3%
-俱	gui31	0%
-具	gui31
-巨	gui31
-懼	gui31	0%
-炬	gui31
-犋	gui31
-窶	gui31
-簴	gui31	0%
-苣	gui31
-虡	gui31
-遽	gui31	0%
-醵	gui31	0%
-鉅	gui31
-鐻	gui31	3%
-颶	gui31
+俱	gui32	0%
+具	gui32
+巨	gui32
+懼	gui32	0%
+炬	gui32
+犋	gui32
+窶	gui32
+簴	gui32	0%
+苣	gui32
+虡	gui32
+遽	gui32	0%
+醵	gui32	0%
+鉅	gui32
+鐻	gui32	3%
+颶	gui32
 倨	gui33
 句	gui33	3%
 居	gui33	3%
@@ -3584,12 +3506,12 @@ import_tables:
 蒟	gui55
 踽	gui55
 齲	gui55
-侷	guk31
-局	guk31
-焗	guk31
-跼	guk31
-鋦	guk31	0%
-鋸	guk31	3%
+侷	guk32
+局	guk32
+焗	guk32
+跼	guk32
+鋦	guk32	0%
+鋸	guk32	3%
 嚳	guk55	0%
 掬	guk55
 旭	guk55
@@ -3616,10 +3538,10 @@ import_tables:
 棍	gun21
 竿	gun21
 輥	gun21	0%
-倦	gun31
-捃	gun31	3%
-珺	gun31	3%
-郡	gun31
+倦	gun32
+捃	gun32	3%
+珺	gun32	3%
+郡	gun32
 君	gun33
 均	gun33	0%
 娟	gun33
@@ -3658,7 +3580,7 @@ import_tables:
 鮌	gun55
 鯀	gun55	0%
 公	gung21
-共	gung31	3%
+共	gung32	3%
 供	gung33
 公	gung33
 功	gung33
@@ -3696,10 +3618,10 @@ import_tables:
 䡗	gung55
 葛	gut21
 訣	gut21
-倔	gut31
-崛	gut31
-掘	gut31	3%
-䘿	gut31
+倔	gut32
+崛	gut32
+掘	gut32	3%
+䘿	gut32
 榾	gut55
 橘	gut55	0%
 汩	gut55	3%
@@ -3713,15 +3635,15 @@ import_tables:
 疨	ha21	0%
 蝦	ha21	3%
 鰕	ha21
-徦	ha11	0%
-瑕	ha11
-遐	ha11
-霞	ha11
-下	ha31
-嗄	ha31	0%
-夏	ha31	3%
-廈	ha31
-暇	ha31	3%
+徦	ha22	0%
+瑕	ha22
+遐	ha22
+霞	ha22
+下	ha32
+嗄	ha32	0%
+夏	ha32	3%
+廈	ha32
+暇	ha32	3%
 下	ha33
 他	ha33	0%
 她	ha33	0%
@@ -3741,76 +3663,76 @@ import_tables:
 邂	hai21
 髢	hai21
 鬄	hai21	0%
-偍	hai11
-偕	hai11	3%
-兮	hai11
-啼	hai11
-嗁	hai11
-堤	hai11
-奚	hai11
-媞	hai11
-孩	hai11	3%
-惿	hai11
-提	hai11	3%
-渧	hai11
-盻	hai11	0%
-稊	hai11
-綈	hai11
-緹	hai11
-胲	hai11	3%
-膎	hai11
-苐	hai11
-荑	hai11
-蕛	hai11
-諧	hai11
-蹄	hai11
-蹊	hai11
-蹏	hai11
-醍	hai11
-鍉	hai11
-隄	hai11
-鞋	hai11
-鞮	hai11
-鞵	hai11
-頦	hai11	0%
-題	hai11
-騠	hai11
-骸	hai11
-鮷	hai11	0%
-鯷	hai11
-鵜	hai11
-鶗	hai11
-鷈	hai11	0%
-鷉	hai11
-鼷	hai11
-龤	hai11	0%
-㖒	hai11
-㖷	hai11
-㜎	hai11
-䄺	hai11
-䅠	hai11
-𡱍	hai11
-𧀰	hai11
-𧙣	hai11
-𩋘	hai11
-𩋣	hai11
-𩤢	hai11
-𪂿	hai11
-係	hai31	100%
-傒	hai31
-匸	hai31	0%
-廨	hai31
-械	hai31
-瀣	hai31
-獬	hai31
-盻	hai31	0%
-禊	hai31
-系	hai31	5%
-繋	hai31
-繫	hai31	3%
-薤	hai31
-解	hai31	0%
-㜎	hai31
+偍	hai22
+偕	hai22	3%
+兮	hai22
+啼	hai22
+嗁	hai22
+堤	hai22
+奚	hai22
+媞	hai22
+孩	hai22	3%
+惿	hai22
+提	hai22	3%
+渧	hai22
+盻	hai22	0%
+稊	hai22
+綈	hai22
+緹	hai22
+胲	hai22	3%
+膎	hai22
+苐	hai22
+荑	hai22
+蕛	hai22
+諧	hai22
+蹄	hai22
+蹊	hai22
+蹏	hai22
+醍	hai22
+鍉	hai22
+隄	hai22
+鞋	hai22
+鞮	hai22
+鞵	hai22
+頦	hai22	0%
+題	hai22
+騠	hai22
+骸	hai22
+鮷	hai22	0%
+鯷	hai22
+鵜	hai22
+鶗	hai22
+鷈	hai22	0%
+鷉	hai22
+鼷	hai22
+龤	hai22	0%
+㖒	hai22
+㖷	hai22
+㜎	hai22
+䄺	hai22
+䅠	hai22
+𡱍	hai22
+𧀰	hai22
+𧙣	hai22
+𩋘	hai22
+𩋣	hai22
+𩤢	hai22
+𪂿	hai22
+係	hai32	100%
+傒	hai32
+匸	hai32	0%
+廨	hai32
+械	hai32
+瀣	hai32
+獬	hai32
+盻	hai32	0%
+禊	hai32
+系	hai32	5%
+繋	hai32
+繫	hai32	3%
+薤	hai32
+解	hai32	0%
+㜎	hai32
 傣	hai33	3%
 剃	hai33
 太	hai33
@@ -3872,31 +3794,31 @@ import_tables:
 毯	ham21
 蟫	ham21	0%
 譚	ham21
-函	ham11
-咸	ham11
-曇	ham11
-榃	ham11	3%
-涵	ham11
-潭	ham11
-澹	ham11	0%
-痰	ham11
-菡	ham11	0%
-覃	ham11
-談	ham11
-譚	ham11
-郯	ham11
-銜	ham11	0%
-錟	ham11	0%
-鐔	ham11	0%
-鹹	ham11
-龕	ham11
-嵌	ham31	0%
-憾	ham31
-撼	ham31
-萏	ham31
-豏	ham31
-陷	ham31	0%
-餡	ham31
+函	ham22
+咸	ham22
+曇	ham22
+榃	ham22	3%
+涵	ham22
+潭	ham22
+澹	ham22	0%
+痰	ham22
+菡	ham22	0%
+覃	ham22
+談	ham22
+譚	ham22
+郯	ham22
+銜	ham22	0%
+錟	ham22	0%
+鐔	ham22	0%
+鹹	ham22
+龕	ham22
+嵌	ham32	0%
+憾	ham32
+撼	ham32
+萏	ham32
+豏	ham32
+陷	ham32	0%
+餡	ham32
 勘	ham33
 喊	ham33
 坎	ham33	3%
@@ -3934,23 +3856,23 @@ import_tables:
 痕	han21
 闞	han21	0%
 𡊨	han21
-壇	han11
-壜	han11
-嫻	han11	0%
-彈	han11
-檀	han11
-癇	han11	0%
-罈	han11
-罎	han11
-閑	han11
-閒	han11	0%
-鷳	han11
-鷴	han11
-恨	han31
-狠	han31
-莧	han31
-限	han31
-㡾	han31
+壇	han22
+壜	han22
+嫻	han22	0%
+彈	han22
+檀	han22
+癇	han22	0%
+罈	han22
+罎	han22
+閑	han22
+閒	han22	0%
+鷳	han22
+鷴	han22
+恨	han32
+狠	han32
+莧	han32
+限	han32
+㡾	han32
 嘆	han33	0%
 坍	han33
 慳	han33
@@ -3985,29 +3907,29 @@ import_tables:
 𤞶	han55
 坑	hang21
 桁	hang21	3%
-姮	hang11
-恆	hang11	3%
-滕	hang11
-珩	hang11
-縢	hang11
-藤	hang11
-蘅	hang11
-螣	hang11
-行	hang11	3%
-衡	hang11	3%
-謄	hang11
-騰	hang11
-鰧	hang11
-鴴	hang11
-倖	hang31
-啈	hang31
-婞	hang31
-幸	hang31
-悻	hang31	0%
-杏	hang31
-荇	hang31
-莕	hang31
-行	hang31	3%
+姮	hang22
+恆	hang22	3%
+滕	hang22
+珩	hang22
+縢	hang22
+藤	hang22
+蘅	hang22
+螣	hang22
+行	hang22	3%
+衡	hang22	3%
+謄	hang22
+騰	hang22
+鰧	hang22
+鴴	hang22
+倖	hang32
+啈	hang32
+婞	hang32
+幸	hang32
+悻	hang32	0%
+杏	hang32
+荇	hang32
+莕	hang32
+行	hang32	3%
 亨	hang33	3%
 吭	hang33
 哼	hang33
@@ -4027,106 +3949,23 @@ import_tables:
 裉	hang55
 褃	hang55
 齦	hang55	3%
-何	hao21	0%
-桃	hao21
-浩	hao21
-滈	hao21
-灝	hao21
-皓	hao21	0%
-鄗	hao21	0%
-顥	hao21
-匋	hao11
-咷	hao11
-啕	hao11
-嗥	hao11
-嘷	hao11	0%
-噑	hao11	0%
-嚎	hao11
-壕	hao11
-掏	hao11	0%
-桃	hao11
-洮	hao11	0%
-淘	hao11
-濠	hao11
-濤	hao11
-燾	hao11
-萄	hao11
-號	hao11
-蠔	hao11
-豪	hao11
-逃	hao11
-陶	hao11
-鞀	hao11
-俲	hao31	0%
-傚	hao31
-効	hao31
-效	hao31
-昊	hao31
-晧	hao31
-暠	hao31
-暤	hao31	0%
-曍	hao31
-校	hao31
-皓	hao31	0%
-皞	hao31
-皡	hao31	0%
-皥	hao31	0%
-號	hao31
-賀	hao31	0%
-鎬	hao31
-叨	hao33
-哮	hao33
-嚆	hao33	0%
-套	hao33
-好	hao33
-孝	hao33
-尻	hao33	0%
-弢	hao33
-挑	hao33	0%
-滔	hao33
-烤	hao33
-犒	hao33
-猇	hao33
-絛	hao33
-耗	hao33
-蒿	hao33
-薅	hao33
-虓	hao33
-轁	hao33	0%
-酵	hao33	3%
-鞱	hao33	0%
-韜	hao33
-饕	hao33
-㝀	hao33
-䯌	hao33
-䵚	hao33
-吼	hao55	3%
-好	hao55
-拷	hao55
-敲	hao55
-栲	hao55
-烤	hao55
-禱	hao55	0%
-考	hao55
-討	hao55
-銬	hao55	0%
 匣	hap21
 柙	hap21
 狎	hap21
 盒	hap21	0%
-合	hap31	3%
-嗑	hap31	3%
-峇	hap31
-榼	hap31	0%
-盇	hap31	0%
-盍	hap31
-耠	hap31
-郃	hap31	0%
-鉿	hap31	3%
-閤	hap31	3%
-闔	hap31
-頜	hap31
-餄	hap31
+合	hap32	3%
+嗑	hap32	3%
+峇	hap32
+榼	hap32	0%
+盇	hap32	0%
+盍	hap32
+耠	hap32
+郃	hap32	0%
+鉿	hap32	3%
+閤	hap32	3%
+闔	hap32
+頜	hap32
+餄	hap32
 呷	hap33	3%
 嗑	hap55	3%
 嗒	hap55	0%
@@ -4147,21 +3986,21 @@ import_tables:
 遢	hap55
 鰨	hap55
 墶	hat21
-劾	hat31
-搳	hat31	3%
-核	hat31
-檄	hat31
-瞎	hat31
-紇	hat31
-翮	hat31
-舝	hat31	0%
-覈	hat31	0%
-轄	hat31
-鎋	hat31
-閡	hat31	3%
-鶷	hat31
-黠	hat31	3%
-𧕱	hat31
+劾	hat32
+搳	hat32	3%
+核	hat32
+檄	hat32
+瞎	hat32
+紇	hat32
+翮	hat32
+舝	hat32	0%
+覈	hat32	0%
+轄	hat32
+鎋	hat32
+閡	hat32	3%
+鶷	hat32
+黠	hat32	3%
+𧕱	hat32
 葜	hat33
 乞	hat55	3%
 撻	hat55	5%
@@ -4170,258 +4009,239 @@ import_tables:
 靸	hat55
 韃	hat55	3%
 齕	hat55	0%
-靴	heh33
-鞾	heh33
-銕	heik33
-鐵	heik33
-餮	heik33
-息	heik55	3%
-歇	heik55
-凵	heim21	0%
-凼	heim21
-坎	heim21	3%
-埳	heim21	0%
-氹	heim21	0%
-潭	heim21
-含	heim11
-啣	heim11	0%
-晗	heim11
-浛	heim11
-焓	heim11
-衘	heim11	0%
-銜	heim11	0%
-陷	heim31	0%
-扻	heim55	0%
-侹	hein21	0%
-娗	hein21
-挺	hein21	0%
-梃	hein21
-珽	hein21	0%
-珽	hein21	0%
-脡	hein21	0%
-鋌	hein21	0%
-亭	hein11
-佃	hein11
-停	hein11
-填	hein11	0%
-婷	hein11
-庭	hein11	3%
-廷	hein11
-楟	hein11
-渟	hein11
-滇	hein11	3%
-田	hein11
-畋	hein11
-畑	hein11
-筳	hein11
-莛	hein11
-葶	hein11
-蜓	hein11
-蝏	hein11
-諪	hein11
-鈿	hein11
-闐	hein11
-霆	hein11
-頲	hein11	0%
-䁎	hein11
-𥥶	hein11
-𦝞	hein11
-天	hein31
-兄	hein33	0%
-兲	hein33	0%
-凊	hein33	0%
-卿	hein33
-夐	hein33
-天	hein33
-岍	hein33
-愆	hein33
-慶	hein33	0%
-憲	hein33
-掀	hein33	0%
-掔	hein33	0%
-搴	hein33	0%
-敻	hein33
-杴	hein33	0%
-氫	hein33
-汧	hein33
-烴	hein33	0%
-牽	hein33
-瑱	hein33	0%
-磬	hein33
-祆	hein33
-綎	hein33
-綮	hein33
-縴	hein33	0%
-纖	hein33
-罄	hein33
-聴	hein33	0%
-聽	hein33	3%
-胜	hein33
-興	hein33	0%
-褰	hein33
-諐	hein33
-謦	hein33	0%
-軒	hein33
-輕	hein33	3%
-鋧	hein33	0%
-鍁	hein33
-靘	hein33
-靝	hein33	0%
-鞓	hein33
-馨	hein33
-馫	hein33	0%
-騫	hein33
-㷫	hein33
-䒶	hein33
-𠀘	hein33
-𠀡	hein33
-𠕹	hein33
-𦀚	hein33
-𦴞	hein33
-峴	hein55
-殄	hein55
-繾	hein55
-蜆	hein55
-譴	hein55
-遣	hein55
-顯	hein55
-嗑	heip55	3%
-溘	heip55	0%
-瞌	heip55	3%
-磕	heip55	3%
-吃	hek33	3%
-喫	hek33
-岧	hel11
-條	hel11	0%
-窱	hel11
-笤	hel11
-苕	hel11
-蜩	hel11
-調	hel11	0%
-趒	hel11	0%
-跳	hel11	0%
-迢	hel11	3%
-髫	hel11
-鯈	hel11	0%
-鰷	hel11
-齠	hel11
-䖺	hel11
-佻	hel33
-僥	hel33	0%
-嚻	hel33
-囂	hel33	0%
-挑	hel33	0%
-朓	hel33	0%
-枵	hel33
-梟	hel33
-橇	hel33	0%
-澆	hel33	3%
-眺	hel33
-祧	hel33
-竅	hel33
-糶	hel33
-脁	hel33
-跳	hel33	0%
-銚	hel33	3%
-驍	hel33
-鴞	hel33
-僥	hel55	0%
-儌	hel55	3%
-嘵	hel55
-徼	hel55	3%
-曉	hel55
-恬	hem21	0%
-掭	hem21	0%
-甜	hem11
-哼	hem31
-忝	hem31	0%
-恬	hem31	0%
-掭	hem31	0%
-㮇	hem31
-添	hem33
-菾	hem33
-黇	hem33
-忝	hem55	0%
-獫	hem55
-玁	hem55
-險	hem55
-艇	heng21	3%
-卿	heng33
-向	heng33
-嚮	heng33	0%
-廳	heng33	0%
-曏	heng33
-桯	heng33
-聴	heng33	0%
-聽	heng33	3%
-薌	heng33	0%
-輕	heng33	3%
-鄉	heng33	0%
-香	heng33
-享	heng55
-垧	heng55
-扄	heng55
-晌	heng55
-響	heng55
-餉	heng55
-饗	heng55
-饟	heng55	0%
-厚	heo21
-頭	heo21
-亠	heo11
-侯	heo11	3%
-后	heo11
-喉	heo11
-投	heo11
-猴	heo11
-瘊	heo11
-篌	heo11
-緱	heo11	0%
-頭	heo11
-餱	heo11
-骰	heo11
-骺	heo11
-候	heo31
-后	heo31
-垕	heo31	0%
-堠	heo31
-後	heo31
-瘊	heo31
-茩	heo31
-逅	heo31
-鱟	heo31
-偷	heo33
-偸	heo33	0%
-婾	heo33	0%
-媮	heo33	0%
-後	heo33
-透	heo33
-口	heo55
-唞	heo55
-𤘘	heo55
-俠	hep31
-劦	hep31
-勰	hep31	3%
-協	hep31
-叶	hep31	0%
-峽	hep31	0%
-怯	hep31
-愜	hep31
-慊	hep31	0%
-挾	hep31	3%
-狹	hep31	3%
-硤	hep31	3%
-脅	hep31	0%
-陜	hep31	0%
-帖	hep33
-貼	hep33
-呫	hep55
-嗛	hep55	3%
-帖	hep55
-怯	hep55
-歉	hep55	3%
-肷	hep55	0%
-萜	hep55
+何	hau21	0%
+桃	hau21
+浩	hau21
+滈	hau21
+灝	hau21
+皓	hau21	0%
+鄗	hau21	0%
+顥	hau21
+匋	hau22
+咷	hau22
+啕	hau22
+嗥	hau22
+嘷	hau22	0%
+噑	hau22	0%
+嚎	hau22
+壕	hau22
+掏	hau22	0%
+桃	hau22
+洮	hau22	0%
+淘	hau22
+濠	hau22
+濤	hau22
+燾	hau22
+萄	hau22
+號	hau22
+蠔	hau22
+豪	hau22
+逃	hau22
+陶	hau22
+鞀	hau22
+俲	hau32	0%
+傚	hau32
+効	hau32
+效	hau32
+昊	hau32
+晧	hau32
+暠	hau32
+暤	hau32	0%
+曍	hau32
+校	hau32
+皓	hau32	0%
+皞	hau32
+皡	hau32	0%
+皥	hau32	0%
+號	hau32
+賀	hau32	0%
+鎬	hau32
+叨	hau33
+哮	hau33
+嚆	hau33	0%
+套	hau33
+好	hau33
+孝	hau33
+尻	hau33	0%
+弢	hau33
+挑	hau33	0%
+滔	hau33
+烤	hau33
+犒	hau33
+猇	hau33
+絛	hau33
+耗	hau33
+蒿	hau33
+薅	hau33
+虓	hau33
+轁	hau33	0%
+酵	hau33	3%
+鞱	hau33	0%
+韜	hau33
+饕	hau33
+㝀	hau33
+䯌	hau33
+䵚	hau33
+吼	hau55	3%
+好	hau55
+拷	hau55
+敲	hau55
+栲	hau55
+烤	hau55
+禱	hau55	0%
+考	hau55
+討	hau55
+銬	hau55	0%
+凵	hem21	0%
+凼	hem21
+坎	hem21	3%
+埳	hem21	0%
+氹	hem21	0%
+潭	hem21
+含	hem22
+啣	hem22	0%
+晗	hem22
+浛	hem22
+焓	hem22
+衘	hem22	0%
+銜	hem22	0%
+陷	hem32	0%
+扻	hem55	0%
+侹	hen21	0%
+娗	hen21
+挺	hen21	0%
+梃	hen21
+珽	hen21	0%
+珽	hen21	0%
+脡	hen21	0%
+鋌	hen21	0%
+亭	hen22
+佃	hen22
+停	hen22
+填	hen22	0%
+婷	hen22
+庭	hen22	3%
+廷	hen22
+楟	hen22
+渟	hen22
+滇	hen22	3%
+田	hen22
+畋	hen22
+畑	hen22
+筳	hen22
+莛	hen22
+葶	hen22
+蜓	hen22
+蝏	hen22
+諪	hen22
+鈿	hen22
+闐	hen22
+霆	hen22
+頲	hen22	0%
+䁎	hen22
+𥥶	hen22
+𦝞	hen22
+天	hen32
+兄	hen33	0%
+兲	hen33	0%
+凊	hen33	0%
+卿	hen33
+夐	hen33
+天	hen33
+岍	hen33
+愆	hen33
+慶	hen33	0%
+憲	hen33
+掀	hen33	0%
+掔	hen33	0%
+搴	hen33	0%
+敻	hen33
+杴	hen33	0%
+氫	hen33
+汧	hen33
+烴	hen33	0%
+牽	hen33
+瑱	hen33	0%
+磬	hen33
+祆	hen33
+綎	hen33
+綮	hen33
+縴	hen33	0%
+纖	hen33
+罄	hen33
+聴	hen33	0%
+聽	hen33	3%
+胜	hen33
+興	hen33	0%
+褰	hen33
+諐	hen33
+謦	hen33	0%
+軒	hen33
+輕	hen33	3%
+鋧	hen33	0%
+鍁	hen33
+靘	hen33
+靝	hen33	0%
+鞓	hen33
+馨	hen33
+馫	hen33	0%
+騫	hen33
+㷫	hen33
+䒶	hen33
+𠀘	hen33
+𠀡	hen33
+𠕹	hen33
+𦀚	hen33
+𦴞	hen33
+峴	hen55
+殄	hen55
+繾	hen55
+蜆	hen55
+譴	hen55
+遣	hen55
+顯	hen55
+嗑	hep55	3%
+溘	hep55	0%
+瞌	hep55	3%
+磕	hep55	3%
+銕	het33
+鐵	het33
+餮	het33
+息	het55	3%
+歇	het55
+厚	heu21
+頭	heu21
+亠	heu22
+侯	heu22	3%
+后	heu22
+喉	heu22
+投	heu22
+猴	heu22
+瘊	heu22
+篌	heu22
+緱	heu22	0%
+頭	heu22
+餱	heu22
+骰	heu22
+骺	heu22
+候	heu32
+后	heu32
+垕	heu32	0%
+堠	heu32
+後	heu32
+瘊	heu32
+茩	heu32
+逅	heu32
+鱟	heu32
+偷	heu33
+偸	heu33	0%
+婾	heu33	0%
+媮	heu33	0%
+後	heu33
+透	heu33
+口	heu55
+唞	heu55
+𤘘	heu55
 僖	hi33
 唏	hi33
 嘻	hi33
@@ -4472,6 +4292,108 @@ import_tables:
 謑	hi55
 豈	hi55	3%
 起	hi55
+吃	hiak33	3%
+喫	hiak33
+恬	hiam21	0%
+掭	hiam21	0%
+甜	hiam22
+哼	hiam32
+忝	hiam32	0%
+恬	hiam32	0%
+掭	hiam32	0%
+㮇	hiam32
+添	hiam33
+菾	hiam33
+黇	hiam33
+忝	hiam55	0%
+獫	hiam55
+玁	hiam55
+險	hiam55
+艇	hiang21	3%
+卿	hiang33
+向	hiang33
+嚮	hiang33	0%
+廳	hiang33	0%
+曏	hiang33
+桯	hiang33
+聴	hiang33	0%
+聽	hiang33	3%
+薌	hiang33	0%
+輕	hiang33	3%
+鄉	hiang33	0%
+香	hiang33
+享	hiang55
+垧	hiang55
+扄	hiang55
+晌	hiang55
+響	hiang55
+餉	hiang55
+饗	hiang55
+饟	hiang55	0%
+俠	hiap32
+劦	hiap32
+勰	hiap32	3%
+協	hiap32
+叶	hiap32	0%
+峽	hiap32	0%
+怯	hiap32
+愜	hiap32
+慊	hiap32	0%
+挾	hiap32	3%
+狹	hiap32	3%
+硤	hiap32	3%
+脅	hiap32	0%
+陜	hiap32	0%
+帖	hiap33
+貼	hiap33
+呫	hiap55
+嗛	hiap55	3%
+帖	hiap55
+怯	hiap55
+歉	hiap55	3%
+肷	hiap55	0%
+萜	hiap55
+岧	hiau22
+條	hiau22	0%
+窱	hiau22
+笤	hiau22
+苕	hiau22
+蜩	hiau22
+調	hiau22	0%
+趒	hiau22	0%
+跳	hiau22	0%
+迢	hiau22	3%
+髫	hiau22
+鯈	hiau22	0%
+鰷	hiau22
+齠	hiau22
+䖺	hiau22
+佻	hiau33
+僥	hiau33	0%
+嚻	hiau33
+囂	hiau33	0%
+挑	hiau33	0%
+朓	hiau33	0%
+枵	hiau33
+梟	hiau33
+橇	hiau33	0%
+澆	hiau33	3%
+眺	hiau33
+祧	hiau33
+竅	hiau33
+糶	hiau33
+脁	hiau33
+跳	hiau33	0%
+銚	hiau33	3%
+驍	hiau33
+鴞	hiau33
+僥	hiau55	0%
+儌	hiau55	3%
+嘵	hiau55
+徼	hiau55	3%
+曉	hiau55
+靴	hie33
+鞾	hie33
 嶔	him33
 忻	him33
 慊	him33	0%
@@ -4510,44 +4432,44 @@ import_tables:
 苛	ho21	3%
 萄	ho21
 䄻	ho21
-何	ho11	0%
-佗	ho11	0%
-匋	ho11
-嗥	ho11
-坨	ho11
-壕	ho11
-杕	ho11
-柁	ho11	3%
-桃	ho11
-毫	ho11
-沱	ho11
-沲	ho11	0%
-河	ho11
-淘	ho11
-濠	ho11
-獆	ho11	0%
-獋	ho11
-砣	ho11
-舵	ho11	0%
-苛	ho11	3%
-荷	ho11
-菏	ho11
-蚵	ho11
-蠔	ho11
-豪	ho11
-醄	ho11
-鉈	ho11	3%
-陀	ho11
-陶	ho11
-馱	ho11	3%
-駝	ho11
-鴕	ho11
-鼉	ho11
-鼧	ho11
-䭾	ho11
-𥓿	ho11
-荷	ho31
-賀	ho31	0%
+何	ho22	0%
+佗	ho22	0%
+匋	ho22
+嗥	ho22
+坨	ho22
+壕	ho22
+杕	ho22
+柁	ho22	3%
+桃	ho22
+毫	ho22
+沱	ho22
+沲	ho22	0%
+河	ho22
+淘	ho22
+濠	ho22
+獆	ho22	0%
+獋	ho22
+砣	ho22
+舵	ho22	0%
+苛	ho22	3%
+荷	ho22
+菏	ho22
+蚵	ho22
+蠔	ho22
+豪	ho22
+醄	ho22
+鉈	ho22	3%
+陀	ho22
+陶	ho22
+馱	ho22	3%
+駝	ho22
+鴕	ho22
+鼉	ho22
+鼧	ho22
+䭾	ho22
+𥓿	ho22
+荷	ho32
+賀	ho32	0%
 呵	ho33	3%
 可	ho55	0%
 呵	ho55	3%
@@ -4560,24 +4482,24 @@ import_tables:
 枱	hoi21	3%
 檯	hoi21
 駭	hoi21	0%
-台	hoi11	0%
-咍	hoi11	0%
-抬	hoi11	0%
-擡	hoi11
-炱	hoi11
-臺	hoi11
-苔	hoi11
-薹	hoi11
-跆	hoi11
-邰	hoi11	0%
-颱	hoi11
-駘	hoi11	0%
-鮐	hoi11	0%
-㾂	hoi11
-亥	hoi31
-嗐	hoi31	3%
-害	hoi31	0%
-氦	hoi31
+台	hoi22	0%
+咍	hoi22	0%
+抬	hoi22	0%
+擡	hoi22
+炱	hoi22
+臺	hoi22
+苔	hoi22
+薹	hoi22
+跆	hoi22
+邰	hoi22	0%
+颱	hoi22
+駘	hoi22	0%
+鮐	hoi22	0%
+㾂	hoi22
+亥	hoi32
+嗐	hoi32	3%
+害	hoi32	0%
+氦	hoi32
 胎	hoi33
 鐦	hoi33
 開	hoi33
@@ -4594,12 +4516,12 @@ import_tables:
 殼	hok21
 籜	hok21
 鶴	hok21	3%
-學	hok31
-澩	hok31
-翯	hok31
-貉	hok31	0%
-鶴	hok31	3%
-㶅	hok31
+學	hok32
+澩	hok32
+翯	hok32
+貉	hok32	0%
+鶴	hok32	3%
+㶅	hok32
 托	hok33
 蘀	hok33
 飥	hok33
@@ -4615,39 +4537,39 @@ import_tables:
 跅	hok55
 魄	hok55	3%
 旱	hon21
-佄	hon11	0%
-團	hon11
-寒	hon11
-彖	hon11
-摶	hon11
-汗	hon11
-畽	hon11	0%
-疃	hon11
-糰	hon11
-邗	hon11
-邯	hon11	3%
-酣	hon11
-韓	hon11
-頇	hon11	0%
-魨	hon11
-鼾	hon11
-䊜	hon11
-兯	hon31	0%
-彖	hon31
-悍	hon31
-扞	hon31	0%
-捍	hon31	0%
-撖	hon31	3%
-旰	hon31	0%
-汗	hon31
-瀚	hon31
-犴	hon31
-猂	hon31	0%
-翰	hon31
-釬	hon31
-銲	hon31
-雗	hon31
-𤞶	hon31
+佄	hon22	0%
+團	hon22
+寒	hon22
+彖	hon22
+摶	hon22
+汗	hon22
+畽	hon22	0%
+疃	hon22
+糰	hon22
+邗	hon22
+邯	hon22	3%
+酣	hon22
+韓	hon22
+頇	hon22	0%
+魨	hon22
+鼾	hon22
+䊜	hon22
+兯	hon32	0%
+彖	hon32
+悍	hon32
+扞	hon32	0%
+捍	hon32	0%
+撖	hon32	3%
+旰	hon32	0%
+汗	hon32
+瀚	hon32
+犴	hon32
+猂	hon32	0%
+翰	hon32
+釬	hon32
+銲	hon32
+雗	hon32
+𤞶	hon32
 斷	hon33
 旱	hon33
 漢	hon33
@@ -4662,41 +4584,41 @@ import_tables:
 塘	hong21
 糠	hong21
 項	hong21
-吭	hong11
-唐	hong11
-嘡	hong11
-堂	hong11
-塘	hong11
-夅	hong11	0%
-搪	hong11
-杭	hong11
-桁	hong11	3%
-棠	hong11
-樘	hong11
-溏	hong11
-瑭	hong11
-糖	hong11
-絎	hong11
-膛	hong11
-航	hong11
-蓎	hong11
-螗	hong11
-螳	hong11
-行	hong11	3%
-赯	hong11
-鄌	hong11
-醣	hong11
-鏜	hong11
-降	hong11
-鞺	hong11	0%
-頏	hong11	0%
-餳	hong11
-㲥	hong11
-巷	hong31
-桁	hong31	3%
-缿	hong31
-閧	hong31
-項	hong31
+吭	hong22
+唐	hong22
+嘡	hong22
+堂	hong22
+塘	hong22
+夅	hong22	0%
+搪	hong22
+杭	hong22
+桁	hong22	3%
+棠	hong22
+樘	hong22
+溏	hong22
+瑭	hong22
+糖	hong22
+絎	hong22
+膛	hong22
+航	hong22
+蓎	hong22
+螗	hong22
+螳	hong22
+行	hong22	3%
+赯	hong22
+鄌	hong22
+醣	hong22
+鏜	hong22
+降	hong22
+鞺	hong22	0%
+頏	hong22	0%
+餳	hong22
+㲥	hong22
+巷	hong32
+桁	hong32	3%
+缿	hong32
+閧	hong32
+項	hong32
 劏	hong33
 匡	hong33
 康	hong33
@@ -4726,36 +4648,36 @@ import_tables:
 鎲	hong55
 钂	hong55
 豁	hot21	3%
-曷	hot31	3%
-蝎	hot31	0%
-褐	hot31	0%
-鶡	hot31	0%
+曷	hot32	3%
+蝎	hot32	0%
+褐	hot32	0%
+鶡	hot32	0%
 喝	hot33	3%
 暍	hot33	0%
 渴	hot33	3%
 脫	hot33	3%
 鞨	hot55	0%
-圖	hu11
-坨	hu11
-塗	hu11	0%
-屠	hu11
-徒	hu11
-沱	hu11
-沲	hu11	0%
-涂	hu11	3%
-舵	hu11	0%
-荼	hu11	3%
-菟	hu11
-跎	hu11
-逃	hu11
-途	hu11
-酡	hu11
-酴	hu11
-陀	hu11
-馱	hu11	3%
-駝	hu11
-鴕	hu11
-𠆧	hu11
+圖	hu22
+坨	hu22
+塗	hu22	0%
+屠	hu22
+徒	hu22
+沱	hu22
+沲	hu22	0%
+涂	hu22	3%
+舵	hu22	0%
+荼	hu22	3%
+菟	hu22
+跎	hu22
+逃	hu22
+途	hu22
+酡	hu22
+酴	hu22
+陀	hu22
+馱	hu22	3%
+駝	hu22
+鴕	hu22
+𠆧	hu22
 兔	hu33
 吐	hu33	3%
 堍	hu33
@@ -4765,10 +4687,10 @@ import_tables:
 討	hu55
 釷	hu55
 墟	hui21
-尵	hui11	0%
-穨	hui11
-隤	hui11
-頹	hui11
+尵	hui22	0%
+穨	hui22
+隤	hui22
+頹	hui22
 去	hui33	0%
 吁	hui33	3%
 噓	hui33
@@ -4794,13 +4716,13 @@ import_tables:
 詡	hui55
 酗	hui55	3%
 骽	hui55
-斛	huk31	0%
-槲	huk31
-焅	huk31	0%
-縠	huk31
-觳	huk31	3%
-酷	huk31
-鵠	huk31
+斛	huk32	0%
+槲	huk32
+焅	huk32	0%
+縠	huk32
+觳	huk32	3%
+酷	huk32
+鵠	huk32
 哭	huk33
 哭	huk55
 券	hun21
@@ -4808,11 +4730,11 @@ import_tables:
 屯	hun21	3%
 桊	hun21
 盾	hun21	0%
-屯	hun11	3%
-篿	hun11
-臀	hun11
-臋	hun11	0%
-豚	hun11
+屯	hun22	3%
+篿	hun22
+臀	hun22
+臋	hun22	0%
+豚	hun22
 券	hun33
 勸	hun33
 吞	hun33
@@ -4835,68 +4757,68 @@ import_tables:
 筒	hung21
 筩	hung21
 紅	hung21	5%
-仝	hung11
-佟	hung11
-侗	hung11
-僮	hung11	0%
-同	hung11
-垌	hung11	3%
-峒	hung11
-彋	hung11
-彤	hung11
-曈	hung11
-朣	hung11
-桐	hung11
-橦	hung11
-氃	hung11
-洪	hung11
-潼	hung11
-灴	hung11
-烔	hung11
-熊	hung11
-犝	hung11
-玒	hung11
-疼	hung11	0%
-瞳	hung11
-砼	hung11
-秱	hung11
-穜	hung11
-童	hung11
-篊	hung11
-紅	hung11	5%
-絧	hung11
-罿	hung11
-羾	hung11
-艟	hung11	3%
-茼	hung11
-葒	hung11
-葓	hung11
-蕻	hung11
-虹	hung11
-衕	hung11
-訌	hung11	0%
-詷	hung11
-酮	hung11
-鉷	hung11
-銅	hung11
-雄	hung11
-魟	hung11	3%
-鮦	hung11	0%
-鴻	hung11
-黌	hung11	0%
-㗢	hung11
-㼧	hung11
-䃔	hung11
-䧺	hung11
-𦍻	hung11
-𦏆	hung11
-𦏺	hung11
-𦨴	hung11
-𩗄	hung11
-𩿅	hung11
-叿	hung31	0%
-䪦	hung31
-𧺣	hung31
+仝	hung22
+佟	hung22
+侗	hung22
+僮	hung22	0%
+同	hung22
+垌	hung22	3%
+峒	hung22
+彋	hung22
+彤	hung22
+曈	hung22
+朣	hung22
+桐	hung22
+橦	hung22
+氃	hung22
+洪	hung22
+潼	hung22
+灴	hung22
+烔	hung22
+熊	hung22
+犝	hung22
+玒	hung22
+疼	hung22	0%
+瞳	hung22
+砼	hung22
+秱	hung22
+穜	hung22
+童	hung22
+篊	hung22
+紅	hung22	5%
+絧	hung22
+罿	hung22
+羾	hung22
+艟	hung22	3%
+茼	hung22
+葒	hung22
+葓	hung22
+蕻	hung22
+虹	hung22
+衕	hung22
+訌	hung22	0%
+詷	hung22
+酮	hung22
+鉷	hung22
+銅	hung22
+雄	hung22
+魟	hung22	3%
+鮦	hung22	0%
+鴻	hung22
+黌	hung22	0%
+㗢	hung22
+㼧	hung22
+䃔	hung22
+䧺	hung22
+𦍻	hung22
+𦏆	hung22
+𦏺	hung22
+𦨴	hung22
+𩗄	hung22
+𩿅	hung22
+叿	hung32	0%
+䪦	hung32
+𧺣	hung32
 倥	hung33	0%
 兇	hung33
 凶	hung33
@@ -4954,9 +4876,87 @@ import_tables:
 血	hut55
 疐	i21	0%
 蒂	i21	0%
-地	i31	0%
+地	i32	0%
 知	i33
 畀	i55	90%
+笛	iak32	3%
+糴	iak32
+渧	iak33
+滴	iak33	5%
+琢	iak33
+趯	iak33
+剁	iak55	3%
+啄	iak55	3%
+斫	iak55
+斮	iak55	3%
+斲	iak55	0%
+斵	iak55	0%
+滴	iak55	5%
+㓸	iak55
+掂	iam32	5%
+坫	iam33
+埝	iam33
+店	iam33
+惦	iam33
+掂	iam33	5%
+敁	iam33	0%
+玷	iam33	0%
+痁	iam33
+跕	iam33	3%
+踮	iam33	0%
+阽	iam33
+丶	iam55
+點	iam55
+丁	iang21	3%
+釘	iang21
+靪	iang21
+定	iang32	3%
+訂	iang32	3%
+掟	iang33	0%
+盯	iang33	3%
+釘	iang33
+靪	iang33
+頂	iang55	3%
+喋	iap32	3%
+堞	iap32
+挕	iap32
+揲	iap32	3%
+楪	iap32	0%
+牒	iap32
+疊	iap32	0%
+碟	iap32	3%
+蝶	iap32	3%
+諜	iap32
+蹀	iap32
+鰈	iap32
+㲲	iap32
+喋	iap55	3%
+窅	iau21
+丟	iau32
+掉	iau32	0%
+敦	iau32	3%
+窕	iau32	0%
+調	iau32	0%
+銩	iau32
+凋	iau33
+刁	iau33
+叼	iau33
+吊	iau33
+弔	iau33	0%
+彫	iau33
+汈	iau33
+碉	iau33
+窵	iau33
+藋	iau33
+貂	iau33
+踔	iau33
+釣	iau33
+銱	iau33
+雕	iau33
+鮉	iau33	0%
+鯛	iau33
+爹	ie33
+嗲	ie55
 椹	im21
 砧	im21
 碪	im21
@@ -4965,703 +4965,9 @@ import_tables:
 塞	it33
 㩙	it33
 噎	it55
-渣	ja21
-皻	ja21
-齄	ja21
-齇	ja21
-厏	ja31
-乍	ja33	0%
-侘	ja33
-吒	ja33	3%
-咋	ja33	3%
-哳	ja33
-垞	ja33
-奓	ja33	3%
-奼	ja33	0%
-抓	ja33	0%
-抯	ja33
-拃	ja33
-挓	ja33
-揸	ja33
-摣	ja33
-撾	ja33	0%
-柞	ja33	0%
-查	ja33
-楂	ja33
-榨	ja33
-樝	ja33
-溠	ja33
-炸	ja33
-煠	ja33	0%
-痄	ja33
-矺	ja33
-砟	ja33	0%
-笮	ja33	0%
-苲	ja33	0%
-蚱	ja33	3%
-蜡	ja33	0%
-詐	ja33
-詫	ja33
-餷	ja33
-髽	ja33
-鮓	ja33	0%
-鮺	ja33
-䖳	ja33	0%
-咱	ja55
-咱	ja55
-喳	ja55
-臢	ja55	3%
-寨	jai31
-滯	jai31
-砦	jai31
-齊	jai31	3%
-亝	jai33
-債	jai33
-傺	jai33
-制	jai33
-劑	jai33	0%
-嚌	jai33
-掣	jai33
-擠	jai33
-穧	jai33
-製	jai33
-霽	jai33	0%
-齊	jai33	3%
-齋	jai33
-齏	jai33
-䱥	jai33
-𢮓	jai33
-宅	jak31	3%
-摘	jak31
-擇	jak31
-擲	jak31
-澤	jak31	3%
-矺	jak31
-砸	jak31
-磔	jak31	0%
-翟	jak31
-蠌	jak31
-謫	jak31
-蹢	jak31	0%
-躑	jak31	0%
-岞	jak33
-柞	jak33	0%
-窄	jak33
-笮	jak33	0%
-舴	jak33
-虴	jak33
-迮	jak33	0%
-側	jak55
-嘖	jak55	0%
-幘	jak55	3%
-溭	jak55	0%
-笮	jak55	0%
-簀	jak55
-蔶	jak55	0%
-責	jak55	3%
-賾	jak55	0%
-㺓	jak55
-暫	jam31
-站	jam31
-鏨	jam31
-戡	jam33	0%
-湛	jam33	3%
-緘	jam33
-嶄	jam55	3%
-斬	jam55
-眨	jam55
-䁪	jam55
-撰	jan31	0%
-棧	jan31	0%
-綻	jan31
-賺	jan31
-贃	jan31	0%
-饌	jan31	3%
-盞	jan55
-踭	jang21
-掙	jang31	0%
-撐	jang31	0%
-丁	jang33	3%
-崢	jang33	3%
-掙	jang33	0%
-爭	jang33	3%
-猙	jang33	0%
-琤	jang33	3%
-箏	jang33	3%
-諍	jang33	3%
-踭	jang33
-錚	jang33	3%
-鬇	jang33
-䦛	jang33	0%
-倀	jang55	3%
-睜	jang55	3%
-罩	jao21
-䈇	jao21
-宙	jao31
-棹	jao31	3%
-櫂	jao31
-籀	jao31
-籒	jao31	0%
-紂	jao31
-繇	jao31	3%
-胄	jao31	0%
-葤	jao31
-酎	jao31
-驟	jao31	3%
-鮦	jao31	0%
-嘲	jao33
-笊	jao33
-罩	jao33
-䈇	jao33
-帚	jao55	3%
-找	jao55
-抓	jao55	0%
-爪	jao55
-箒	jao55
-肘	jao55	3%
-菷	jao55	0%
-㕚	jao55	0%
-㕚	jao55	0%
-喋	jap21	3%
-牐	jap31
-鍘	jap31	0%
-閘	jap31
-靸	jap31
-劄	jap55	3%
-咂	jap55
-執	jap55
-帀	jap55	0%
-匝	jat21
-扎	jat21	0%
-挃	jat21
-䍉	jat31
-匝	jat33
-咂	jat33
-哳	jat33
-扎	jat33	0%
-拶	jat33
-砸	jat33
-紥	jat33
-紮	jat33	0%
-軋	jat33	3%
-魳	jat33	0%
-劄	jat55	3%
-扎	jat55	0%
-札	jat55	3%
-猰	jat55	0%
-毑	jeh21
-蔗	jeh21
-嗻	jeh33
-柘	jeh33
-罝	jeh33	0%
-這	jeh33	5%
-遮	jeh33
-鷓	jeh33
-者	jeh55
-赭	jeh55
-鍺	jeh55
-値	jeik31	0%
-值	jeik31
-埴	jeik31
-植	jeik31
-殖	jeik31
-湜	jeik31
-直	jeik31
-稙	jeik31	0%
-蟄	jeik31	0%
-陟	jeik31
-仄	jeik55
-摭	jeik55
-昃	jeik55
-炙	jeik55	0%
-織	jeik55	3%
-職	jeik55
-蝍	jeik55
-跖	jeik55
-蹠	jeik55	0%
-軄	jeik55	0%
-陟	jeik55
-鵮	jeim33	0%
-剩	jein31	3%
-賸	jein31
-阱	jein31	0%
-佂	jein33
-偵	jein33
-媜	jein33
-幀	jein33
-征	jein33
-徴	jein33	0%
-徵	jein33	0%
-怔	jein33
-政	jein33
-楨	jein33
-正	jein33	3%
-湞	jein33
-烝	jein33
-症	jein33	0%
-癥	jein33	0%
-禎	jein33
-篜	jein33
-聇	jein33
-蒸	jein33
-証	jein33
-證	jein33
-貞	jein33
-赬	jein33	0%
-遉	jein33	0%
-鉦	jein33
-鯖	jein33	0%
-䒱	jein33
-𢌛	jein33
-𤇶	jein33
-𤏾	jein33
-𦙫	jein33
-𦡅	jein33
-𧗆	jein33
-𧘿	jein33
-𧾸	jein33
-𨒌	jein33
-𨜓	jein33
-𩜎	jein33
-抍	jein55
-拯	jein55
-整	jein55
-氶	jein55
-著	jek31
-著	jek33
-隻	jek33
-桌	jek55
-棹	jek55	3%
-禚	jek55	0%
-著	jek55
-酌	jek55
-鐯	jek55	0%
-就	jel31
-趙	jel31	3%
-召	jel33	0%
-招	jel33
-昭	jel33	0%
-曌	jel33
-朝	jel33	3%
-炤	jel33	3%
-照	jel33
-瞾	jel33	0%
-詔	jel33	0%
-釗	jel33	0%
-沼	jel55
-佔	jem33	3%
-占	jem33	3%
-呫	jem33
-沾	jem33	0%
-瞻	jem33
-粘	jem33	0%
-覘	jem33	0%
-詹	jem33
-譫	jem33
-贍	jem33
-霑	jem33
-韂	jem33
-䩞	jem33	0%
-戰	jen33
-旃	jen33
-氈	jen33
-氊	jen33
-邅	jen33
-顫	jen33
-飦	jen33
-饘	jen33
-鱣	jen33	0%
-鸇	jen33
-丈	jeng31
-仗	jeng31
-杖	jeng31
-鄭	jeng31	0%
-仗	jeng33
-嫜	jeng33
-嶂	jeng33
-帳	jeng33
-幛	jeng33
-張	jeng33
-彰	jeng33
-樟	jeng33
-正	jeng33	3%
-漲	jeng33
-漳	jeng33
-獐	jeng33
-璋	jeng33
-瘴	jeng33
-章	jeng33
-脹	jeng33
-蟑	jeng33
-賬	jeng33
-鄣	jeng33
-障	jeng33
-麞	jeng33
-仉	jeng55
-掌	jeng55
-長	jeng55
-鞝	jeng55	0%
-皺	jeo33
-縐	jeo33
-諏	jeo33
-謅	jeo33	3%
-鄒	jeo33
-鄹	jeo33
-陬	jeo33
-騶	jeo33
-鯫	jeo33	3%
-㑇	jeo33
-㥮	jeo33
-皺	jeo55
-褶	jep21	3%
-折	jep33	3%
-摺	jep33	0%
-讋	jep33
-折	jet33	3%
-踅	jet33	3%
-哲	jet55
-喆	jet55
-嚞	jet55	0%
-折	jet55	3%
-晢	jet55
-晣	jet55
-浙	jet55
-矺	jet55
-蜇	jet55
-騭	jet55
-䇽	jet55
-𧋍	jet55
-注	ji21
-珠	ji21
-疰	ji21
-註	ji21
-駐	ji21
-乿	ji31	0%
-住	ji31
-廌	ji31	0%
-櫡	ji31	0%
-治	ji31
-痔	ji31
-筯	ji31
-箸	ji31	0%
-豸	ji31
-之	ji33
-侏	ji33
-卮	ji33
-厔	ji33	0%
-吱	ji33	3%
-姝	ji33
-寘	ji33
-彘	ji33
-志	ji33
-忮	ji33	0%
-摯	ji33
-支	ji33
-智	ji33
-朱	ji33	3%
-枝	ji33	3%
-株	ji33
-栺	ji33
-梔	ji33
-梽	ji33
-椥	ji33
-櫧	ji33
-櫫	ji33
-氏	ji33
-洙	ji33	0%
-瀦	ji33
-炷	ji33
-疐	ji33	0%
-疷	ji33	0%
-痣	ji33
-知	ji33
-硃	ji33
-稚	ji33
-稺	ji33
-穉	ji33
-緻	ji33
-置	ji33
-肢	ji33
-胝	ji33	0%
-脂	ji33
-至	ji33
-致	ji33
-芝	ji33
-茱	ji33	0%
-著	ji33
-蛀	ji33
-蛛	ji33
-蜘	ji33
-袾	ji33
-觶	ji33	0%
-誅	ji33
-誌	ji33
-諸	ji33
-識	ji33
-豬	ji33
-質	ji33
-贄	ji33
-躓	ji33
-輊	ji33
-遲	ji33	3%
-邾	ji33
-銖	ji33
-鑄	ji33
-雉	ji33
-髭	ji33
-鷙	ji33
-鼄	ji33
-鼅	ji33
-䄺	ji33
-䕌	ji33
-䵹	ji33
-主	ji55
-只	ji55	0%
-吱	ji55	3%
-咫	ji55
-嘁	ji55	3%
-址	ji55
-夂	ji55
-徴	ji55	0%
-徵	ji55	0%
-扺	ji55
-拄	ji55
-指	ji55
-旨	ji55
-枳	ji55	3%
-止	ji55
-沚	ji55
-渚	ji55
-煑	ji55
-煮	ji55
-祇	ji55
-祉	ji55	0%
-祗	ji55	0%
-紙	ji55
-翥	ji55	0%
-耆	ji55	3%
-芷	ji55
-趾	ji55
-軹	ji55
-酯	ji55
-麈	ji55
-黹	ji55
-䬡	ji55
-譖	jim21	0%
-針	jim21
-朕	jim31
-浸	jim31	3%
-鴆	jim31
-斟	jim33
-箴	jim33
-針	jim33
-鍼	jim33	3%
-枕	jim55
-陣	jin31
-珍	jin33
-瑱	jin33	0%
-甄	jin33
-眞	jin33
-真	jin33
-稹	jin33	0%
-鎮	jin33
-囅	jin55	3%
-展	jin55
-振	jin55	3%
-搌	jin55
-碾	jin55	3%
-誫	jin55	0%
-賑	jin55
-蹍	jin55
-輾	jin55	3%
-震	jin55
-㜊	jin55
-執	jip55
-汁	jip55
-縶	jip55
-輒	jip55	0%
-輙	jip55	0%
-侄	jit31	3%
-姪	jit31
-桎	jit31	0%
-窒	jit31	3%
-膣	jit31
-蛭	jit31
-螲	jit31	0%
-郅	jit31	0%
-厔	jit55	0%
-挃	jit55
-質	jit55
-鑕	jit55
-騭	jit55
-咒	jiu21
-晝	jiu21
-洲	jiu21
-侜	jiu33
-周	jiu33
-咒	jiu33
-咮	jiu33
-啁	jiu33	3%
-州	jiu33
-晝	jiu33
-洲	jiu33
-盩	jiu33
-緅	jiu33
-舟	jiu33
-賙	jiu33
-輈	jiu33
-週	jiu33
-鵃	jiu33	0%
-助	jo31
-阻	jo55
-咮	joi21
-喙	joi33
-擢	jok31
-濯	jok31	3%
-鷟	jok31	0%
-捉	jok33	3%
-浞	jok55	0%
-傳	jon31	3%
-專	jon33
-磚	jon33
-篿	jon33
-耑	jon33
-顓	jon33
-囀	jon55	0%
-孨	jon55	0%
-膞	jon55
-轉	jon55
-壵	jong31	0%
-幢	jong31
-撞	jong31	0%
-狀	jong31
-駔	jong31	3%
-僮	jong33	0%
-壯	jong33	3%
-奘	jong33	0%
-妝	jong33
-娤	jong33	0%
-戇	jong33
-樁	jong33
-粧	jong33	0%
-糚	jong33	0%
-莊	jong33
-裝	jong33
-䚎	jong33
-咄	jot55	0%
-啜	jot55	3%
-怵	jot55	0%
-惙	jot55
-拙	jot55	0%
-掇	jot55
-敠	jot55
-敪	jot55
-柮	jot55	3%
-梲	jot55	0%
-棳	jot55
-絀	jot55	3%
-綴	jot55	3%
-腏	jot55
-茁	jot55	0%
-蝃	jot55
-裰	jot55
-輟	jot55	0%
-醊	jot55	0%
-餟	jot55
-黜	jot55	3%
-俎	ju55
-詛	ju55
-阻	ju55
-錐	jui21	0%
-叕	jui31
-墜	jui31
-惴	jui31	0%
-憝	jui31	3%
-懟	jui31
-箠	jui31	0%
-綴	jui31	3%
-縋	jui31
-譈	jui31
-贅	jui31	3%
-錘	jui31
-隊	jui31	0%
-且	jui33	3%
-椎	jui33
-濉	jui33
-睢	jui33	0%
-脧	jui33
-菹	jui33
-蛆	jui33	3%
-追	jui33	3%
-錐	jui33	0%
-隹	jui33
-雎	jui33
-騅	jui33
-妯	juk31	3%
-牘	juk31
-瘃	juk31	3%
-舳	juk31
-軸	juk31	3%
-逐	juk31	3%
-鐲	juk31	3%
-囑	juk33
-囑	juk55
-屬	juk55	3%
-燭	juk55
-矚	juk55
-祝	juk55	3%
-竹	juk55
-竺	juk55
-笁	juk55	0%
-築	juk55
-粥	juk55	3%
-鬻	juk55
-圳	jun31	0%
-汌	jun31
-汌	jun31
-津	jun31
-准	jun55
-埻	jun55
-準	jun55	3%
-隼	jun55	0%
-鶽	jun55	0%
-盅	jung21
-仲	jung31
-重	jung31
-中	jung33
-乑	jung33
-伀	jung33
-忠	jung33
-忪	jung33
-憃	jung33
-橦	jung33
-盅	jung33
-眾	jung33	3%
-種	jung33
-穜	jung33
-終	jung33
-舂	jung33
-舯	jung33
-蔠	jung33
-螤	jung33	0%
-螽	jung33
-衆	jung33
-衳	jung33
-衶	jung33
-蹱	jung33
-鍾	jung33
-鐘	jung33
-㐺	jung33
-䈺	jung33
-種	jung55
-穜	jung55
-腫	jung55
-踵	jung55
-捽	jut33	0%
-𢫋	jut33
-曱	ka11
-蠄	ka11
-跨	ka11
+曱	ka22
+蠄	ka22
+跨	ka22
 侉	ka33
 咵	ka33
 垮	ka33
@@ -5681,7 +4987,7 @@ import_tables:
 卡	ka55	0%
 咔	ka55
 胩	ka55
-契	kai11
+契	kai22
 傒	kai33
 契	kai33
 嵇	kai33	0%
@@ -5711,214 +5017,171 @@ import_tables:
 冚	kam55
 夼	kang21	3%
 框	kang21
-框	kang11
+框	kang22
 亢	kang33
 框	kang33
 裉	kang33
 骾	kang55	0%
 鯁	kang55
-巧	kao21	0%
-該	kao21
-尻	kao33	0%
-犒	kao33
-靠	kao33
-巧	kao55	0%
 刮	kat33
 咳	kat33	3%
 卡	kat55	0%
 咭	kat55	0%
 咳	kat55	3%
-伽	keh21
-瘸	keh21	0%
-茄	keh21	0%
-騎	keh11	3%
-𨁐	keh55
-揭	keik33	3%
-訐	keik33	0%
-仡	keik55	3%
-圪	keik55	3%
-孑	keik55	0%
-屹	keik55	3%
-挈	keik55	3%
-擷	keik55
-楬	keik55	3%
-汔	keik55	0%
-洫	keik55	0%
-淢	keik55	0%
-疙	keik55	3%
-碣	keik55
-紇	keik55
-綌	keik55	0%
-羯	keik55	0%
-聝	keik55	0%
-虢	keik55
-蛣	keik55
-蝎	keik55	0%
-蠍	keik55
-訖	keik55
-迄	keik55	3%
-郄	keik55	0%
-闃	keik55	0%
-隙	keik55	5%
-馘	keik55	0%
-冚	keim11
-蠄	keim11
-冚	keim55
-乾	kein11
-勍	kein11
-惸	kein11
-掮	kein11
-擎	kein11
-擏	kein11
-橩	kein11
-檠	kein11
-焭	kein11
-煢	kein11
-犍	kein11	5%
-瓊	kein11
-睘	kein11
-瞏	kein11
-葝	kein11
-藑	kein11
-虔	kein11
-鯨	kein11
-黥	kein11
-㝁	kein11
-㯳	kein11
-㷀	kein11
-䲔	kein11
-𡞦	kein11
-𡦃	kein11
-𢶇	kein11
-𦽓	kein11
-𩷏	kein11
-傾	kein33
-傾	kein55
-廎	kein55
-頃	kein55	0%
-𩒵	kein55
-扱	keip55	3%
-給	keip55
-佉	kek21
-屐	kek21
-劇	kek55
-卻	kek55
-噱	kek55	3%
-𠊬	kek55
-藠	kel21
-僑	kel11
-喬	kel11
-嶠	kel11	0%
-橋	kel11
-礄	kel11
-翹	kel11	3%
-荍	kel11
-蕎	kel11
-譑	kel11
-趫	kel11
-鞽	kel11
-翹	kel33	3%
-蹺	kel33	3%
-蹻	kel33	0%
-拑	kem11
-箝	kem11
-軡	kem11	0%
-鈐	kem11
-鉗	kem11
-黔	kem11
-強	keng21	0%
-彊	keng21	0%
-繈	keng21
-繦	keng21	0%
-膙	keng21	0%
-襁	keng21
-鏹	keng21
-強	keng11	0%
-彊	keng11	0%
-擎	keng11
-檠	keng11
-冦	keo33	0%
-叩	keo33
-媾	keo33	0%
-宼	keo33	0%
-寇	keo33
-扣	keo33
-摳	keo33
-敲	keo33
-構	keo33
-溝	keo33	0%
-瞘	keo33
-窛	keo33	0%
-筘	keo33
-篝	keo33	3%
-簼	keo33	0%
-芤	keo33	3%
-蔻	keo33
-覯	keo33	0%
-購	keo33
-遘	keo33	0%
-釦	keo33
-靠	keo33
-鞲	keo33	0%
-韝	keo33	0%
-㸆	keo33
+巧	kau21	0%
+該	kau21
+尻	kau33	0%
+犒	kau33
+靠	kau33
+巧	kau55	0%
+冚	kem22
+蠄	kem22
+冚	kem55
+乾	ken22
+勍	ken22
+惸	ken22
+掮	ken22
+擎	ken22
+擏	ken22
+橩	ken22
+檠	ken22
+焭	ken22
+煢	ken22
+犍	ken22	5%
+瓊	ken22
+睘	ken22
+瞏	ken22
+葝	ken22
+藑	ken22
+虔	ken22
+鯨	ken22
+黥	ken22
+㝁	ken22
+㯳	ken22
+㷀	ken22
+䲔	ken22
+𡞦	ken22
+𡦃	ken22
+𢶇	ken22
+𦽓	ken22
+𩷏	ken22
+傾	ken33
+傾	ken55
+廎	ken55
+頃	ken55	0%
+𩒵	ken55
+扱	kep55	3%
+給	kep55
+揭	ket33	3%
+訐	ket33	0%
+仡	ket55	3%
+圪	ket55	3%
+孑	ket55	0%
+屹	ket55	3%
+挈	ket55	3%
+擷	ket55
+楬	ket55	3%
+汔	ket55	0%
+洫	ket55	0%
+淢	ket55	0%
+疙	ket55	3%
+碣	ket55
+紇	ket55
+綌	ket55	0%
+羯	ket55	0%
+聝	ket55	0%
+虢	ket55
+蛣	ket55
+蝎	ket55	0%
+蠍	ket55
+訖	ket55
+迄	ket55	3%
+郄	ket55	0%
+闃	ket55	0%
+隙	ket55	5%
+馘	ket55	0%
+冦	keu33	0%
+叩	keu33
+媾	keu33	0%
+宼	keu33	0%
+寇	keu33
+扣	keu33
+摳	keu33
+敲	keu33
+構	keu33
+溝	keu33	0%
+瞘	keu33
+窛	keu33	0%
+筘	keu33
+篝	keu33	3%
+簼	keu33	0%
+芤	keu33	3%
+蔻	keu33
+覯	keu33	0%
+購	keu33
+遘	keu33	0%
+釦	keu33
+靠	keu33
+鞲	keu33	0%
+韝	keu33	0%
+㸆	keu33
 企	ki21	0%
 葵	ki21
-丌	ki11
-亓	ki11
-俟	ki11
-其	ki11	3%
-圻	ki11
-埼	ki11
-夔	ki11
-奇	ki11
-岐	ki11
-崎	ki11
-揆	ki11
-攜	ki11
-攲	ki11
-敧	ki11
-旂	ki11
-旗	ki11
-暌	ki11
-期	ki11
-棊	ki11
-棋	ki11
-欹	ki11
-歧	ki11
-沂	ki11
-淇	ki11
-琦	ki11
-琪	ki11
-畦	ki11
-眭	ki11
-睽	ki11	3%
-碁	ki11	3%
-祁	ki11
-祇	ki11
-祈	ki11
-祺	ki11
-禥	ki11	0%
-竒	ki11	0%
-綦	ki11
-耆	ki11	3%
-芪	ki11
-萁	ki11
-葵	ki11
-蘄	ki11
-蜝	ki11	0%
-蜞	ki11
-觭	ki11
-跂	ki11
-隗	ki11	0%
-頎	ki11
-馗	ki11
-騎	ki11	3%
-騏	ki11
-鬐	ki11
-鯕	ki11
-鰭	ki11
-麒	ki11
+丌	ki22
+亓	ki22
+俟	ki22
+其	ki22	3%
+圻	ki22
+埼	ki22
+夔	ki22
+奇	ki22
+岐	ki22
+崎	ki22
+揆	ki22
+攜	ki22
+攲	ki22
+敧	ki22
+旂	ki22
+旗	ki22
+暌	ki22
+期	ki22
+棊	ki22
+棋	ki22
+欹	ki22
+歧	ki22
+沂	ki22
+淇	ki22
+琦	ki22
+琪	ki22
+畦	ki22
+眭	ki22
+睽	ki22	3%
+碁	ki22	3%
+祁	ki22
+祇	ki22
+祈	ki22
+祺	ki22
+禥	ki22	0%
+竒	ki22	0%
+綦	ki22
+耆	ki22	3%
+芪	ki22
+萁	ki22
+葵	ki22
+蘄	ki22
+蜝	ki22	0%
+蜞	ki22
+觭	ki22
+跂	ki22
+隗	ki22	0%
+頎	ki22
+馗	ki22
+騎	ki22	3%
+騏	ki22
+鬐	ki22
+鯕	ki22
+鰭	ki22
+麒	ki22
 亟	ki33
 企	ki33	0%
 冀	ki33	0%
@@ -5947,15 +5210,58 @@ import_tables:
 闚	ki33
 驥	ki33	0%
 企	ki55	0%
+佉	kiak21
+屐	kiak21
+劇	kiak55
+卻	kiak55
+噱	kiak55	3%
+𠊬	kiak55
+拑	kiam22
+箝	kiam22
+軡	kiam22	0%
+鈐	kiam22
+鉗	kiam22
+黔	kiam22
+強	kiang21	0%
+彊	kiang21	0%
+繈	kiang21
+繦	kiang21	0%
+膙	kiang21	0%
+襁	kiang21
+鏹	kiang21
+強	kiang22	0%
+彊	kiang22	0%
+擎	kiang22
+檠	kiang22
+藠	kiau21
+僑	kiau22
+喬	kiau22
+嶠	kiau22	0%
+橋	kiau22
+礄	kiau22
+翹	kiau22	3%
+荍	kiau22
+蕎	kiau22
+譑	kiau22
+趫	kiau22
+鞽	kiau22
+翹	kiau33	3%
+蹺	kiau33	3%
+蹻	kiau33	0%
+伽	kie21
+瘸	kie21	0%
+茄	kie21	0%
+騎	kie22	3%
+𨁐	kie55
 妗	kim21
 衿	kim21	0%
 襟	kim21	0%
-噙	kim11
-擒	kim11
-檎	kim11
-琴	kim11
-禽	kim11
-芩	kim11
+噙	kim22
+擒	kim22
+檎	kim22
+琴	kim22
+禽	kim22
+芩	kim22
 噤	kim33	0%
 禁	kim33	3%
 衾	kim33
@@ -5963,10 +5269,10 @@ import_tables:
 襟	kim33	0%
 肫	kin21	3%
 胗	kin21	0%
-勤	kin11
-廑	kin11	0%
-矜	kin11	3%
-芹	kin11
+勤	kin22
+廑	kin22	0%
+矜	kin22	3%
+芹	kin22
 近	kin33
 吸	kip55
 噏	kip55
@@ -5979,23 +5285,23 @@ import_tables:
 翕	kip55	3%
 桕	kiu21
 舅	kiu21
-仇	kiu11
-俅	kiu11
-巰	kiu11
-毬	kiu11
-求	kiu11
-球	kiu11
-璆	kiu11
-穋	kiu11
-虬	kiu11
-虯	kiu11
-裘	kiu11
-訄	kiu11
-賕	kiu11
-逑	kiu11
-鬮	kiu11	0%
-鼽	kiu11
-㧄	kiu11
+仇	kiu22
+俅	kiu22
+巰	kiu22
+毬	kiu22
+求	kiu22
+球	kiu22
+璆	kiu22
+穋	kiu22
+虬	kiu22
+虯	kiu22
+裘	kiu22
+訄	kiu22
+賕	kiu22
+逑	kiu22
+鬮	kiu22	0%
+鼽	kiu22
+㧄	kiu22
 該	koi21
 丐	koi33	0%
 乢	koi33	0%
@@ -6061,9 +5367,9 @@ import_tables:
 蠼	kok55
 郝	kok55	0%
 霍	kok55
-狂	kong11
-誆	kong11	0%
-誑	kong11	3%
+狂	kong22
+誆	kong22	0%
+誑	kong22	3%
 丱	kong33
 亢	kong33
 伉	kong33
@@ -6109,28 +5415,29 @@ import_tables:
 詎	kui21
 距	kui21	0%
 䀠	kui21
-劬	kui11
-朐	kui11
-氍	kui11
-渠	kui11
-璩	kui11
-癯	kui11
-瞿	kui11	3%
-磲	kui11
-籧	kui11	0%
-胊	kui11
-臞	kui11
-蕖	kui11
-蚼	kui11
-蜍	kui11	3%
-蠩	kui11
-蠼	kui11
-衢	kui11
-醵	kui11	0%
-鴝	kui11
-鸜	kui11
-鼩	kui11
-𣰽	kui11
+劬	kui22
+朐	kui22
+氍	kui22
+渠	kui22
+璩	kui22
+癯	kui22
+瞿	kui22	3%
+磲	kui22
+籧	kui22	0%
+胊	kui22
+臞	kui22
+蕖	kui22
+蚼	kui22
+蜍	kui22	3%
+蠩	kui22
+蠼	kui22
+衢	kui22
+醵	kui22	0%
+鴝	kui22
+鸜	kui22
+鼩	kui22
+𣰽	kui22
+胊	kui22
 佢	kui33	100%
 俱	kui33	0%
 區	kui33
@@ -6155,22 +5462,22 @@ import_tables:
 麴	kuk55
 菌	kun21	0%
 輥	kun21	0%
-啳	kun11	0%
-帬	kun11
-惓	kun11	3%
-拳	kun11
-權	kun11
-羣	kun11
-群	kun11	0%
-蜷	kun11
-裙	kun11
-裠	kun11
-跧	kun11
-踡	kun11
-顴	kun11
-鬈	kun11
-麇	kun11
-麕	kun11	0%
+啳	kun22	0%
+帬	kun22
+惓	kun22	3%
+拳	kun22
+權	kun22
+羣	kun22
+群	kun22	0%
+蜷	kun22
+裙	kun22
+裠	kun22
+跧	kun22
+踡	kun22
+顴	kun22
+鬈	kun22
+麇	kun22
+麕	kun22	0%
 僒	kun33	0%
 困	kun33
 囷	kun33
@@ -6200,19 +5507,19 @@ import_tables:
 閫	kun55
 麇	kun55
 麏	kun55	0%
-龹	kunduheo55
+龹	kunduheu55
 窮	kung21
-穹	kung11	0%
-窮	kung11
-竆	kung11
-笻	kung11
-筇	kung11
-藭	kung11
-虹	kung11
-蛩	kung11
-跫	kung11
-邛	kung11
-銎	kung11
+穹	kung22	0%
+窮	kung22
+竆	kung22
+笻	kung22
+筇	kung22
+藭	kung22
+虹	kung22
+蛩	kung22
+跫	kung22
+邛	kung22
+銎	kung22
 灴	kung33
 烘	kung33	3%
 焪	kung33	0%
@@ -6273,59 +5580,59 @@ import_tables:
 䗍	lai21
 𦧺	lai21
 𦧺	lai215
-悷	lai11	0%
-犁	lai11
-犂	lai11	0%
-蔾	lai11
-藜	lai11	0%
-蠡	lai11	3%
-麗	lai11	3%
-黎	lai11
-黧	lai11
-𢮃	lai11
-𥌛	lai11
-例	lai31
-儷	lai31
-勵	lai31
-厲	lai31	0%
-巁	lai31
-捩	lai31	3%
-栵	lai31
-瀨	lai31
-癘	lai31	0%
-癩	lai31	3%
-礪	lai31
-籟	lai31
-糲	lai31
-荔	lai31
-落	lai31	5%
-藾	lai31
-蠣	lai31
-賴	lai31
-酹	lai31	0%
-隶	lai31
-隸	lai31	0%
-頼	lai31	0%
-麗	lai31	3%
-䊪	lai31
-䚕	lai31
-𣛒	lai31
-𤃀	lai31
-𥊨	lai31
-𥌤	lai31
-𥌿	lai31
-𨽻	lai31
+悷	lai22	0%
+犁	lai22
+犂	lai22	0%
+蔾	lai22
+藜	lai22	0%
+蠡	lai22	3%
+麗	lai22	3%
+黎	lai22
+黧	lai22
+𢮃	lai22
+𥌛	lai22
+例	lai32
+儷	lai32
+勵	lai32
+厲	lai32	0%
+巁	lai32
+捩	lai32	3%
+栵	lai32
+瀨	lai32
+癘	lai32	0%
+癩	lai32	3%
+礪	lai32
+籟	lai32
+糲	lai32
+荔	lai32
+落	lai32	5%
+藾	lai32
+蠣	lai32
+賴	lai32
+酹	lai32	0%
+隶	lai32
+隸	lai32	0%
+頼	lai32	0%
+麗	lai32	3%
+䊪	lai32
+䚕	lai32
+𣛒	lai32
+𤃀	lai32
+𥊨	lai32
+𥌤	lai32
+𥌿	lai32
+𨽻	lai32
 拉	lai33	3%
 癩	lai33	3%
 孻	lai55
 勒	lak21	0%
-仂	lak31
-勒	lak31	0%
-叻	lak31	3%
-泐	lak31
-肋	lak31	3%
-褦	lak31	0%
-鰳	lak31
+仂	lak32
+勒	lak32	0%
+叻	lak32	3%
+泐	lak32
+肋	lak32	3%
+褦	lak32	0%
+鰳	lak32
 嘞	lak33	99%
 簕	lak33	0%
 肋	lak33	3%
@@ -6340,355 +5647,823 @@ import_tables:
 覽	lam21
 𨎹	lam21
 𨏸	lam21
-婪	lam11
-嵐	lam11
-灠	lam11	0%
-繿	lam11
-藍	lam11
-襤	lam11
-攬	lam31	0%
-濫	lam31	3%
-纜	lam31
+婪	lam22
+嵐	lam22
+灠	lam22	0%
+繿	lam22
+藍	lam22
+襤	lam22
+攬	lam32	0%
+濫	lam32	3%
+纜	lam32
 攬	lam55	0%
 欖	lam55
-攔	lan11
-斕	lan11
-欄	lan11
-瀾	lan11	3%
-蘭	lan11
-讕	lan11	0%
-鑭	lan11
-闌	lan11
-爛	lan31
+攔	lan22
+斕	lan22
+欄	lan22
+瀾	lan22	3%
+蘭	lan22
+讕	lan22	0%
+鑭	lan22
+闌	lan22
+爛	lan32
 嬾	lan33	0%
 懶	lan33
 冷	lang21
 唥	lang21	0%
 𠘤	lang21
-吟	lang11	0%
+吟	lang22	0%
 冷	lang33
 罌	lang33	0%
 跉	lang33
 冷	lang55
-潦	lao21	0%
-澇	lao21
-癆	lao21
-蟧	lao21
-遛	lao21
-勞	lao11
-嘮	lao11	0%
-囉	lao11
-嶗	lao11
-撈	lao11	3%
-牢	lao11
-癆	lao11
-耮	lao11
-醪	lao11
-鐒	lao11
-漏	lao31
-撈	lao33	3%
-老	lao33
-佬	lao55	3%
-嚕	lao55
-姥	lao55
-栳	lao55
-老	lao55
-銠	lao55
-擖	lap31	0%
-臈	lap31	0%
-臘	lap31	0%
-蠟	lap31
-鑞	lap31
+擖	lap32	0%
+臈	lap32	0%
+臘	lap32	0%
+蠟	lap32
+鑞	lap32
 擸	lap33	3%
 笠	lap33	0%
 腊	lap33	0%
 臘	lap33	0%
 㧜	lap33
 笠	lap55	0%
-剌	lat31
-拉	lat31	3%
-揦	lat31
-攋	lat31
-瘌	lat31	3%
-辣	lat31
-邋	lat31	3%
-鬎	lat31	3%
+剌	lat32
+拉	lat32	3%
+揦	lat32
+攋	lat32
+瘌	lat32	3%
+辣	lat32
+邋	lat32	3%
+鬎	lat32	3%
 甩	lat55	3%
-咧	leh21	3%
-裂	leik21	3%
-冽	leik31
-列	leik31	0%
-力	leik31
-嚦	leik31	0%
-壢	leik31
-巁	leik31
-捩	leik31	3%
-曆	leik31
-栵	leik31
-櫟	leik31	3%
-歷	leik31
-瀝	leik31	3%
-烈	leik31
-皪	leik31	0%
-礫	leik31	3%
-藶	leik31
-蛚	leik31
-趔	leik31
-躒	leik31	0%
-轢	leik31	0%
-轣	leik31
-酈	leik31
-靂	leik31
-鬲	leik31
-鴷	leik31
-咧	leik33	3%
-洌	leik33
-裂	leik33	3%
-櫟	leik55	3%
-櫪	leik55	0%
-瀝	leik55	3%
-癧	leik55
-礫	leik55	3%
-裂	leik55	3%
-婪	leim11
-蘸	leim33
-嶺	lein21	3%
-攆	lein21
-領	lein21	3%
-伶	lein11
-凌	lein11
-刢	lein11
-囹	lein11
-坽	lein11
-堎	lein11	0%
-塄	lein11
-婈	lein11
-崚	lein11
-彾	lein11
-愣	lein11	3%
-昤	lein11
-柃	lein11
-棱	lein11
-楞	lein11	3%
-櫺	lein11
-欞	lein11
-泠	lein11
-淩	lein11
-漣	lein11
-澪	lein11
-玲	lein11
-璉	lein11
-瓴	lein11
-睖	lein11
-砱	lein11
-磷	lein11	3%
-祾	lein11
-秢	lein11
-稜	lein11	3%
-竛	lein11
-笭	lein11
-綾	lein11
-羚	lein11
-翎	lein11
-聆	lein11
-舲	lein11	3%
-苓	lein11
-菱	lein11
-蓮	lein11
-蔆	lein11	0%
-蕶	lein11
-薐	lein11
-蘦	lein11
-蛉	lein11
-袊	lein11
-褳	lein11
-跉	lein11
-軨	lein11
-輘	lein11
-連	lein11
-酃	lein11
-醽	lein11
-鈴	lein11
-錂	lein11
-閝	lein11
-陵	lein11
-零	lein11	3%
-霝	lein11
-靇	lein11
-靈	lein11	3%
-魿	lein11
-鰱	lein11
-鴒	lein11
-麢	lein11
-齡	lein11
-龗	lein11
-㥄	lein11
-㪮	lein11
-㱥	lein11
-㲆	lein11
-㾉	lein11
-䈊	lein11
-䉖	lein11
-䍅	lein11
-䔖	lein11
-䕘	lein11
-䙥	lein11
-𠱠	lein11
-𢔁	lein11
-𣌟	lein11
-𤫊	lein11
-𥖟	lein11
-𥘃	lein11
-𥢴	lein11
-𥤞	lein11
-𦉢	lein11
-𦏪	lein11
-𦏰	lein11
-𧟙	lein11
-𧰻	lein11
-𨠎	lein11
-𨤍	lein11
-𨯻	lein11
-𨷰	lein11
-𩊂	lein11
-𩚹	lein11
-𩬔	lein11
-𩰂	lein11
-令	lein31	3%
-另	lein31
-呤	lein31	3%
-楝	lein31
-煉	lein31
-璉	lein31
-練	lein31
-輦	lein31
-鏈	lein31	3%
-令	lein55	3%
-笠	leip21	0%
-垃	leip31	3%
-笠	leip55	0%
-掠	lek31
-撂	lek31	3%
-略	lek31
-畧	lek31
-叻	lek55	3%
-了	lel11	0%
-僚	lel11	3%
-嘹	lel11
-寥	lel11
-寮	lel11
-尥	lel11
-撩	lel11	6%
-燎	lel11	3%
-獠	lel11
-療	lel11	0%
-瞭	lel11
-繆	lel11
-繚	lel11
-聊	lel11
-蟟	lel11
-蟧	lel11
-蹽	lel11
-遼	lel11
-鐐	lel11
-鷚	lel11	0%
-鷯	lel11
-廖	lel31
-料	lel31	0%
-繚	lel31
-蓼	lel31
-釕	lel31	0%
-了	lel55	0%
-撩	lel55	6%
-釕	lel55	0%
-斂	lem21
-殮	lem21	3%
-瀲	lem21	0%
-臉	lem21
-薟	lem21	3%
-蘞	lem21	3%
-襝	lem21	0%
-亷	lem11	0%
-奩	lem11
-帘	lem11
-廉	lem11
-濂	lem11
-濓	lem11	0%
-簾	lem11
-臁	lem11
-蠊	lem11
-譧	lem11
-鐮	lem11
-㢘	lem11
-𨎷	lem11
-𩪬	lem11
-舔	lem55
-嶺	leng21	3%
-鈴	leng21
-領	leng21	3%
-〇	leng11
-墚	leng11
-梁	leng11
-椋	leng11
-樑	leng11
-涼	leng11	3%
-粱	leng11
-糧	leng11
-良	leng11
-莨	leng11	3%
-踉	leng11	3%
-輛	leng11
-量	leng11
-零	leng11	3%
-鯪	leng11
-𡆨	leng11
-亮	leng31
-喨	leng31
-諒	leng31	3%
-踉	leng31	3%
-量	leng31
-靚	leng33
-領	leng33	3%
-倆	leng55
-兩	leng55	0%
-啢	leng55	0%
-脼	leng55
-裲	leng55
-魎	leng55
-簍	leo21
-䱾	leo21
-僂	leo11
-嘍	leo11	3%
-塿	leo11
-婁	leo11	3%
-嶁	leo11
-摟	leo11	3%
-撈	leo11	3%
-樓	leo11
-漊	leo11
-瞜	leo11	0%
-窶	leo11
-耬	leo11
-蔞	leo11	3%
-螻	leo11
-鞻	leo11
-髏	leo11
-剅	leo31	0%
-漏	leo31
-瘺	leo31
-瘻	leo31
-鏤	leo31
-陋	leo31
-撈	leo33	3%
-蔞	leo33	3%
-褸	leo33	3%
-騮	leo55
-罅	lep21
-巤	lep31	0%
-獵	lep31
-躐	lep31
-鬣	lep31
-鱲	lep31	0%
+潦	lau21	0%
+澇	lau21
+癆	lau21
+蟧	lau21
+遛	lau21
+勞	lau22
+嘮	lau22	0%
+囉	lau22
+嶗	lau22
+撈	lau22	3%
+牢	lau22
+癆	lau22
+耮	lau22
+醪	lau22
+鐒	lau22
+漏	lau32
+撈	lau33	3%
+老	lau33
+佬	lau55	3%
+嚕	lau55
+姥	lau55
+栳	lau55
+老	lau55
+銠	lau55
+婪	lem22
+蘸	lem33
+嶺	len21	3%
+攆	len21
+領	len21	3%
+伶	len22
+凌	len22
+刢	len22
+囹	len22
+坽	len22
+堎	len22	0%
+塄	len22
+婈	len22
+崚	len22
+彾	len22
+愣	len22	3%
+昤	len22
+柃	len22
+棱	len22
+楞	len22	3%
+櫺	len22
+欞	len22
+泠	len22
+淩	len22
+漣	len22
+澪	len22
+玲	len22
+璉	len22
+瓴	len22
+睖	len22
+砱	len22
+磷	len22	3%
+祾	len22
+秢	len22
+稜	len22	3%
+竛	len22
+笭	len22
+綾	len22
+羚	len22
+翎	len22
+聆	len22
+舲	len22	3%
+苓	len22
+菱	len22
+蓮	len22
+蔆	len22	0%
+蕶	len22
+薐	len22
+蘦	len22
+蛉	len22
+袊	len22
+褳	len22
+跉	len22
+軨	len22
+輘	len22
+連	len22
+酃	len22
+醽	len22
+鈴	len22
+錂	len22
+閝	len22
+陵	len22
+零	len22	3%
+霝	len22
+靇	len22
+靈	len22	3%
+魿	len22
+鰱	len22
+鴒	len22
+麢	len22
+齡	len22
+龗	len22
+㥄	len22
+㪮	len22
+㱥	len22
+㲆	len22
+㾉	len22
+䈊	len22
+䉖	len22
+䍅	len22
+䔖	len22
+䕘	len22
+䙥	len22
+𠱠	len22
+𢔁	len22
+𣌟	len22
+𤫊	len22
+𥖟	len22
+𥘃	len22
+𥢴	len22
+𥤞	len22
+𦉢	len22
+𦏪	len22
+𦏰	len22
+𧟙	len22
+𧰻	len22
+𨠎	len22
+𨤍	len22
+𨯻	len22
+𨷰	len22
+𩊂	len22
+𩚹	len22
+𩬔	len22
+𩰂	len22
+令	len32	3%
+另	len32
+呤	len32	3%
+楝	len32
+煉	len32
+璉	len32
+練	len32
+輦	len32
+鏈	len32	3%
+令	len55	3%
+笠	lep21	0%
+垃	lep32	3%
+笠	lep55	0%
+裂	let21	3%
+冽	let32
+列	let32	0%
+力	let32
+嚦	let32	0%
+壢	let32
+巁	let32
+捩	let32	3%
+曆	let32
+栵	let32
+櫟	let32	3%
+歷	let32
+瀝	let32	3%
+烈	let32
+皪	let32	0%
+礫	let32	3%
+藶	let32
+蛚	let32
+趔	let32
+躒	let32	0%
+轢	let32	0%
+轣	let32
+酈	let32
+靂	let32
+鬲	let32
+鴷	let32
+咧	let33	3%
+洌	let33
+裂	let33	3%
+櫟	let55	3%
+櫪	let55	0%
+瀝	let55	3%
+癧	let55
+礫	let55	3%
+裂	let55	3%
+簍	leu21
+䱾	leu21
+僂	leu22
+嘍	leu22	3%
+塿	leu22
+婁	leu22	3%
+嶁	leu22
+摟	leu22	3%
+撈	leu22	3%
+樓	leu22
+漊	leu22
+瞜	leu22	0%
+窶	leu22
+耬	leu22
+蔞	leu22	3%
+螻	leu22
+鞻	leu22
+髏	leu22
+剅	leu32	0%
+漏	leu32
+瘺	leu32
+瘻	leu32
+鏤	leu32
+陋	leu32
+撈	leu33	3%
+蔞	leu33	3%
+褸	leu33	3%
+騮	leu55
+壻	lhai21
+婿	lhai21
+細	lhai21
+嗮	lhai33
+嶲	lhai33	0%
+巂	lhai33	0%
+恓	lhai33
+棲	lhai33	3%
+樨	lhai33
+氥	lhai33
+犀	lhai33
+硒	lhai33
+粞	lhai33
+細	lhai33
+舾	lhai33
+茜	lhai33	3%
+西	lhai33
+鍶	lhai33
+㯕	lhai33
+𠧧	lhai33
+嘥	lhai55
+壐	lhai55	0%
+屣	lhai55
+徙	lhai55
+枲	lhai55
+洗	lhai55	3%
+漇	lhai55
+璽	lhai55
+縰	lhai55
+纚	lhai55
+葸	lhai55
+蓰	lhai55
+蹝	lhai55
+躧	lhai55
+𨑭	lhai55
+𩌦	lhai55
+噻	lhak21
+噻	lhak55
+塞	lhak55
+揌	lhak55
+㩙	lhak55
+𡨄	lhak55
+三	lham21
+三	lham33
+仨	lham33	3%
+叄	lham33
+弎	lham33
+毿	lham33
+蔘	lham33	0%
+衫	lham33
+糂	lham55	0%
+糝	lham55	3%
+糣	lham55	0%
+傘	lhan33
+散	lhan33
+潵	lhan33
+㪚	lhan33
+散	lhan55
+饊	lhan55
+僧	lhang33	0%
+鬙	lhang33	0%
+卅	lhap32	0%
+撒	lhat33
+攃	lhat33
+潵	lhat33
+薩	lhat33
+撒	lhat55
+掃	lhau21	3%
+埽	lhau33
+掃	lhau33	3%
+搔	lhau33
+瘙	lhau33
+簑	lhau33	0%
+繅	lhau33
+繰	lhau33
+臊	lhau33
+蓑	lhau33
+騷	lhau33
+鰠	lhau33	0%
+嫂	lhau55
+糝	lhem55	3%
+仙	lhen33
+仚	lhen33	0%
+佡	lhen33
+僊	lhen33
+先	lhen33	0%
+姓	lhen33	0%
+性	lhen33
+惺	lhen33	0%
+旌	lhen33
+星	lhen33	0%
+曐	lhen33
+煋	lhen33
+狌	lhen33	0%
+猩	lhen33
+瑆	lhen33
+秈	lhen33
+箵	lhen33
+篂	lhen33
+籼	lhen33
+綫	lhen33
+線	lhen33
+胜	lhen33
+腺	lhen33
+詵	lhen33	3%
+酰	lhen33
+銛	lhen33
+霰	lhen33
+騂	lhen33
+鮏	lhen33
+鮮	lhen33
+鯹	lhen33
+鱻	lhen33
+㽮	lhen33
+䃏	lhen33
+䗌	lhen33
+䤼	lhen33
+𤙡	lhen33
+𤯕	lhen33
+𥠀	lhen33
+冼	lhen55
+洗	lhen55	3%
+渻	lhen55
+燹	lhen55
+獮	lhen55
+癬	lhen55
+省	lhen55
+睲	lhen55
+筅	lhen55
+蘚	lhen55
+跣	lhen55
+醒	lhen55	3%
+銑	lhen55
+鮮	lhen55
+㝭	lhen55
+𢜫	lhen55
+𦔄	lhen55
+圾	lhep55	3%
+颯	lhep55
+嗇	lhet55
+契	lhet55
+媟	lhet55
+媳	lhet55
+屑	lhet55
+息	lhet55	3%
+悉	lhet55
+惜	lhet55
+昔	lhet55
+晰	lhet55	0%
+晳	lhet55	0%
+析	lhet55	0%
+枻	lhet55	0%
+楔	lhet55
+榍	lhet55
+泄	lhet55
+洩	lhet55	3%
+淅	lhet55
+渫	lhet55
+潟	lhet55
+熄	lhet55
+燮	lhet55	0%
+皙	lhet55
+窸	lhet55
+紲	lhet55
+絏	lhet55
+腊	lhet55	0%
+舄	lhet55
+菥	lhet55
+薛	lhet55
+蜥	lhet55
+螅	lhet55
+蟋	lhet55
+褻	lhet55
+跬	lhet55
+踖	lhet55
+躞	lhet55	0%
+躠	lhet55
+錫	lhet55
+鍥	lhet55
+㞕	lhet55
+䱑	lhet55
+𨇨	lhet55
+嗽	lheu33	3%
+傁	lheu55	0%
+叜	lheu55
+叟	lheu55
+嗖	lheu55
+嗾	lheu55
+廋	lheu55
+搜	lheu55	5%
+擻	lheu55	3%
+溲	lheu55	0%
+漱	lheu55	0%
+瞍	lheu55
+艘	lheu55
+蒐	lheu55
+藪	lheu55
+螋	lheu55
+鎪	lheu55	0%
+颼	lheu55	0%
+䬒	lheu55
+四	lhi21	3%
+四	lhi33	3%
+肆	lhi33
+死	lhi55
+削	lhiak33	3%
+惜	lhiak33
+錫	lhiak33
+削	lhiak55	3%
+鵲	lhiak55
+星	lhiang21	0%
+箱	lhiang21
+廂	lhiang33
+湘	lhiang33
+瓖	lhiang33
+相	lhiang33	3%
+箱	lhiang33
+緗	lhiang33
+腥	lhiang33	3%
+葙	lhiang33
+襄	lhiang33
+鉎	lhiang33
+銹	lhiang33
+鍟	lhiang33	0%
+鏥	lhiang33	0%
+鏽	lhiang33
+鑲	lhiang33
+驤	lhiang33
+想	lhiang55
+醒	lhiang55	3%
+鮝	lhiang55
+鯗	lhiang55
+鱶	lhiang55	0%
+楔	lhiap21
+揳	lhiap33	0%
+楔	lhiap33
+嘯	lhiau33	0%
+宵	lhiau33
+峭	lhiau33
+消	lhiau33
+瀟	lhiau33
+硝	lhiau33
+笑	lhiau33
+箾	lhiau33
+簫	lhiau33
+綃	lhiau33
+翛	lhiau33	0%
+肖	lhiau33	3%
+蕭	lhiau33
+蛸	lhiau33
+蠨	lhiau33
+逍	lhiau33
+銷	lhiau33
+陗	lhiau33
+霄	lhiau33
+鞘	lhiau33
+魈	lhiau33
+𥬇	lhiau33
+小	lhiau55
+皛	lhiau55	0%
+筱	lhiau55	0%
+筿	lhiau55
+篠	lhiau55	0%
+噓	lhie21
+些	lhie33	3%
+卸	lhie33
+瀉	lhie33	0%
+缷	lhie33	0%
+赦	lhie33
+寫	lhie55
+心	lhim21
+芯	lhim21
+贐	lhim21	0%
+心	lhim33
+芯	lhim33
+唚	lhim55
+信	lhin33	0%
+囟	lhin33
+擤	lhin33
+新	lhin33
+汛	lhin33
+燊	lhin33
+莘	lhin33
+蕈	lhin33
+薪	lhin33
+訊	lhin33
+詵	lhin33	3%
+辛	lhin33
+鋅	lhin33
+㐰	lhin33
+卌	lhip32
+厀	lhip55
+膝	lhip55
+修	lhiu33
+宿	lhiu33
+琇	lhiu33
+秀	lhiu33
+繡	lhiu33
+羞	lhiu33
+脩	lhiu33
+饈	lhiu33
+䐰	lhiu33
+𦟤	lhiu33
+腮	lhoi33
+顋	lhoi33
+鰓	lhoi33	3%
+髄	lhoi55	0%
+髓	lhoi55
+索	lhok21	5%
+索	lhok55	5%
+蒜	lhon21
+狻	lhon33
+痠	lhon33
+祘	lhon33
+筭	lhon33
+算	lhon33
+酸	lhon33
+嗓	lhong21	0%
+搡	lhong21
+桑	lhong21
+磉	lhong21
+顙	lhong21
+喪	lhong33
+桑	lhong33
+似	lhu21
+兕	lhu21	0%
+姒	lhu21
+疵	lhu21	0%
+眥	lhu21	3%
+糸	lhu21
+絲	lhu21
+鬚	lhu21
+𤉡	lhu21
+慈	lhu22
+瓷	lhu22
+甆	lhu22
+磁	lhu22
+祠	lhu22
+茈	lhu22
+茨	lhu22
+茲	lhu22
+詞	lhu22
+辤	lhu22
+辭	lhu22
+飼	lhu22
+鶿	lhu22
+鷀	lhu22
+鷥	lhu22
+事	lhu32
+仕	lhu32
+伺	lhu32	3%
+侍	lhu32
+士	lhu32
+佽	lhu33
+刺	lhu33	0%
+厶	lhu33	0%
+司	lhu33
+嗉	lhu33
+嘶	lhu33	3%
+噝	lhu33
+四	lhu33	3%
+塑	lhu33	3%
+師	lhu33
+廁	lhu33	3%
+廝	lhu33
+思	lhu33
+恣	lhu33	0%
+愫	lhu33
+愬	lhu33
+撕	lhu33	3%
+斯	lhu33
+榡	lhu33	0%
+次	lhu33	3%
+泗	lhu33
+泝	lhu33
+溮	lhu33
+溯	lhu33
+溸	lhu33
+澌	lhu33	0%
+獅	lhu33
+私	lhu33
+穌	lhu33
+笥	lhu33	0%
+素	lhu33
+絲	lhu33
+緦	lhu33
+罳	lhu33
+肆	lhu33
+蘇	lhu33
+虒	lhu33
+蛓	lhu33
+螄	lhu33
+訴	lhu33
+賜	lhu33
+遡	lhu33
+酥	lhu33
+釃	lhu33
+颸	lhu33	0%
+駟	lhu33
+鬚	lhu33
+魳	lhu33	0%
+鰤	lhu33
+鳾	lhu33
+鷥	lhu33
+鼶	lhu33	0%
+㴑	lhu33
+䫢	lhu33
+䲉	lhu33
+𢠹	lhu33
+使	lhu55
+史	lhu55
+嗩	lhu55
+此	lhu55
+泚	lhu55	0%
+瑣	lhu55
+縰	lhu55
+纚	lhu55
+鎖	lhu55
+鎻	lhu55	0%
+鏁	lhu55
+墅	lhui21
+碎	lhui21
+絮	lhui21	0%
+緒	lhui21
+悴	lhui32	3%
+淬	lhui32
+燧	lhui32
+瑞	lhui32
+疩	lhui32	0%
+瘁	lhui32
+祟	lhui32
+穗	lhui32
+粋	lhui32	0%
+粹	lhui32	3%
+脺	lhui32	0%
+膵	lhui32	0%
+萃	lhui32
+誶	lhui32	0%
+遂	lhui32
+邃	lhui32	0%
+隧	lhui32	0%
+顇	lhui32	0%
+夊	lhui33
+晬	lhui33
+桵	lhui33
+歲	lhui33
+浽	lhui33
+濉	lhui33
+眭	lhui33
+睢	lhui33	0%
+碎	lhui33
+稰	lhui33	0%
+糈	lhui33
+綏	lhui33
+緌	lhui33	0%
+胥	lhui33
+荽	lhui33
+蕤	lhui33	3%
+諝	lhui33	0%
+醑	lhui33
+雖	lhui33
+需	lhui33
+須	lhui33
+僳	lhuk55
+夙	lhuk55
+宿	lhuk55
+粟	lhuk55
+肅	lhuk55
+蓿	lhuk55
+謖	lhuk55
+足	lhuk55	0%
+餿	lhuk55
+鷫	lhuk55
+㝛	lhuk55
+悛	lhun22	0%
+旋	lhun22
+漩	lhun22
+璇	lhun22
+璿	lhun22
+鏇	lhun22	3%
+拴	lhun32	3%
+篆	lhun32
+羡	lhun32	0%
+銓	lhun32
+儇	lhun33
+吅	lhun33	0%
+咺	lhun33	0%
+喧	lhun33
+噀	lhun33
+孫	lhun33	3%
+宣	lhun33
+峋	lhun33
+巽	lhun33
+徇	lhun33	3%
+恂	lhun33
+揎	lhun33
+昍	lhun33
+晅	lhun33	0%
+暄	lhun33
+楦	lhun33
+殉	lhun33	0%
+洵	lhun33	3%
+浚	lhun33
+渲	lhun33	3%
+烜	lhun33
+煊	lhun33
+狥	lhun33
+猻	lhun33
+珣	lhun33
+瑄	lhun33
+碹	lhun33
+絢	lhun33	0%
+翾	lhun33
+荀	lhun33
+萱	lhun33
+蓀	lhun33
+詢	lhun33
+諼	lhun33	0%
+迅	lhun33
+遜	lhun33
+郇	lhun33	3%
+飧	lhun33
+飱	lhun33
+損	lhun55
+榫	lhun55
+筍	lhun55
+篹	lhun55	3%
+簨	lhun55	0%
+選	lhun55	0%
+餸	lhung21
+娀	lhung33
+宋	lhung33
+從	lhung33	0%
+忪	lhung33
+樅	lhung33
+菘	lhung33
+送	lhung33
+鬆	lhung33
+㩳	lhung33
+䯳	lhung33
+𢱤	lhung33
+傱	lhung55
+凇	lhung55
+崧	lhung55
+嵩	lhung55
+嵷	lhung55
+悚	lhung55
+愯	lhung55
+慫	lhung55
+漎	lhung55
+竦	lhung55
+聳	lhung55
+𪀚	lhung55
+恤	lhut55
+戌	lhut55
+摔	lhut55	0%
+率	lhut55	3%
+窣	lhut55
+蟀	lhut55
+賉	lhut55
+雪	lhut55
+鱈	lhut55
+䘏	lhut55
 俚	li21
 哩	li21	3%
 履	li21
@@ -6702,43 +6477,43 @@ import_tables:
 里	li21
 鋰	li21
 鯉	li21
-刕	li11	0%
-嫠	li11
-梨	li11
-棃	li11
-氂	li11	3%
-灕	li11
-犛	li11	0%
-狸	li11
-籬	li11
-縭	li11
-纚	li11
-罹	li11
-蘺	li11
-蠡	li11	3%
-邐	li11	3%
-酈	li11
-醨	li11
-釐	li11	0%
-離	li11
-驪	li11
-鯬	li11
-鱺	li11
-鸝	li11
-俐	li31
-利	li31
-厲	li31	0%
-吏	li31
-娌	li31
-猁	li31
-痢	li31
-脷	li31
-莉	li31
-蒞	li31
-蜊	li31	0%
-詈	li31
-鬁	li31	3%
-𥝢	li31
+刕	li22	0%
+嫠	li22
+梨	li22
+棃	li22
+氂	li22	3%
+灕	li22
+犛	li22	0%
+狸	li22
+籬	li22
+縭	li22
+纚	li22
+罹	li22
+蘺	li22
+蠡	li22	3%
+邐	li22	3%
+酈	li22
+醨	li22
+釐	li22	0%
+離	li22
+驪	li22
+鯬	li22
+鱺	li22
+鸝	li22
+俐	li32
+利	li32
+厲	li32	0%
+吏	li32
+娌	li32
+猁	li32
+痢	li32
+脷	li32
+莉	li32
+蒞	li32
+蜊	li32	0%
+詈	li32
+鬁	li32	3%
+𥝢	li32
 哩	li55	3%
 喱	li55
 李	li55
@@ -6747,39 +6522,134 @@ import_tables:
 裏	li55
 裡	li55
 㸚	li55
+掠	liak32
+撂	liak32	3%
+略	liak32
+畧	liak32
+叻	liak55	3%
+斂	liam21
+殮	liam21	3%
+瀲	liam21	0%
+臉	liam21
+薟	liam21	3%
+蘞	liam21	3%
+襝	liam21	0%
+亷	liam22	0%
+奩	liam22
+帘	liam22
+廉	liam22
+濂	liam22
+濓	liam22	0%
+簾	liam22
+臁	liam22
+蠊	liam22
+譧	liam22
+鐮	liam22
+㢘	liam22
+𨎷	liam22
+𩪬	liam22
+舔	liam55
+嶺	liang21	3%
+鈴	liang21
+領	liang21	3%
+〇	liang22
+墚	liang22
+梁	liang22
+椋	liang22
+樑	liang22
+涼	liang22	3%
+粱	liang22
+糧	liang22
+良	liang22
+莨	liang22	3%
+踉	liang22	3%
+輛	liang22
+量	liang22
+零	liang22	3%
+鯪	liang22
+𡆨	liang22
+亮	liang32
+喨	liang32
+諒	liang32	3%
+踉	liang32	3%
+量	liang32
+靚	liang33
+領	liang33	3%
+倆	liang55
+兩	liang55	0%
+啢	liang55	0%
+脼	liang55
+裲	liang55
+魎	liang55
+罅	liap21
+巤	liap32	0%
+獵	liap32
+躐	liap32
+鬣	liap32
+鱲	liap32	0%
+了	liau22	0%
+僚	liau22	3%
+嘹	liau22
+寥	liau22
+寮	liau22
+尥	liau22
+撩	liau22	6%
+燎	liau22	3%
+獠	liau22
+療	liau22	0%
+瞭	liau22
+繆	liau22
+繚	liau22
+聊	liau22
+蟟	liau22
+蟧	liau22
+蹽	liau22
+遼	liau22
+鐐	liau22
+鷚	liau22	0%
+鷯	liau22
+廖	liau32
+料	liau32	0%
+繚	liau32
+蓼	liau32
+釕	liau32	0%
+了	liau55	0%
+撩	liau55	6%
+釕	liau55	0%
+咧	lie21	3%
 凜	lim21
 廩	lim21
 懍	lim21
 檁	lim21
-啉	lim11
-惏	lim11	0%
-林	lim11
-淋	lim11
-琳	lim11
-痳	lim11	0%
-臨	lim11	3%
-霖	lim11
-厸	lin11	0%
-嶙	lin11
-憐	lin11
-燐	lin11
-璘	lin11
-瞵	lin11
-磷	lin11	3%
-粦	lin11	0%
-粼	lin11
-膦	lin11	3%
-轔	lin11	3%
-遴	lin11	3%
-鄰	lin11
-鏻	lin11
-隣	lin11
-魿	lin11
-鱗	lin11
-麟	lin11
-㷠	lin11
-砬	lip31	3%
-立	lip31
+啉	lim22
+惏	lim22	0%
+林	lim22
+淋	lim22
+琳	lim22
+痳	lim22	0%
+臨	lim22	3%
+霖	lim22
+厸	lin22	0%
+嶙	lin22
+憐	lin22
+燐	lin22
+璘	lin22
+瞵	lin22
+磷	lin22	3%
+粦	lin22	0%
+粼	lin22
+膦	lin22	3%
+轔	lin22	3%
+遴	lin22	3%
+鄰	lin22
+鏻	lin22
+隣	lin22
+魿	lin22
+鱗	lin22
+麟	lin22
+㷠	lin22
+砬	lip32	3%
+立	lip32
 粒	lip33	0%
 粒	lip55	0%
 柳	liu21
@@ -6787,32 +6657,32 @@ import_tables:
 桺	liu21	0%
 綹	liu21
 鋶	liu21	0%
-劉	liu11
-旈	liu11	0%
-旒	liu11
-榴	liu11
-流	liu11
-溜	liu11	3%
-瀏	liu11
-熘	liu11
-琉	liu11
-畄	liu11	0%
-留	liu11
-畱	liu11
-瘤	liu11	3%
-癅	liu11	0%
-硫	liu11
-蘿	liu11
-鎏	liu11
-鎦	liu11	3%
-鏐	liu11
-鏤	liu11
-鐂	liu11	0%
-飀	liu11
-餾	liu11	3%
-騮	liu11
-鶹	liu11
-遛	liu31
+劉	liu22
+旈	liu22	0%
+旒	liu22
+榴	liu22
+流	liu22
+溜	liu22	3%
+瀏	liu22
+熘	liu22
+琉	liu22
+畄	liu22	0%
+留	liu22
+畱	liu22
+瘤	liu22	3%
+癅	liu22	0%
+硫	liu22
+蘿	liu22
+鎏	liu22
+鎦	liu22	3%
+鏐	liu22
+鏤	liu22
+鐂	liu22	0%
+飀	liu22
+餾	liu22	3%
+騮	liu22
+鶹	liu22
+遛	liu32
 溜	liu33	3%
 蹓	liu33	0%
 遛	liu33
@@ -6821,47 +6691,47 @@ import_tables:
 蹓	liu55	0%
 遛	liu55
 漯	lo21	3%
-儸	lo11
-囉	lo11
-摞	lo11	3%
-欏	lo11
-玀	lo11
-籮	lo11
-羅	lo11
-腡	lo11	0%
-蘿	lo11
-虆	lo11
-邏	lo11
-鏍	lo11
-鑼	lo11
-騾	lo11
+儸	lo22
+囉	lo22
+摞	lo22	3%
+欏	lo22
+玀	lo22
+籮	lo22
+羅	lo22
+腡	lo22	0%
+蘿	lo22
+虆	lo22
+邏	lo22
+鏍	lo22
+鑼	lo22
+騾	lo22
 咯	lo33	3%
 嚕	lo55
 囉	lo55
 猓	lo55
 蠃	lo55	0%
-來	loi11	3%
-倈	loi11
-崍	loi11
-徠	loi11
-棶	loi11
-淶	loi11
-睞	loi11
-萊	loi11
-賚	loi11
-錸	loi11
-鯠	loi11
-䚅	loi11
-睞	loi31
-耒	loi31	0%
-誄	loi31	0%
-賚	loi31
-䚅	loi31
+來	loi22	3%
+倈	loi22
+崍	loi22
+徠	loi22
+棶	loi22
+淶	loi22
+睞	loi22
+萊	loi22
+賚	loi22
+錸	loi22
+鯠	loi22
+䚅	loi22
+睞	loi32
+耒	loi32	0%
+誄	loi32	0%
+賚	loi32
+䚅	loi32
 絡	lok21	3%
 落	lok21	5%
-樂	lok31	3%
-濼	lok31	0%
-落	lok31	5%
+樂	lok32	3%
+濼	lok32	0%
+落	lok32	5%
 咯	lok33	3%
 咯	lok55	3%
 恪	lok55
@@ -6882,8 +6752,8 @@ import_tables:
 骼	lok55
 𣎆	lok55
 卵	lon21	3%
-乿	lon31	0%
-亂	lon31
+乿	lon32	0%
+亂	lon32
 崀	long21	3%
 朗	long21
 朤	long21
@@ -6891,35 +6761,35 @@ import_tables:
 郎	long21
 閬	long21	0%
 䕞	long21
-啷	long11	0%
-嫏	long11
-廊	long11
-桹	long11
-榔	long11
-烺	long11
-狼	long11
-琅	long11
-瑯	long11
-硠	long11
-稂	long11
-筤	long11
-莨	long11	3%
-蜋	long11	0%
-螂	long11
-郎	long11
-鋃	long11
-㢃	long11
-埌	long31
-晾	long31
-浪	long31
-蒗	long31	0%
+啷	long22	0%
+嫏	long22
+廊	long22
+桹	long22
+榔	long22
+烺	long22
+狼	long22
+琅	long22
+瑯	long22
+硠	long22
+稂	long22
+筤	long22
+莨	long22	3%
+蜋	long22	0%
+螂	long22
+郎	long22
+鋃	long22
+㢃	long22
+埌	long32
+晾	long32
+浪	long32
+蒗	long32	0%
 晾	long33
 浪	long33
 蓢	long33	0%
 捋	lot21	0%
-埒	lot31	0%
-捋	lot31	0%
-鋝	lot31	0%
+埒	lot32	0%
+捋	lot32	0%
+鋝	lot32	0%
 捋	lot33	0%
 嚕	lu21
 擄	lu21
@@ -6931,38 +6801,38 @@ import_tables:
 路	lu21
 鑥	lu21
 魯	lu21
-壚	lu11
-廬	lu11
-櫨	lu11
-瀘	lu11
-爐	lu11
-盧	lu11	3%
-籮	lu11
-罏	lu11
-腡	lu11	0%
-臚	lu11
-艫	lu11
-蘆	lu11
-蘿	lu11
-螺	lu11
-蠃	lu11	0%
-蠡	lu11	3%
-轤	lu11
-鑼	lu11
-顱	lu11
-髗	lu11	0%
-魲	lu11	0%
-鱸	lu11
-鸕	lu11
-䊨	lu11
-潞	lu31
-璐	lu31
-虂	lu31	0%
-賂	lu31
-路	lu31
-輅	lu31
-露	lu31	3%
-鷺	lu31
+壚	lu22
+廬	lu22
+櫨	lu22
+瀘	lu22
+爐	lu22
+盧	lu22	3%
+籮	lu22
+罏	lu22
+腡	lu22	0%
+臚	lu22
+艫	lu22
+蘆	lu22
+蘿	lu22
+螺	lu22
+蠃	lu22	0%
+蠡	lu22	3%
+轤	lu22
+鑼	lu22
+顱	lu22
+髗	lu22	0%
+魲	lu22	0%
+鱸	lu22
+鸕	lu22
+䊨	lu22
+潞	lu32
+璐	lu32
+虂	lu32	0%
+賂	lu32
+路	lu32
+輅	lu32
+露	lu32	3%
+鷺	lu32
 擼	lu33
 嘍	lu55	3%
 嚕	lu55
@@ -6990,99 +6860,99 @@ import_tables:
 藟	lui21
 褸	lui21	3%
 鋁	lui21
-嫘	lui11
-擂	lui11
-檑	lui11	3%
-櫚	lui11	0%
-畾	lui11
-累	lui11
-縲	lui11
-纍	lui11	3%
-罍	lui11
-羸	lui11
-鐳	lui11
-閭	lui11	0%
-雷	lui11
-靁	lui11
-馿	lui11	0%
-騾	lui11
-驘	lui11
-驢	lui11
-㗊	lui11
-𤼘	lui11
-傫	lui31	0%
-儽	lui31	3%
-唳	lui31	0%
-慮	lui31	3%
-戾	lui31	3%
-沴	lui31	0%
-淚	lui31
-濾	lui31
-礌	lui31	0%
-礧	lui31
-累	lui31
-類	lui31
+嫘	lui22
+擂	lui22
+檑	lui22	3%
+櫚	lui22	0%
+畾	lui22
+累	lui22
+縲	lui22
+纍	lui22	3%
+罍	lui22
+羸	lui22
+鐳	lui22
+閭	lui22	0%
+雷	lui22
+靁	lui22
+馿	lui22	0%
+騾	lui22
+驘	lui22
+驢	lui22
+㗊	lui22
+𤼘	lui22
+傫	lui32	0%
+儽	lui32	3%
+唳	lui32	0%
+慮	lui32	3%
+戾	lui32	3%
+沴	lui32	0%
+淚	lui32
+濾	lui32
+礌	lui32	0%
+礧	lui32
+累	lui32
+類	lui32
 呂	lui55
 簍	lui55
 碌	luk21	3%
-六	luk31	3%
-剹	luk31	0%
-勠	luk31
-彔	luk31	0%
-戮	luk31
-氯	luk31
-淥	luk31
-漉	luk31
-盝	luk31	0%
-祿	luk31
-稑	luk31
-穋	luk31
-簏	luk31	0%
-籙	luk31
-綠	luk31
-緑	luk31	0%
-菉	luk31
-蓼	luk31
-轆	luk31	0%
-逯	luk31
-醁	luk31
-錄	luk31
-陸	luk31
-騄	luk31
-騼	luk31
-鹿	luk31	3%
+六	luk32	3%
+剹	luk32	0%
+勠	luk32
+彔	luk32	0%
+戮	luk32
+氯	luk32
+淥	luk32
+漉	luk32
+盝	luk32	0%
+祿	luk32
+稑	luk32
+穋	luk32
+簏	luk32	0%
+籙	luk32
+綠	luk32
+緑	luk32	0%
+菉	luk32
+蓼	luk32
+轆	luk32	0%
+逯	luk32
+醁	luk32
+錄	luk32
+陸	luk32
+騄	luk32
+騼	luk32
+鹿	luk32	3%
 碌	luk33	3%
 碌	luk55	3%
 磟	luk55	3%
 麓	luk55	0%
 輪	lun21
-侖	lun11
-倫	lun11
-圇	lun11
-孌	lun11
-孿	lun11	0%
-崘	lun11
-崙	lun11
-巒	lun11
-掄	lun11
-欒	lun11
-淪	lun11
-灤	lun11
-綸	lun11
-羉	lun11
-聯	lun11
-菕	lun11
-論	lun11
-輪	lun11
-鑾	lun11
-鸞	lun11
-吝	lun31
-恡	lun31
-紊	lun31	0%
-藺	lun31
-論	lun31
-蹸	lun31	0%
-躪	lun31
+侖	lun22
+倫	lun22
+圇	lun22
+孌	lun22
+孿	lun22	0%
+崘	lun22
+崙	lun22
+巒	lun22
+掄	lun22
+欒	lun22
+淪	lun22
+灤	lun22
+綸	lun22
+羉	lun22
+聯	lun22
+菕	lun22
+論	lun22
+輪	lun22
+鑾	lun22
+鸞	lun22
+吝	lun32
+恡	lun32
+紊	lun32	0%
+藺	lun32
+論	lun32
+蹸	lun32	0%
+躪	lun32
 攣	lun33	0%
 戀	lun55
 臠	lun55	0%
@@ -7095,68 +6965,68 @@ import_tables:
 籠	lung21	3%
 隴	lung21
 㰍	lung21
-嚨	lung11
-尨	lung11
-嶐	lung11
-巃	lung11
-巄	lung11
-曨	lung11
-朧	lung11
-槞	lung11	0%
-櫳	lung11
-湰	lung11
-漋	lung11
-瀧	lung11	0%
-瓏	lung11
-癃	lung11
-矓	lung11
-礱	lung11
-窿	lung11
-竜	lung11	0%
-籠	lung11	3%
-聾	lung11
-蘢	lung11
-蠪	lung11
-襱	lung11
-躘	lung11
-隆	lung11	3%
-靇	lung11
-龍	lung11
-龐	lung11	0%
-龒	lung11	0%
-㚅	lung11
-㡣	lung11
-䃧	lung11
-䥢	lung11
-䪊	lung11
-𡃡	lung11
-𢤲	lung11
-𢸭	lung11
-𤮨	lung11
-𤼃	lung11
-𥳌	lung11
-𪔳	lung11
-𪚑	lung11
-哢	lung31
-弄	lung31	0%
-挵	lung31
-㳥	lung31
-𡋱	lung31
-𡷟	lung31
-𢙱	lung31
+嚨	lung22
+尨	lung22
+嶐	lung22
+巃	lung22
+巄	lung22
+曨	lung22
+朧	lung22
+槞	lung22	0%
+櫳	lung22
+湰	lung22
+漋	lung22
+瀧	lung22	0%
+瓏	lung22
+癃	lung22
+矓	lung22
+礱	lung22
+窿	lung22
+竜	lung22	0%
+籠	lung22	3%
+聾	lung22
+蘢	lung22
+蠪	lung22
+襱	lung22
+躘	lung22
+隆	lung22	3%
+靇	lung22
+龍	lung22
+龐	lung22	0%
+龒	lung22	0%
+㚅	lung22
+㡣	lung22
+䃧	lung22
+䥢	lung22
+䪊	lung22
+𡃡	lung22
+𢤲	lung22
+𢸭	lung22
+𤮨	lung22
+𤼃	lung22
+𥳌	lung22
+𪔳	lung22
+𪚑	lung22
+哢	lung32
+弄	lung32	0%
+挵	lung32
+㳥	lung32
+𡋱	lung32
+𡷟	lung32
+𢙱	lung32
 攏	lung55	0%
 籠	lung55	3%
-傈	lut31
-凓	lut31
-律	lut31
-慄	lut31
-栗	lut31	3%
-溧	lut31
-率	lut31	3%
-篥	lut31
-聿	lut31	0%
-葎	lut31
-遹	lut31	0%
+傈	lut32
+凓	lut32
+律	lut32
+慄	lut32
+栗	lut32	3%
+溧	lut32
+率	lut32	3%
+篥	lut32
+聿	lut32	0%
+葎	lut32
+遹	lut32	0%
 捋	lut33	0%
 劣	lut55	0%
 甪	lut55
@@ -7179,18 +7049,18 @@ import_tables:
 迕	m21	3%
 郚	m21
 鼯	m21
-呣	m31	3%
-嗯	m31	3%
-寤	m31
-忤	m31	0%
-悟	m31
-捂	m31	0%
-摀	m31	0%
-晤	m31
-梧	m31	3%
-焐	m31
-痦	m31
-誤	m31
+呣	m32	3%
+嗯	m32	3%
+寤	m32
+忤	m32	0%
+悟	m32
+捂	m32	0%
+摀	m32	0%
+晤	m32
+梧	m32	3%
+焐	m32
+痦	m32
+誤	m32
 五	m55
 伍	m55
 嗎	ma21	3%
@@ -7201,20 +7071,20 @@ import_tables:
 蝦	ma21	3%
 螞	ma21
 馬	ma21
-嘛	ma11
-媽	ma11	3%
-痲	ma11
-蔴	ma11
-蟆	ma11
-蟇	ma11	0%
-麻	ma11
-傌	ma31	0%
-嗎	ma31	3%
-禡	ma31
-罵	ma31
-螞	ma31
-駡	ma31
-鬕	ma31
+嘛	ma22
+媽	ma22	3%
+痲	ma22
+蔴	ma22
+蟆	ma22
+蟇	ma22	0%
+麻	ma22
+傌	ma32	0%
+嗎	ma32	3%
+禡	ma32
+罵	ma32
+螞	ma32
+駡	ma32
+鬕	ma32
 乸	ma33
 嗎	ma33	3%
 孖	ma33
@@ -7228,76 +7098,76 @@ import_tables:
 馬	ma55
 麻	ma55
 麼	ma55	0%
-埋	mai11
-眯	mai11	0%
-瞇	mai11	3%
-謎	mai11	0%
-迷	mai11
-醚	mai11
-霾	mai11	0%
-侎	mai31	0%
-勱	mai31
-敉	mai31
-袂	mai31
-賣	mai31	0%
-邁	mai31
+埋	mai22
+眯	mai22	0%
+瞇	mai22	3%
+謎	mai22	0%
+迷	mai22
+醚	mai22
+霾	mai22	0%
+侎	mai32	0%
+勱	mai32
+敉	mai32
+袂	mai32
+賣	mai32	0%
+邁	mai32
 蕒	mai33
 買	mai33
 咪	mai55	3%
 米	mai55	3%
 脒	mai55
 墨	mak21	0%
-冒	mak31
-嘿	mak31	3%
-嚜	mak31	3%
-墨	mak31	0%
-獏	mak31	0%
-脈	mak31	0%
-萬	mak31	3%
-蛨	mak31
-貉	mak31	0%
-貊	mak31	0%
-貘	mak31	3%
-陌	mak31	0%
-驀	mak31	0%
-麥	mak31	0%
-默	mak31
+冒	mak32
+嘿	mak32	3%
+嚜	mak32	3%
+墨	mak32	0%
+獏	mak32	0%
+脈	mak32	0%
+萬	mak32	3%
+蛨	mak32
+貉	mak32	0%
+貊	mak32	0%
+貘	mak32	3%
+陌	mak32	0%
+驀	mak32	0%
+麥	mak32	0%
+默	mak32
 擘	mak33	3%
 脈	mak33	0%
 嘜	mak55
 嚜	mak55	3%
 娩	man21	3%
 晚	man21
-蠻	man11
-謾	man11
-閩	man11
-鬘	man11
-鰻	man11	3%
-卍	man31
-卐	man31	0%
-墁	man31
-幔	man31
-慢	man31
-曼	man31	3%
-漫	man31	0%
-熳	man31
-縵	man31
-萬	man31	3%
-蔓	man31	3%
-謾	man31
-鏝	man31	0%
-饅	man31
-䊡	man31
+蠻	man22
+謾	man22
+閩	man22
+鬘	man22
+鰻	man22	3%
+卍	man32
+卐	man32	0%
+墁	man32
+幔	man32
+慢	man32
+曼	man32	3%
+漫	man32	0%
+熳	man32
+縵	man32
+萬	man32	3%
+蔓	man32	3%
+謾	man32
+鏝	man32	0%
+饅	man32
+䊡	man32
 勐	mang21
 猛	mang21
 艋	mang21
 錳	mang21
-氓	mang11	0%
-甍	mang11
-盟	mang11	3%
-盲	mang11
-萌	mang11
-孟	mang31
+氓	mang22	0%
+甍	mang22
+盟	mang22	3%
+盲	mang22
+萌	mang22
+孟	mang32
 掹	mang33
 猛	mang33
 掹	mang55
@@ -7305,237 +7175,237 @@ import_tables:
 蜢	mang55	3%
 蠻	mang55
 黽	mang55	3%
-卯	mao21	0%
-昴	mao21	3%
-泖	mao21
-鉚	mao21
-旄	mao11	0%
-毛	mao11	3%
-氂	mao11	3%
-犛	mao11	0%
-矛	mao11
-茅	mao11
-茆	mao11	3%
-蘑	mao11
-蝥	mao11	3%
-蟊	mao11	0%
-酕	mao11
-錨	mao11
-髦	mao11
-冃	mao31	0%
-冒	mao31
-帽	mao31
-懋	mao31
-旄	mao31	0%
-瑁	mao31
-眊	mao31
-瞀	mao31
-繆	mao31
-耄	mao31
-茂	mao31
-袤	mao31
-謬	mao31
-貌	mao31
-貿	mao31
-㡌	mao31
-冇	mao33	0%
-貓	mao55	0%
-帓	mat31	0%
-襪	mat31	0%
-鞨	mat31	0%
-韈	mat31
-韤	mat31
-孭	meh21
-乜	meh55	0%
-咩	meh55
-哶	meh55
-篾	meik21
-汨	meik31
-滅	meik31
-烕	meik31	0%
-蓂	meik31	3%
-蔑	meik31
-蠛	meik31
-衊	meik31
-㓕	meik31	0%
-掰	meik33	0%
-搣	meik33	3%
-俛	mein21
-僶	mein21
-免	mein21	0%
-冕	mein21
-刎	mein21
-勉	mein21
-吻	mein21
-娩	mein21	3%
-憫	mein21
-抿	mein21	0%
-敏	mein21
-棉	mein21
-泯	mein21
-澠	mein21	0%
-皿	mein21
-鮸	mein21
-鰵	mein21
-麪	mein21
-麵	mein21
-黽	mein21	3%
-佲	mein11
-冥	mein11
-名	mein11	3%
-姳	mein11
-嫇	mein11
-宀	mein11
-明	mein11
-暝	mein11	3%
-朙	mein11
-棉	mein11
-洺	mein11
-溟	mein11
-眀	mein11	0%
-眠	mein11
-瞑	mein11	3%
-綿	mein11
-緜	mein11
-茗	mein11
-蓂	mein11	3%
-螟	mein11
-鄍	mein11
-酩	mein11
-銘	mein11
-鳴	mein11
-㫥	mein11
-䄙	mein11
-䫤	mein11
-𠋶	mein11
-命	mein31	3%
-面	mein31
-麪	mein31
-麵	mein31
-麺	mein31	0%
-㮌	mein31
-䒌	mein31
-丏	mein55
-沔	mein55
-湎	mein55
-眄	mein55	0%
-緬	mein55
-腼	mein55
-靦	mein55
-厸	mel21	0%
-杪	mel21
-杳	mel21
-淼	mel21
-渺	mel21
-眇	mel21
-秒	mel21
-緲	mel21
-藐	mel21	0%
-訬	mel21	0%
-邈	mel21	3%
-喵	mel11
-描	mel11
-瞄	mel11
-苗	mel11
-鶓	mel11
-妙	mel31
-廟	mel31	3%
-玅	mel31
-繆	mel31
-名	meng11	3%
-命	meng31	3%
-詺	meng31
-厶	meo21	0%
-峁	meo21
-某	meo21
-牡	meo21	0%
-畝	meo21
-侔	meo11
-哞	meo11
-毪	meo11
-牟	meo11	3%
-眸	meo11
-繆	meo11
-蛑	meo11
-蝥	meo11	3%
-蟊	meo11	0%
-謀	meo11
-錨	meo11
-鍪	meo11
-痞	meo55	0%
+帓	mat32	0%
+襪	mat32	0%
+鞨	mat32	0%
+韈	mat32
+韤	mat32
+卯	mau21	0%
+昴	mau21	3%
+泖	mau21
+鉚	mau21
+旄	mau22	0%
+毛	mau22	3%
+氂	mau22	3%
+犛	mau22	0%
+矛	mau22
+茅	mau22
+茆	mau22	3%
+蘑	mau22
+蝥	mau22	3%
+蟊	mau22	0%
+酕	mau22
+錨	mau22
+髦	mau22
+冃	mau32	0%
+冒	mau32
+帽	mau32
+懋	mau32
+旄	mau32	0%
+瑁	mau32
+眊	mau32
+瞀	mau32
+繆	mau32
+耄	mau32
+茂	mau32
+袤	mau32
+謬	mau32
+貌	mau32
+貿	mau32
+㡌	mau32
+冇	mau33	0%
+貓	mau55	0%
+俛	men21
+僶	men21
+免	men21	0%
+冕	men21
+刎	men21
+勉	men21
+吻	men21
+娩	men21	3%
+憫	men21
+抿	men21	0%
+敏	men21
+棉	men21
+泯	men21
+澠	men21	0%
+皿	men21
+鮸	men21
+鰵	men21
+麪	men21
+麵	men21
+黽	men21	3%
+佲	men22
+冥	men22
+名	men22	3%
+姳	men22
+嫇	men22
+宀	men22
+明	men22
+暝	men22	3%
+朙	men22
+棉	men22
+洺	men22
+溟	men22
+眀	men22	0%
+眠	men22
+瞑	men22	3%
+綿	men22
+緜	men22
+茗	men22
+蓂	men22	3%
+螟	men22
+鄍	men22
+酩	men22
+銘	men22
+鳴	men22
+㫥	men22
+䄙	men22
+䫤	men22
+𠋶	men22
+命	men32	3%
+面	men32
+麪	men32
+麵	men32
+麺	men32	0%
+㮌	men32
+䒌	men32
+丏	men55
+沔	men55
+湎	men55
+眄	men55	0%
+緬	men55
+腼	men55
+靦	men55
+篾	met21
+汨	met32
+滅	met32
+烕	met32	0%
+蓂	met32	3%
+蔑	met32
+蠛	met32
+衊	met32
+㓕	met32	0%
+掰	met33	0%
+搣	met33	3%
+厶	meu21	0%
+峁	meu21
+某	meu21
+牡	meu21	0%
+畝	meu21
+侔	meu22
+哞	meu22
+毪	meu22
+牟	meu22	3%
+眸	meu22
+繆	meu22
+蛑	meu22
+蝥	meu22	3%
+蟊	meu22	0%
+謀	meu22
+錨	meu22
+鍪	meu22
+痞	meu55	0%
 弭	mi21
 美	mi21
 羙	mi21	0%
 鎂	mi21
 靡	mi21	3%
-媚	mi11	0%
-嵋	mi11
-彌	mi11
-微	mi11
-楣	mi11
-湄	mi11
-溦	mi11
-猸	mi11
-獼	mi11
-眉	mi11
-糜	mi11	0%
-縻	mi11
-羋	mi11	0%
-薇	mi11
-蘼	mi11
-郿	mi11
-醾	mi11
-鎇	mi11
-靡	mi11	3%
-鶥	mi11
-麊	mi11	0%
-麋	mi11	0%
-麿	mi11	0%
-味	mi31
-媚	mi31	0%
-寐	mi31
-敉	mi31
-未	mi31
-汆	mi31	0%
-鬽	mi31	0%
-魅	mi31	0%
+媚	mi22	0%
+嵋	mi22
+彌	mi22
+微	mi22
+楣	mi22
+湄	mi22
+溦	mi22
+猸	mi22
+獼	mi22
+眉	mi22
+糜	mi22	0%
+縻	mi22
+羋	mi22	0%
+薇	mi22
+蘼	mi22
+郿	mi22
+醾	mi22
+鎇	mi22
+靡	mi22	3%
+鶥	mi22
+麊	mi22	0%
+麋	mi22	0%
+麿	mi22	0%
+味	mi32
+媚	mi32	0%
+寐	mi32
+敉	mi32
+未	mi32
+汆	mi32	0%
+鬽	mi32	0%
+魅	mi32	0%
 眯	mi33	0%
 瞇	mi33	3%
 亹	mi55
 娓	mi55
 尾	mi55
 艉	mi55
-岷	min11
-民	min11
-玟	min11
-珉	min11
-砇	min11	0%
-緡	min11	0%
-苠	min11
-賯	min11
-䃉	min11
+名	miang22	3%
+命	miang32	3%
+詺	miang32
+厸	miau21	0%
+杪	miau21
+杳	miau21
+淼	miau21
+渺	miau21
+眇	miau21
+秒	miau21
+緲	miau21
+藐	miau21	0%
+訬	miau21	0%
+邈	miau21	3%
+喵	miau22
+描	miau22
+瞄	miau22
+苗	miau22
+鶓	miau22
+妙	miau32
+廟	miau32	3%
+玅	miau32
+繆	miau32
+孭	mie21
+乜	mie55	0%
+咩	mie55
+哶	mie55
+岷	min22
+民	min22
+玟	min22
+珉	min22
+砇	min22	0%
+緡	min22	0%
+苠	min22
+賯	min22
+䃉	min22
 抿	min55	0%
 民	min55
-冖	mit31
-冪	mit31
-嘧	mit31
-宓	mit31
-密	mit31
-蜜	mit31
-覓	mit31
-覔	mit31
-謐	mit31
+冖	mit32
+冪	mit32
+嘧	mit32
+宓	mit32
+密	mit32
+蜜	mit32
+覓	mit32
+覔	mit32
+謐	mit32
 貓	miu55	0%
 麼	mo21	0%
-劘	mo11
-嫫	mo11
-模	mo11
-毪	mo11
-磨	mo11
-蘑	mo11
-誣	mo11
-磨	mo31
-耱	mo31
+劘	mo22
+嫫	mo22
+模	mo22
+毪	mo22
+磨	mo22
+蘑	mo22
+誣	mo22
+磨	mo32
+耱	mo32
 摩	mo33	3%
 嬤	mo55	0%
 尛	mo55	0%
@@ -7548,29 +7418,29 @@ import_tables:
 妹	moi21	3%
 每	moi21
 浼	moi21
-妹	moi11	3%
-媒	moi11
-枚	moi11
-梅	moi11
-楳	moi11
-槑	moi11
-煤	moi11
-玫	moi11
-糜	moi11	0%
-脢	moi11	0%
-苺	moi11	0%
-莓	moi11
-酶	moi11
-霉	moi11	0%
-黣	moi11	0%
-黴	moi11
-昧	moi31
-眛	moi31
+妹	moi22	3%
+媒	moi22
+枚	moi22
+梅	moi22
+楳	moi22
+槑	moi22
+煤	moi22
+玫	moi22
+糜	moi22	0%
+脢	moi22	0%
+苺	moi22	0%
+莓	moi22
+酶	moi22
+霉	moi22	0%
+黣	moi22	0%
+黴	moi22
+昧	moi32
+眛	moi32
 妹	moi55	3%
 膜	mok21	3%
-莫	mok31	3%
-鄚	mok31
-鏌	mok31
+莫	mok32	3%
+鄚	mok32
+鏌	mok32
 剝	mok33	3%
 𠚪	mok33
 剝	mok55	3%
@@ -7580,18 +7450,18 @@ import_tables:
 漠	mok55
 瘼	mok55
 膜	mok55	3%
-亹	mon11
-們	mon11
-捫	mon11	0%
-瞞	mon11
-蹣	mon11	3%
-鍆	mon11
-門	mon11
-鞔	mon11	0%
-顢	mon11	0%
-悶	mon31
-懣	mon31	0%
-燜	mon31	0%
+亹	mon22
+們	mon22
+捫	mon22	0%
+瞞	mon22
+蹣	mon22	3%
+鍆	mon22
+門	mon22
+鞔	mon22	0%
+顢	mon22	0%
+悶	mon32
+懣	mon32	0%
+燜	mon32	0%
 滿	mon55	0%
 蟎	mon55
 妄	mong21	0%
@@ -7608,19 +7478,19 @@ import_tables:
 輞	mong21
 魍	mong21
 䥈	mong21
-亡	mong11	3%
-尨	mong11
-忘	mong11	0%
-忙	mong11
-氓	mong11	0%
-牤	mong11
-硭	mong11
-芒	mong11	0%
-茫	mong11
-邙	mong11
-鋩	mong11
-望	mong31	0%
-朢	mong31	0%
+亡	mong22	3%
+尨	mong22
+忘	mong22	0%
+忙	mong22
+氓	mong22	0%
+牤	mong22
+硭	mong22
+芒	mong22	0%
+茫	mong22
+邙	mong22
+鋩	mong22
+望	mong32	0%
+朢	mong32	0%
 杧	mong33
 芒	mong33	0%
 𣙷	mong33
@@ -7628,21 +7498,21 @@ import_tables:
 网	mong55	0%
 輞	mong55
 魍	mong55
-勿	mot31
-妺	mot31
-帓	mot31	0%
-末	mot31	3%
-歿	mot31
-沒	mot31	0%
-沫	mot31	0%
-物	mot31
-瞐	mot31	0%
-秣	mot31	0%
-芴	mot31
-茉	mot31
-袜	mot31	0%
-靺	mot31	0%
-䯦	mot31
+勿	mot32
+妺	mot32
+帓	mot32	0%
+末	mot32	3%
+歿	mot32
+沒	mot32	0%
+沫	mot32	0%
+物	mot32
+瞐	mot32	0%
+秣	mot32	0%
+芴	mot32
+茉	mot32
+袜	mot32	0%
+靺	mot32	0%
+䯦	mot32
 抹	mot33	0%
 麿	mot33	0%
 乜	mot55	0%
@@ -7660,49 +7530,49 @@ import_tables:
 鉧	mu21
 鵡	mu21
 䥈	mu21
-劘	mu11
-嘸	mu11	3%
-嫫	mu11
-巫	mu11
-摹	mu11
-无	mu11
-模	mu11
-毋	mu11
-毪	mu11
-無	mu11	3%
-磨	mu11
-蕪	mu11
-蘑	mu11
-誣	mu11
-謨	mu11
-𠘩	mu11
-務	mu31
-募	mu31
-呣	mu31	3%
-墓	mu31
-婺	mu31
-慕	mu31
-戊	mu31
-暮	mu31
-牟	mu31	3%
-瞀	mu31
-霧	mu31
-騖	mu31
-鶩	mu31
+劘	mu22
+嘸	mu22	3%
+嫫	mu22
+巫	mu22
+摹	mu22
+无	mu22
+模	mu22
+毋	mu22
+毪	mu22
+無	mu22	3%
+磨	mu22
+蕪	mu22
+蘑	mu22
+誣	mu22
+謨	mu22
+𠘩	mu22
+務	mu32
+募	mu32
+呣	mu32	3%
+墓	mu32
+婺	mu32
+慕	mu32
+戊	mu32
+暮	mu32
+牟	mu32	3%
+瞀	mu32
+霧	mu32
+騖	mu32
+鶩	mu32
 摸	mu55	3%
 舞	mu55
 木	muk21
 沐	muk21
-仫	muk31
-坶	muk31
-木	muk31
-牧	muk31
-目	muk31
-睦	muk31
-穆	muk31
-繆	muk31
-苜	muk31
-鉬	muk31
+仫	muk32
+坶	muk32
+木	muk32
+牧	muk32
+目	muk32
+睦	muk32
+穆	muk32
+繆	muk32
+苜	muk32
+鉬	muk32
 卜	muk33	3%
 卜	muk55	3%
 吻	mun21
@@ -7714,64 +7584,64 @@ import_tables:
 璺	mun21	0%
 蚊	mun21
 閔	mun21
-抆	mun11
-文	mun11	5%
-汶	mun11
-玟	mun11
-紋	mun11
-聞	mun11	3%
-閿	mun11
-闅	mun11	0%
-雯	mun11
-問	mun31
-文	mun31	5%
-璺	mun31	0%
-紊	mun31	0%
+抆	mun22
+文	mun22	5%
+汶	mun22
+玟	mun22
+紋	mun22
+聞	mun22	3%
+閿	mun22
+闅	mun22	0%
+雯	mun22
+問	mun32
+文	mun32	5%
+璺	mun32	0%
+紊	mun32	0%
 炆	mun55
 緡	mun55	0%
 鰵	mun55
-冡	mung11
-尨	mung11
-幪	mung11	3%
-懞	mung11
-曚	mung11
-朦	mung11
-檬	mung11
-氋	mung11
-濛	mung11
-獴	mung11
-瞢	mung11	0%
-矇	mung11
-礞	mung11
-艨	mung11
-蒙	mung11
-蠓	mung11	0%
-霥	mung11
-靀	mung11
-饛	mung11
-䝉	mung11
-𡁏	mung11
-𥉕	mung11
-𧭊	mung11
-夢	mung31	3%
-夣	mung31
-霥	mung31
+冡	mung22
+尨	mung22
+幪	mung22	3%
+懞	mung22
+曚	mung22
+朦	mung22
+檬	mung22
+氋	mung22
+濛	mung22
+獴	mung22
+瞢	mung22	0%
+矇	mung22
+礞	mung22
+艨	mung22
+蒙	mung22
+蠓	mung22	0%
+霥	mung22
+靀	mung22
+饛	mung22
+䝉	mung22
+𡁏	mung22
+𥉕	mung22
+𧭊	mung22
+夢	mung32	3%
+夣	mung32
+霥	mung32
 懜	mung55
 懞	mung55
 懵	mung55	3%
 檬	mung55
 鼆	mung55
-物	mut31
+物	mut32
 𠰌	mut33
 衲	na21
-哪	na11	5%
-娜	na11	3%
-拃	na11
-拏	na11
-拿	na11
-那	na11	5%
-鎿	na11
-哪	na31	5%
+哪	na22	5%
+娜	na22	3%
+拃	na22
+拏	na22
+拿	na22
+那	na22	5%
+鎿	na22
+哪	na32	5%
 那	na33	5%
 䬷	na33
 乸	na55
@@ -7785,223 +7655,176 @@ import_tables:
 艿	nai21
 迺	nai21
 鼐	nai21	0%
-伲	nai11
-呢	nai11	5%
-坭	nai11
-妮	nai11
-尼	nai11
-怩	nai11
-旎	nai11
-泥	nai11	3%
-痆	nai11	0%
-苨	nai11	0%
-鈮	nai11	3%
-䕥	nai11	0%
-泥	nai31	3%
-鼐	nai31	0%
+伲	nai22
+呢	nai22	5%
+坭	nai22
+妮	nai22
+尼	nai22
+怩	nai22
+旎	nai22
+泥	nai22	3%
+痆	nai22	0%
+苨	nai22	0%
+鈮	nai22	3%
+䕥	nai22	0%
+泥	nai32	3%
+鼐	nai32	0%
 傫	nai33	0%
 尼	nai55
-那	nak31	5%
+那	nak32	5%
 那	nak33	5%
 疒	nak55	0%
 粘	nak55	0%
 黏	nak55
 𪙛	nak55
 腩	nam21
-南	nam11	3%
-喃	nam11
-囝	nam11
-囡	nam11
-枏	nam11
-柟	nam11	0%
-楠	nam11
-男	nam11
-蚺	nam11
-蝻	nam11	0%
-諵	nam11
-䛁	nam11
+南	nam22	3%
+喃	nam22
+囝	nam22
+囡	nam22
+枏	nam22
+柟	nam22	0%
+楠	nam22
+男	nam22
+蚺	nam22
+蝻	nam22	0%
+諵	nam22
+䛁	nam22
 腩	nam33
 諗	nam55	0%
 赧	nan21	0%
 𧕴	nan21
-難	nan11
-難	nan31
+難	nan22
+難	nan32
 撚	nan55	6%
-儜	nang11
-能	nang11	3%
-𧭈	nang11
-鐙	nang31
-惱	nao21
-瑙	nao21
-呶	nao11	0%
-巙	nao11	0%
-瑙	nao11
-硇	nao11
-稠	nao11
-腬	nao11
-撓	nao31	0%
-橈	nao31	3%
-檽	nao31
-淖	nao31	3%
-耨	nao31
-鐃	nao31	0%
-鬧	nao31
-堖	nao55
-腦	nao55
+儜	nang22
+能	nang22	3%
+𧭈	nang22
+鐙	nang32
 衲	nap21
-吶	nap31
-納	nap31
-衲	nap31
-訥	nap31
-鈉	nap31	3%
+吶	nap32
+納	nap32
+衲	nap32
+訥	nap32
+鈉	nap32	3%
 捺	nat21
 匿	nat33	3%
 捺	nat33
 焫	nat33
 爇	nat33	3%
-吶	neh11
-野	neh33
-乜	neh55	0%
-呢	neh55	5%
-捏	neik21
-匿	neik31	3%
-搦	neik31	0%
-昵	neik31	0%
-暱	neik31	0%
-溺	neik31	0%
-捏	neik33
-掐	neik33
-匿	neik55	3%
-鎳	neik55
-南	neim11	3%
-腍	neim33	3%
-腩	neim33
-奶	nein21	0%
-恁	nein21	0%
-儜	nein11
-嚀	nein11
-寍	nein11
-寕	nein11	0%
-寜	nein11
-寧	nein11	0%
-年	nein11
-檸	nein11	0%
-濘	nein11
-獰	nein11
-甯	nein11	0%
-聹	nein11
-薴	nein11
-鬡	nein11
-鸋	nein11
-𧭈	nein11
-佞	nein31
-擰	nein31	0%
-𧦣	nein31
-拎	nein55	0%
-偌	nek21	3%
-偌	nek33	3%
-偌	nek55	3%
-嬲	nel21	0%
-蔦	nel21
-裊	nel21	0%
-鳥	nel21	3%
-尿	nel31	3%
-溺	nel31	0%
-脲	nel31
-捻	nem21	3%
-粘	nem11	0%
-鮎	nem11
-鯰	nem11
-黏	nem11
-唸	nem31	3%
-埝	nem31
-念	nem31
-稔	nem31	3%
-拈	nem33	0%
-捻	nem33	3%
-撚	nem33	6%
-粘	nem33	0%
-捻	nem55	3%
-娘	neng11
-孃	neng11
-撓	neo11	0%
-耨	neo31
-鑷	nep21
-苶	nep33
-菍	nep33	0%
-囁	nep55	3%
-圼	nep55	0%
-懾	nep55
-捏	nep55
-揑	nep55
-攝	nep55	3%
-涅	nep55
-湼	nep55	0%
-灄	nep55
-聶	nep55	3%
-躡	nep55
-隉	nep55	0%
-顳	nep55	0%
-㘿	nep55
+惱	nau21
+瑙	nau21
+呶	nau22	0%
+巙	nau22	0%
+瑙	nau22
+硇	nau22
+稠	nau22
+腬	nau22
+撓	nau32	0%
+橈	nau32	3%
+檽	nau32
+淖	nau32	3%
+耨	nau32
+鐃	nau32	0%
+鬧	nau32
+堖	nau55
+腦	nau55
+南	nem22	3%
+腍	nem33	3%
+腩	nem33
+奶	nen21	0%
+恁	nen21	0%
+儜	nen22
+嚀	nen22
+寍	nen22
+寕	nen22	0%
+寜	nen22
+寧	nen22	0%
+年	nen22
+檸	nen22	0%
+濘	nen22
+獰	nen22
+甯	nen22	0%
+聹	nen22
+薴	nen22
+鬡	nen22
+鸋	nen22
+𧭈	nen22
+佞	nen32
+擰	nen32	0%
+𧦣	nen32
+拎	nen55	0%
+捏	net21
+匿	net32	3%
+搦	net32	0%
+昵	net32	0%
+暱	net32	0%
+溺	net32	0%
+捏	net33
+掐	net33
+匿	net55	3%
+鎳	net55
+撓	neu22	0%
+耨	neu32
 疋	nga21	3%
 疨	nga21	0%
 雅	nga21	0%
-伢	nga11
-岈	nga11	3%
-枒	nga11	3%
-牙	nga11
-琊	nga11	3%
-芽	nga11
-蚜	nga11
-衙	nga11
-厊	nga31	0%
-砑	nga31
-訝	nga31
-迓	nga31
+伢	nga22
+岈	nga22	3%
+枒	nga22	3%
+牙	nga22
+琊	nga22	3%
+芽	nga22
+蚜	nga22
+衙	nga22
+厊	nga32	0%
+砑	nga32
+訝	nga32
+迓	nga32
 佤	nga55
 瓦	nga55	0%
-倪	ngai11	3%
-危	ngai11
-厓	ngai11
-啀	ngai11
-嘊	ngai11
-堐	ngai11
-崖	ngai11
-嵬	ngai11
-巍	ngai11
-挨	ngai11	3%
-捱	ngai11
-涯	ngai11	0%
-淣	ngai11
-漄	ngai11
-猊	ngai11
-睚	ngai11	0%
-睨	ngai11
-蜺	ngai11
-輗	ngai11
-霓	ngai11
-鯢	ngai11
-麑	ngai11
-乂	ngai31
-偽	ngai31	0%
-刈	ngai31
-劓	ngai31
-囈	ngai31
-埶	ngai31
-堄	ngai31	0%
-外	ngai31
-栺	ngai31
-毅	ngai31
-睨	ngai31
-砹	ngai31
-秇	ngai31
-羿	ngai31
-艾	ngai31
-蓺	ngai31
-藙	ngai31
-藝	ngai31
-詣	ngai31
-魏	ngai31	3%
+倪	ngai22	3%
+危	ngai22
+厓	ngai22
+啀	ngai22
+嘊	ngai22
+堐	ngai22
+崖	ngai22
+嵬	ngai22
+巍	ngai22
+挨	ngai22	3%
+捱	ngai22
+涯	ngai22	0%
+淣	ngai22
+漄	ngai22
+猊	ngai22
+睚	ngai22	0%
+睨	ngai22
+蜺	ngai22
+輗	ngai22
+霓	ngai22
+鯢	ngai22
+麑	ngai22
+乂	ngai32
+偽	ngai32	0%
+刈	ngai32
+劓	ngai32
+囈	ngai32
+埶	ngai32
+堄	ngai32	0%
+外	ngai32
+栺	ngai32
+毅	ngai32
+睨	ngai32
+砹	ngai32
+秇	ngai32
+羿	ngai32
+艾	ngai32
+蓺	ngai32
+藙	ngai32
+藝	ngai32
+詣	ngai32
+魏	ngai32	3%
 淣	ngai33
 檥	ngai55
 艤	ngai55
@@ -8010,230 +7833,160 @@ import_tables:
 額	ngak33
 呃	ngak55	3%
 頷	ngam21
-岩	ngam11
-嵒	ngam11
-嵓	ngam11	0%
-巖	ngam11	0%
-巗	ngam11	0%
-癌	ngam11
-碞	ngam11	0%
-礹	ngam11	0%
+岩	ngam22
+嵒	ngam22
+嵓	ngam22	0%
+巖	ngam22	0%
+巗	ngam22	0%
+癌	ngam22
+碞	ngam22	0%
+礹	ngam22	0%
 啱	ngam55
-嚚	ngan11
-圻	ngan11
-垠	ngan11
-狺	ngan11
-珢	ngan11	0%
-研	ngan11	3%
-鄞	ngan11
-銀	ngan11
-頑	ngan11
-顏	ngan11
-齗	ngan11
-齦	ngan11	3%
-贗	ngan31
-雁	ngan31
+嚚	ngan22
+圻	ngan22
+垠	ngan22
+狺	ngan22
+珢	ngan22	0%
+研	ngan22	3%
+鄞	ngan22
+銀	ngan22
+頑	ngan22
+顏	ngan22
+齗	ngan22
+齦	ngan22	3%
+贗	ngan32
+雁	ngan32
 眼	ngan55
 研	ngan55	3%
-硬	ngang31
+硬	ngang32
 硬	ngang55
-崤	ngao11
-廒	ngao11
-敖	ngao11	3%
-殽	ngao11	3%
-洨	ngao11	0%
-淆	ngao11
-熬	ngao11	3%
-爻	ngao11
-獒	ngao11
-翱	ngao11	0%
-翶	ngao11	0%
-翺	ngao11
-聱	ngao11
-肴	ngao11
-螯	ngao11	0%
-遨	ngao11
-鏊	ngao11
-鏖	ngao11
-餚	ngao11
-驁	ngao11	0%
-鰲	ngao11
-鼇	ngao11
-䥝	ngao11
-傲	ngao31
-嗷	ngao31
-奡	ngao31
-嶅	ngao31
-敖	ngao31	3%
-熬	ngao31	3%
-螯	ngao31	0%
-遨	ngao31
-咬	ngao55	3%
-齩	ngao55
-掖	ngap11	3%
+掖	ngap22	3%
 啽	ngap33
 噏	ngap33
 噏	ngap55
-嚙	ngat31	3%
-囓	ngat31
-屹	ngat31	3%
-訖	ngat31
-迄	ngat31	3%
-齕	ngat31	0%
-齧	ngat31	0%
+嚙	ngat32	3%
+囓	ngat32
+屹	ngat32	3%
+訖	ngat32
+迄	ngat32	3%
+齕	ngat32	0%
+齧	ngat32	0%
 胺	ngat33	3%
 臊	ngat33
-喏	ngeh21
-惹	ngeh21
-惹	ngeh55
-渃	ngeik31
-熱	ngeik31
-逆	ngeik31	3%
-𤑄	ngeik31
-孼	ngeik55
-孽	ngeik55
-抑	ngeik55
-挈	ngeik55	3%
-櫱	ngeik55	0%
-糵	ngeik55
-絜	ngeik55
-臬	ngeik55	0%
-臲	ngeik55
-鬩	ngeik55	0%
-仍	ngein11
-凝	ngein11	0%
-妍	ngein11
-楹	ngein11
-然	ngein11
-燃	ngein11
-盈	ngein11
-研	ngein11	3%
-礽	ngein11
-艿	ngein11
-芿	ngein11	0%
-辸	ngein11
-迎	ngein11	3%
-鈃	ngein11	3%
-陾	ngein11
-䚮	ngein11
-𤟣	ngein11
-𦝚	ngein11
-𧥰	ngein11
-唁	ngein31	3%
-彥	ngein31
-諺	ngein31
-讞	ngein31	0%
-迎	ngein31	3%
-研	ngein33	3%
-奀	ngein55	3%
-偌	ngek31	3%
-叒	ngek31	0%
-婼	ngek31	0%
-弱	ngek31
-渃	ngek31
-箬	ngek31
-篛	ngek31
-若	ngek31	0%
-蒻	ngek31
-虐	ngek31
-謔	ngek31
-鍩	ngek31
-瘧	ngek55
-嬈	ngel21	3%
-擾	ngel21
-繞	ngel21
-僥	ngel11	0%
-垚	ngel11
-嬈	ngel11	3%
-峱	ngel11	0%
-嶢	ngel11
-揉	ngel11	0%
-柔	ngel11
-橈	ngel11	3%
-澆	ngel11	3%
-猱	ngel11	0%
-磽	ngel11
-禸	ngel11	0%
-禸	ngel11	0%
-粈	ngel11	0%
-糅	ngel11	3%
-蕘	ngel11
-蟯	ngel11	3%
-蹂	ngel11	0%
-鞣	ngel11
-饒	ngel11
-冉	ngem21
-染	ngem21
-苒	ngem21
-蚺	ngem21
-嚴	ngem11
-蚦	ngem11	0%
-蚺	ngem11
-髥	ngem11	0%
-髯	ngem11	0%
-釅	ngem31
-驗	ngem31
-儼	ngem33
-冉	ngem33
-染	ngem33
-苒	ngem33
-蚺	ngem33
-仰	ngeng21	0%
-壤	ngeng11	0%
-攘	ngeng11	3%
-禳	ngeng11
-穣	ngeng11	0%
-穰	ngeng11	0%
-蘘	ngeng11
-蠰	ngeng11
-嚷	ngeng31
-讓	ngeng31
-醸	ngeng31	0%
-釀	ngeng31
-蠰	ngeng55
-偶	ngeo21
-耦	ngeo21
-藕	ngeo21
-鈎	ngeo21	0%
-鉤	ngeo21	0%
-牛	ngeo11
-吽	ngeo31	0%
-牛	ngeo31
-勾	ngeo33	0%
-句	ngeo33	3%
-鉤	ngeo33	0%
-牛	ngeo55
-業	ngep31
-鄴	ngep31
+崤	ngau22
+廒	ngau22
+敖	ngau22	3%
+殽	ngau22	3%
+洨	ngau22	0%
+淆	ngau22
+熬	ngau22	3%
+爻	ngau22
+獒	ngau22
+翱	ngau22	0%
+翶	ngau22	0%
+翺	ngau22
+聱	ngau22
+肴	ngau22
+螯	ngau22	0%
+遨	ngau22
+鏊	ngau22
+鏖	ngau22
+餚	ngau22
+驁	ngau22	0%
+鰲	ngau22
+鼇	ngau22
+䥝	ngau22
+傲	ngau32
+嗷	ngau32
+奡	ngau32
+嶅	ngau32
+敖	ngau32	3%
+熬	ngau32	3%
+螯	ngau32	0%
+遨	ngau32
+咬	ngau55	3%
+齩	ngau55
+仍	ngen22
+凝	ngen22	0%
+妍	ngen22
+楹	ngen22
+然	ngen22
+燃	ngen22
+盈	ngen22
+研	ngen22	3%
+礽	ngen22
+艿	ngen22
+芿	ngen22	0%
+辸	ngen22
+迎	ngen22	3%
+鈃	ngen22	3%
+陾	ngen22
+䚮	ngen22
+𤟣	ngen22
+𦝚	ngen22
+𧥰	ngen22
+唁	ngen32	3%
+彥	ngen32
+諺	ngen32
+讞	ngen32	0%
+迎	ngen32	3%
+研	ngen33	3%
+奀	ngen55	3%
+渃	nget32
+熱	nget32
+逆	nget32	3%
+𤑄	nget32
+孼	nget55
+孽	nget55
+抑	nget55
+挈	nget55	3%
+櫱	nget55	0%
+糵	nget55
+絜	nget55
+臬	nget55	0%
+臲	nget55
+鬩	nget55	0%
+偶	ngeu21
+耦	ngeu21
+藕	ngeu21
+鈎	ngeu21	0%
+鉤	ngeu21	0%
+牛	ngeu22
+吽	ngeu32	0%
+牛	ngeu32
+勾	ngeu33	0%
+句	ngeu33	3%
+鉤	ngeu33	0%
+牛	ngeu55
 二	ngi21
 爾	ngi21
 𠇍	ngi21
-儀	ngi11
-兒	ngi11	3%
-宜	ngi11
-嶷	ngi11	3%
-懝	ngi11
-栭	ngi11
-洏	ngi11
-疑	ngi11
-而	ngi11	0%
-誼	ngi11
-貤	ngi11
-鮞	ngi11
-鴯	ngi11
-二	ngi31
-佴	ngi31	0%
-劓	ngi31
-弍	ngi31
-懝	ngi31
-擬	ngi31	0%
-毦	ngi31	0%
-義	ngi31
-誼	ngi31
-議	ngi31	0%
-貤	ngi31
-貳	ngi31
-邇	ngi31
+儀	ngi22
+兒	ngi22	3%
+宜	ngi22
+嶷	ngi22	3%
+懝	ngi22
+栭	ngi22
+洏	ngi22
+疑	ngi22
+而	ngi22	0%
+誼	ngi22
+貤	ngi22
+鮞	ngi22
+鴯	ngi22
+二	ngi32
+佴	ngi32	0%
+劓	ngi32
+弍	ngi32
+懝	ngi32
+擬	ngi32	0%
+毦	ngi32	0%
+義	ngi32
+誼	ngi32
+議	ngi32	0%
+貤	ngi32
+貳	ngi32
+邇	ngi32
 兒	ngi55	3%
 洱	ngi55	3%
 珥	ngi55
@@ -8241,79 +7994,149 @@ import_tables:
 衈	ngi55
 鉺	ngi55
 駬	ngi55
-任	ngim11
-吟	ngim11	0%
-壬	ngim11
-妊	ngim11	3%
-姙	ngim11
-崟	ngim11
-任	ngim31
-妊	ngim31	3%
-姙	ngim31
-紝	ngim31	3%
-荏	ngim31	0%
-衽	ngim31
-袵	ngim31
-賃	ngim31
-飪	ngim31	3%
+偌	ngiak32	3%
+叒	ngiak32	0%
+婼	ngiak32	0%
+弱	ngiak32
+渃	ngiak32
+箬	ngiak32
+篛	ngiak32
+若	ngiak32	0%
+蒻	ngiak32
+虐	ngiak32
+謔	ngiak32
+鍩	ngiak32
+瘧	ngiak55
+冉	ngiam21
+染	ngiam21
+苒	ngiam21
+蚺	ngiam21
+嚴	ngiam22
+蚦	ngiam22	0%
+蚺	ngiam22
+髥	ngiam22	0%
+髯	ngiam22	0%
+釅	ngiam32
+驗	ngiam32
+儼	ngiam33
+冉	ngiam33
+染	ngiam33
+苒	ngiam33
+蚺	ngiam33
+仰	ngiang21	0%
+壤	ngiang22	0%
+攘	ngiang22	3%
+禳	ngiang22
+穣	ngiang22	0%
+穰	ngiang22	0%
+蘘	ngiang22
+蠰	ngiang22
+嚷	ngiang32
+讓	ngiang32
+醸	ngiang32	0%
+釀	ngiang32
+蠰	ngiang55
+業	ngiap32
+鄴	ngiap32
+嬈	ngiau21	3%
+擾	ngiau21
+繞	ngiau21
+僥	ngiau22	0%
+垚	ngiau22
+嬈	ngiau22	3%
+峱	ngiau22	0%
+嶢	ngiau22
+揉	ngiau22	0%
+柔	ngiau22
+橈	ngiau22	3%
+澆	ngiau22	3%
+猱	ngiau22	0%
+磽	ngiau22
+禸	ngiau22	0%
+禸	ngiau22	0%
+粈	ngiau22	0%
+糅	ngiau22	3%
+蕘	ngiau22
+蟯	ngiau22	3%
+蹂	ngiau22	0%
+鞣	ngiau22
+饒	ngiau22
+喏	ngie21
+惹	ngie21
+惹	ngie55
+任	ngim22
+吟	ngim22	0%
+壬	ngim22
+妊	ngim22	3%
+姙	ngim22
+崟	ngim22
+任	ngim32
+妊	ngim32	3%
+姙	ngim32
+紝	ngim32	3%
+荏	ngim32	0%
+衽	ngim32
+袵	ngim32
+賃	ngim32
+飪	ngim32	3%
 飲	ngim55
 㱃	ngim55
 仁	ngin21
 忍	ngin21
 肕	ngin21	0%
-人	ngin11
-仁	ngin11
-儿	ngin11	0%
-𠆧	ngin11
-𣏴	ngin11
-認	ngin31	0%
+人	ngin22
+仁	ngin22
+儿	ngin22	0%
+𠆧	ngin22
+𣏴	ngin22
+認	ngin32	0%
 哏	ngin33	0%
 忍	ngin33
 艮	ngin33	0%
 靭	ngin33
 韌	ngin33	3%
-廿	ngip31	0%
+廿	ngip32	0%
 日	ngit21	0%
-日	ngit31	0%
-氜	ngit31	0%
+日	ngit32	0%
+氜	ngit32	0%
 日	ngit33	0%
 我	ngo21
-俄	ngo11
-哦	ngo11	3%
-囮	ngo11
-娥	ngo11
-峨	ngo11
-峩	ngo11
-硪	ngo11	3%
-莪	ngo11
-蛾	ngo11	3%
-訛	ngo11
-譌	ngo11
-鋨	ngo11
-鵝	ngo11
-鵞	ngo11
-麌	ngo11
-䳘	ngo11
-𡈙	ngo11
-臥	ngo31
+俄	ngo22
+哦	ngo22	3%
+囮	ngo22
+娥	ngo22
+峨	ngo22
+峩	ngo22
+硪	ngo22	3%
+莪	ngo22
+蛾	ngo22	3%
+訛	ngo22
+譌	ngo22
+鋨	ngo22
+鵝	ngo22
+鵞	ngo22
+麌	ngo22
+䳘	ngo22
+𡈙	ngo22
+臥	ngo32
 騀	ngo55	0%
 𩣣	ngo55
 𩭝	ngo55
 偔	ngoi21	0%
-呆	ngoi11
-獃	ngoi11	0%
-皚	ngoi11	0%
-騃	ngoi11	0%
-外	ngoi31
-懝	ngoi31
-礙	ngoi31
-㝵	ngoi31
+呆	ngoi22
+獃	ngoi22	0%
+皚	ngoi22	0%
+騃	ngoi22	0%
+外	ngoi32
+懝	ngoi32
+礙	ngoi32
+㝵	ngoi32
 我	ngoi33
-岳	ngok31
-嶽	ngok31
-樂	ngok31	3%
-櫟	ngok31	3%
-鸑	ngok31
+岳	ngok32
+嶽	ngok32
+樂	ngok32	3%
+櫟	ngok32	3%
+鸑	ngok32
 噩	ngok55
 愕	ngok55
 萼	ngok55
@@ -8327,21 +8150,21 @@ import_tables:
 鶚	ngok55
 齶	ngok55
 𥔲	ngok55
-岸	ngon31
-玩	ngon31	3%
-翫	ngon31	0%
-貦	ngon31	0%
-㟁	ngon31
-昂	ngong11	0%
-戇	ngong31
+岸	ngon32
+玩	ngon32	3%
+翫	ngon32	0%
+貦	ngon32	0%
+㟁	ngon32
+昂	ngong22	0%
+戇	ngong32
 昂	ngong55	0%
-囮	ngu11
-峨	ngu11
-蛾	ngu11	3%
-鵝	ngu11
-鵞	ngu11
-䳘	ngu11
-餓	ngu31
+囮	ngu22
+峨	ngu22
+蛾	ngu22	3%
+鵝	ngu22
+鵞	ngu22
+䳘	ngu22
+餓	ngu32
 乳	ngui21
 俁	ngui21
 圄	ngui21
@@ -8350,81 +8173,81 @@ import_tables:
 語	ngui21
 魚	ngui21
 齬	ngui21
-侞	ngui11
-危	ngui11
-喁	ngui11
-如	ngui11
-娛	ngui11
-嵬	ngui11
-巍	ngui11
-愚	ngui11
-洳	ngui11
-漁	ngui11
-璵	ngui11
-禺	ngui11	3%
-茹	ngui11	0%
-虞	ngui11
-袽	ngui11
-銣	ngui11	0%
-隅	ngui11	0%
-魚	ngui11
-麌	ngui11
-䋈	ngui11
-䱷	ngui11
-偽	ngui31	0%
-寓	ngui31
-庽	ngui31
-御	ngui31
-禦	ngui31
-遇	ngui31
-馭	ngui31
-魏	ngui31	3%
+侞	ngui22
+危	ngui22
+喁	ngui22
+如	ngui22
+娛	ngui22
+嵬	ngui22
+巍	ngui22
+愚	ngui22
+洳	ngui22
+漁	ngui22
+璵	ngui22
+禺	ngui22	3%
+茹	ngui22	0%
+虞	ngui22
+袽	ngui22
+銣	ngui22	0%
+隅	ngui22	0%
+魚	ngui22
+麌	ngui22
+䋈	ngui22
+䱷	ngui22
+偽	ngui32	0%
+寓	ngui32
+庽	ngui32
+御	ngui32
+禦	ngui32
+遇	ngui32
+馭	ngui32
+魏	ngui32	3%
 肉	nguk21
-獄	nguk31
-玉	nguk31
-肉	nguk31
-褥	nguk31	3%
-鈺	nguk31
-𨰻	nguk31
+獄	nguk32
+玉	nguk32
+肉	nguk32
+褥	nguk32	3%
+鈺	nguk32
+𨰻	nguk32
 兀	nguk33
 郁	nguk33	3%
 朊	ngun21	3%
 硯	ngun21	3%
-元	ngun11
-原	ngun11	3%
-厵	ngun11	0%
-塬	ngun11
-嫄	ngun11
-沅	ngun11
-源	ngun11
-蚖	ngun11
-螈	ngun11
-覎	ngun11
-言	ngun11
-阮	ngun11
-潤	ngun31
-閏	ngun31
-願	ngun31
+元	ngun22
+原	ngun22	3%
+厵	ngun22	0%
+塬	ngun22
+嫄	ngun22
+沅	ngun22
+源	ngun22
+蚖	ngun22
+螈	ngun22
+覎	ngun22
+言	ngun22
+阮	ngun22
+潤	ngun32
+閏	ngun32
+願	ngun32
 耎	ngun33
 軟	ngun33
 輭	ngun33
 䓴	ngun33
-喁	ngung11
-毧	ngung11
-濃	ngung11	0%
-穠	ngung11
-絨	ngung11	3%
-羢	ngung11
-茸	ngung11
-襛	ngung11
-醲	ngung11
-顒	ngung11
-蛹	ngung31	0%
+喁	ngung22
+毧	ngung22
+濃	ngung22	0%
+穠	ngung22
+絨	ngung22	3%
+羢	ngung22
+茸	ngung22
+襛	ngung22
+醲	ngung22
+顒	ngung22
+蛹	ngung32	0%
 月	ngut21
-抈	ngut31
-月	ngut31
-焫	ngut31
-玥	ngut31
+抈	ngut32
+月	ngut32
+焫	ngut32
+玥	ngut32
 兀	ngut55
 刖	ngut55
 卼	ngut55
@@ -8436,20 +8259,67 @@ import_tables:
 旎	ni21
 汝	ni21
 禰	ni21	0%
-弭	ni31
-敉	ni31
-洱	ni31	3%
-珥	ni31
-膩	ni31	0%
-餌	ni31
+弭	ni32
+敉	ni32
+洱	ni32	3%
+珥	ni32
+膩	ni32	0%
+餌	ni32
 你	ni33
 儞	ni33
 妳	ni33
 禰	ni33	0%
+偌	niak21	3%
+偌	niak33	3%
+偌	niak55	3%
+捻	niam21	3%
+粘	niam22	0%
+鮎	niam22
+鯰	niam22
+黏	niam22
+唸	niam32	3%
+埝	niam32
+念	niam32
+稔	niam32	3%
+拈	niam33	0%
+捻	niam33	3%
+撚	niam33	6%
+粘	niam33	0%
+捻	niam55	3%
+娘	niang22
+孃	niang22
+鑷	niap21
+苶	niap33
+菍	niap33	0%
+囁	niap55	3%
+圼	niap55	0%
+懾	niap55
+捏	niap55
+揑	niap55
+攝	niap55	3%
+涅	niap55
+湼	niap55	0%
+灄	niap55
+聶	niap55	3%
+躡	niap55
+隉	niap55	0%
+顳	niap55	0%
+㘿	niap55
+嬲	niau21	0%
+蔦	niau21
+裊	niau21	0%
+鳥	niau21	3%
+尿	niau32	3%
+溺	niau32	0%
+脲	niau32
+吶	nie22
+野	nie33
+乜	nie55	0%
+呢	nie55	5%
 棯	nim21	3%
 稔	nim21	3%
 菍	nim21	0%
-淰	nim11	3%
+淰	nim22	3%
 凹	nip21	3%
 凹	nip33	3%
 捏	nit55
@@ -8462,25 +8332,25 @@ import_tables:
 紐	niu55	0%
 蹂	niu55	0%
 鈕	niu55	0%
-儺	no11
-娜	no11	3%
-挪	no11
-挼	no11
-那	no11	5%
-稬	no31
-穤	no31	0%
-糥	no31	0%
-糯	no31
-𥻟	no31
-佴	noi31	0%
-奈	noi31
-柰	noi31
-耐	noi31	3%
-萘	noi31
-褦	noi31	0%
-喏	nok31
-諾	nok31
-鍩	nok31
+儺	no22
+娜	no22	3%
+挪	no22
+挼	no22
+那	no22	5%
+稬	no32
+穤	no32	0%
+糥	no32	0%
+糯	no32
+𥻟	no32
+佴	noi32	0%
+奈	noi32
+柰	noi32
+耐	noi32	3%
+萘	noi32
+褦	noi32	0%
+喏	nok32
+諾	nok32
+鍩	nok32
 暖	non21	0%
 暖	non33	0%
 煖	non33	0%
@@ -8488,69 +8358,69 @@ import_tables:
 㬉	non33
 囊	nong21
 曩	nong21
-儾	nong11	0%
-囊	nong11
-囔	nong11
-曩	nong11
-涳	nong11
-瓤	nong11
-蠰	nong11
-饢	nong11
-齉	nong11
-凼	nong31
-襠	nong31	3%
+儾	nong22	0%
+囊	nong22
+囔	nong22
+曩	nong22
+涳	nong22
+瓤	nong22
+蠰	nong22
+饢	nong22
+齉	nong22
+凼	nong32
+襠	nong32	3%
 囔	nong55
 攮	nong55
 𠺘	nong55
-奴	nu11
-孥	nu11
-帑	nu11
-挼	nu11
-駑	nu11
-怒	nu31
-懦	nu31
-稬	nu31
-穤	nu31	0%
-糥	nu31	0%
-糯	nu31
-𥻟	nu31
+奴	nu22
+孥	nu22
+帑	nu22
+挼	nu22
+駑	nu22
+怒	nu32
+懦	nu32
+稬	nu32
+穤	nu32	0%
+糥	nu32	0%
+糯	nu32
+𥻟	nu32
 努	nu55
 呶	nu55	0%
 弩	nu55
 胬	nu55
 餒	nui21
-內	nui31	3%
-氝	nui31
-氞	nui31	0%
-㨅	nui31
+內	nui32	3%
+氝	nui32
+氞	nui32	0%
+㨅	nui32
 女	nui55	3%
 釹	nui55
-衂	nuk31
-衄	nuk31
-䶊	nuk31
+衂	nuk32
+衄	nuk32
+䶊	nuk32
 忸	nuk33	3%
 按	nuk33
 朒	nuk33	3%
 勖	nuk55
 勗	nuk55
 恧	nuk55
-嫩	nun31
+嫩	nun32
 燶	nung21	0%
-儂	nung11
-噥	nung11
-濃	nung11	0%
-膿	nung11
-農	nung11
+儂	nung22
+噥	nung22
+濃	nung22	0%
+膿	nung22
+農	nung22
 燶	nung33	0%
-慄	nut31
-肭	nut31	0%
-訥	nut31
+慄	nut32
+肭	nut32	0%
+訥	nut32
 抐	nut33
 抐	nut55
 胖	nut55	0%
-哦	o31	3%
-墮	o31	0%
-惰	o31
+哦	o32	3%
+墮	o32	0%
+惰	o32
 哦	o33	3%
 噢	o33	3%
 妿	o33	0%
@@ -8567,22 +8437,22 @@ import_tables:
 剁	o55	3%
 朵	o55
 橢	o55	0%
-代	oi31
-埭	oi31
-岱	oi31
-帒	oi31	0%
-待	oi31	0%
-怠	oi31
-殆	oi31
-玳	oi31
-瑇	oi31
-甙	oi31
-紿	oi31	3%
-袋	oi31
-迨	oi31	0%
-靆	oi31
-駘	oi31	0%
-黛	oi31
+代	oi32
+埭	oi32
+岱	oi32
+帒	oi32	0%
+待	oi32	0%
+怠	oi32
+殆	oi32
+玳	oi32
+瑇	oi32
+甙	oi32
+紿	oi32	3%
+袋	oi32
+迨	oi32	0%
+靆	oi32
+駘	oi32	0%
+黛	oi32
 哀	oi33
 嬡	oi33
 愛	oi33
@@ -8593,21 +8463,21 @@ import_tables:
 曖	oi55
 藹	oi55
 靄	oi55
-度	ok31
-踱	ok31
-鐸	ok31	0%
+度	ok32
+踱	ok32
+鐸	ok32	0%
 惡	ok33	3%
 噁	ok55	0%
 堊	ok55
 惡	ok55	3%
-塅	on31
-斷	on31
-椴	on31
-段	on31
-煅	on31
-籪	on31
-緞	on31
-鍛	on31
+塅	on32
+斷	on32
+椴	on32
+段	on32
+煅	on32
+籪	on32
+緞	on32
+鍛	on32
 安	on33
 按	on33
 摁	on33	0%
@@ -8621,13 +8491,13 @@ import_tables:
 鞌	on33
 鞍	on33
 短	on55
-宕	ong31
-盎	ong31
-盪	ong31	0%
-碭	ong31
-菪	ong31
-蕩	ong31
-𦿆	ong31
+宕	ong32
+盎	ong32
+盪	ong32	0%
+碭	ong32
+菪	ong32
+蕩	ong32
+𦿆	ong32
 噹	ong33
 檔	ong33
 璫	ong33
@@ -8640,28 +8510,28 @@ import_tables:
 盎	ong55
 讜	ong55
 黨	ong55	0%
-划	pa11	3%
-扒	pa11	3%
-掱	pa11
-杷	pa11
-爬	pa11
-琶	pa11
-筢	pa11
-耙	pa11	3%
-趴	pa11
-鈀	pa11
+划	pa22	3%
+扒	pa22	3%
+掱	pa22
+杷	pa22
+爬	pa22
+琶	pa22
+筢	pa22
+耙	pa22	3%
+趴	pa22
+鈀	pa22
 怕	pa33
 稗	pai21	3%
 粺	pai21	0%
-俳	pai11
-徘	pai11
-排	pai11	3%
-棑	pai11
-牌	pai11
-箄	pai11
-簰	pai11	3%
-𤗋	pai11
-𥱼	pai11
+俳	pai22
+徘	pai22
+排	pai22	3%
+棑	pai22
+牌	pai22
+箄	pai22
+簰	pai22	3%
+𤗋	pai22
+𥱼	pai22
 批	pai33
 派	pai33
 砒	pai33
@@ -8693,207 +8563,174 @@ import_tables:
 棒	pang21
 砰	pang21	3%
 稖	pang21
-堋	pang11	3%
-弸	pang11
-彭	pang11	0%
-憑	pang11	0%
-搒	pang11	3%
-朋	pang11
-棚	pang11
-澋	pang11
-澎	pang11	0%
-熢	pang11
-甏	pang11	3%
-硼	pang11	3%
-篣	pang11
-膨	pang11
-蟚	pang11	0%
-蟛	pang11
-馮	pang11	3%
-鬅	pang11	0%
-鵬	pang11
-䨻	pang11	0%
-𠗦	pang11
+堋	pang22	3%
+弸	pang22
+彭	pang22	0%
+憑	pang22	0%
+搒	pang22	3%
+朋	pang22
+棚	pang22
+澋	pang22
+澎	pang22	0%
+熢	pang22
+甏	pang22	3%
+硼	pang22	3%
+篣	pang22
+膨	pang22
+蟚	pang22	0%
+蟛	pang22
+馮	pang22	3%
+鬅	pang22	0%
+鵬	pang22
+䨻	pang22	0%
+𠗦	pang22
 嘭	pang33
 烹	pang33
 閛	pang33
 𨳵	pang33
-刨	pao21
-泡	pao21	3%
-刨	pao11
-匏	pao11
-庖	pao11
-掊	pao11	0%
-袍	pao11
-裒	pao11
-跑	pao11	3%
-颮	pao11
-䯽	pao11
-𩭍	pao11
-咆	pao33	0%
-奅	pao33
-抱	pao33	0%
-拋	pao33
-泡	pao33	3%
-炮	pao33	3%
-爆	pao33	0%
-皰	pao33
-砲	pao33	0%
-礟	pao33	0%
-礮	pao33
-脬	pao33
-菢	pao33
-剖	pao55
-掊	pao55	0%
-瓿	pao55	0%
-跑	pao55	3%
 秕	pat21
-疲	peh21
-瞥	peik33
-蹩	peik33
-僻	peik55	0%
-噼	peik55	0%
-擗	peik55	0%
-甓	peik55	0%
-癖	peik55
-薜	peik55	3%
-辟	peik55	3%
-闢	peik55
-霹	peik55
-泵	peim55
-伻	pein11
-便	pein11	0%
-坪	pein11
-屏	pein11	3%
-帡	pein11
-幈	pein11
-平	pein11	3%
-怦	pein11	0%
-抨	pein11	0%
-摒	pein11	0%
-枰	pein11
-瓶	pein11	0%
-砰	pein11	3%
-竮	pein11
-箳	pein11
-簈	pein11
-缾	pein11	0%
-胼	pein11
-荓	pein11
-萍	pein11
-蓱	pein11
-蘋	pein11	3%
-蛢	pein11
-評	pein11
-跰	pein11
-軿	pein11
-郱	pein11
-鉼	pein11
-駢	pein11
-騈	pein11	0%
-骿	pein11
-鮃	pein11
-𥵪	pein11
-𦶊	pein11
-俜	pein33
-偏	pein33
-姘	pein33
-娉	pein33	3%
-徧	pein33
-扁	pein33
-拚	pein33	3%
-拼	pein33	5%
-涄	pein33
-片	pein33
-犏	pein33
-甹	pein33
-砯	pein33
-篇	pein33
-編	pein33
-緶	pein33
-翩	pein33
-聘	pein33
-胼	pein33
-腁	pein33	0%
-荓	pein33
-諞	pein33
-跰	pein33
-蹁	pein33	3%
-遍	pein33
-鉼	pein33
-鍂	pein33	0%
-頩	pein33
-騁	pein33	0%
-騙	pein33
-䀻	pein33
-䏒	pein33
-𨉂	pein33
-𨉯	pein33
-𩧢	pein33
-片	pein55
-劈	pek21	3%
-劈	pek33	3%
-踢	pek33
-殍	pel21
-票	pel21	3%
-嫖	pel11	3%
-摽	pel11	3%
-樸	pel11	3%
-莩	pel11
-薸	pel11
-僄	pel31
-㺓	pel31
-僄	pel33
-剽	pel33	3%
-嘌	pel33
-摽	pel33	3%
-漂	pel33
-瓢	pel33
-瞟	pel33	0%
-縹	pel33	0%
-螵	pel33	0%
-飄	pel33
-驃	pel33	0%
-鰾	pel33	0%
-㧼	pel55
-呯	peng21
-坪	peng21
-瓶	peng21	0%
-缾	peng21	0%
-𩩍	peng21
-平	peng11	3%
-坪	peng55
+刨	pau21
+泡	pau21	3%
+刨	pau22
+匏	pau22
+庖	pau22
+掊	pau22	0%
+袍	pau22
+裒	pau22
+跑	pau22	3%
+颮	pau22
+䯽	pau22
+𩭍	pau22
+咆	pau33	0%
+奅	pau33
+抱	pau33	0%
+拋	pau33
+泡	pau33	3%
+炮	pau33	3%
+爆	pau33	0%
+皰	pau33
+砲	pau33	0%
+礟	pau33	0%
+礮	pau33
+脬	pau33
+菢	pau33
+剖	pau55
+掊	pau55	0%
+瓿	pau55	0%
+跑	pau55	3%
+泵	pem55
+伻	pen22
+便	pen22	0%
+坪	pen22
+屏	pen22	3%
+帡	pen22
+幈	pen22
+平	pen22	3%
+怦	pen22	0%
+抨	pen22	0%
+摒	pen22	0%
+枰	pen22
+瓶	pen22	0%
+砰	pen22	3%
+竮	pen22
+箳	pen22
+簈	pen22
+缾	pen22	0%
+胼	pen22
+荓	pen22
+萍	pen22
+蓱	pen22
+蘋	pen22	3%
+蛢	pen22
+評	pen22
+跰	pen22
+軿	pen22
+郱	pen22
+鉼	pen22
+駢	pen22
+騈	pen22	0%
+骿	pen22
+鮃	pen22
+𥵪	pen22
+𦶊	pen22
+俜	pen33
+偏	pen33
+姘	pen33
+娉	pen33	3%
+徧	pen33
+扁	pen33
+拚	pen33	3%
+拼	pen33	5%
+涄	pen33
+片	pen33
+犏	pen33
+甹	pen33
+砯	pen33
+篇	pen33
+編	pen33
+緶	pen33
+翩	pen33
+聘	pen33
+胼	pen33
+腁	pen33	0%
+荓	pen33
+諞	pen33
+跰	pen33
+蹁	pen33	3%
+遍	pen33
+鉼	pen33
+鍂	pen33	0%
+頩	pen33
+騁	pen33	0%
+騙	pen33
+䀻	pen33
+䏒	pen33
+𨉂	pen33
+𨉯	pen33
+𩧢	pen33
+片	pen55
 丿	pet21
 撇	pet21
+瞥	pet33
+蹩	pet33
 撇	pet33
 氕	pet33
+僻	pet55	0%
+噼	pet55	0%
+擗	pet55	0%
+甓	pet55	0%
+癖	pet55
+薜	pet55	3%
+辟	pet55	3%
+闢	pet55
+霹	pet55
 撇	pet55
 跛	pet55	3%
 婢	pi21
 睥	pi21	0%
 脾	pi21
 被	pi21
-嬖	pi11	0%
-枇	pi11
-琵	pi11
-疲	pi11
-皮	pi11	3%
-肶	pi11
-脾	pi11
-膍	pi11
-芘	pi11	0%
-蚍	pi11
-蜱	pi11
-螕	pi11	0%
-裨	pi11
-貔	pi11
-郫	pi11
-鈹	pi11
-陂	pi11	3%
-陴	pi11
-鞞	pi11
-鮍	pi11
-鼙	pi11
+嬖	pi22	0%
+枇	pi22
+琵	pi22
+疲	pi22
+皮	pi22	3%
+肶	pi22
+脾	pi22
+膍	pi22
+芘	pi22	0%
+蚍	pi22
+蜱	pi22
+螕	pi22	0%
+裨	pi22
+貔	pi22
+郫	pi22
+鈹	pi22
+陂	pi22	3%
+陴	pi22
+鞞	pi22
+鮍	pi22
+鼙	pi22
 屁	pi33
 披	pi33
 狉	pi33
@@ -8914,22 +8751,55 @@ import_tables:
 駓	pi55
 魾	pi55
 䲹	pi55
+劈	piak21	3%
+劈	piak33	3%
+踢	piak33
+呯	piang21
+坪	piang21
+瓶	piang21	0%
+缾	piang21	0%
+𩩍	piang21
+平	piang22	3%
+坪	piang55
+殍	piau21
+票	piau21	3%
+嫖	piau22	3%
+摽	piau22	3%
+樸	piau22	3%
+莩	piau22
+薸	piau22
+僄	piau32
+㺓	piau32
+僄	piau33
+剽	piau33	3%
+嘌	piau33
+摽	piau33	3%
+漂	piau33
+瓢	piau33
+瞟	piau33	0%
+縹	piau33	0%
+螵	piau33	0%
+飄	piau33
+驃	piau33	0%
+鰾	piau33	0%
+㧼	piau55
+疲	pie21
 牝	pin21	0%
-嚬	pin11
-瀕	pin11	3%
-牝	pin11	0%
-矉	pin11
-蘋	pin11	3%
-貧	pin11
-頻	pin11
-顰	pin11
+嚬	pin22
+瀕	pin22	3%
+牝	pin22	0%
+矉	pin22
+蘋	pin22	3%
+貧	pin22
+頻	pin22
+顰	pin22
 匹	pit55
 疋	pit55	3%
 苉	pit55	0%
-婆	po11
-媻	po11
-皤	po11
-繁	po11	3%
+婆	po22
+媻	po22
+皤	po22
+繁	po22	3%
 破	po33
 頗	po33
 叵	po55
@@ -8942,16 +8812,16 @@ import_tables:
 坯	poi21
 碚	poi21
 蓓	poi21
-培	poi11	3%
-抔	poi11
-掊	poi11	0%
-瓿	poi11	0%
-裴	poi11
-裵	poi11	0%
-賠	poi11
-醅	poi11
-錇	poi11
-陪	poi11
+培	poi22	3%
+抔	poi22
+掊	poi22	0%
+瓿	poi22	0%
+裴	poi22
+裵	poi22	0%
+賠	poi22
+醅	poi22
+錇	poi22
+陪	poi22
 佩	poi33
 旆	poi33	0%
 棑	poi33
@@ -8978,15 +8848,15 @@ import_tables:
 釙	pok55
 𨠘	pok55
 伴	pon21	3%
-媻	pon11
-柈	pon11
-槃	pon11
-盤	pon11
-磐	pon11
-磻	pon11	3%
-胖	pon11	0%
-蟠	pon11	3%
-蹣	pon11	3%
+媻	pon22
+柈	pon22
+槃	pon22
+盤	pon22
+磐	pon22
+磻	pon22	3%
+胖	pon22	0%
+蟠	pon22	3%
+蹣	pon22	3%
 判	pon33
 拚	pon33	3%
 拼	pon33	5%
@@ -8999,44 +8869,44 @@ import_tables:
 蚌	pong21
 蛖	pong21	0%
 蜯	pong21
-傍	pong11
-嗙	pong11	3%
-尨	pong11
-彷	pong11
-徬	pong11	3%
-房	pong11	3%
-旁	pong11
-滂	pong11	3%
-牻	pong11
-磅	pong11
-篣	pong11
-膀	pong11	3%
-螃	pong11	3%
-逄	pong11
-逢	pong11	3%
-鰟	pong11
-龐	pong11	0%
-耪	pong31	3%
+傍	pong22
+嗙	pong22	3%
+尨	pong22
+彷	pong22
+徬	pong22	3%
+房	pong22	3%
+旁	pong22
+滂	pong22	3%
+牻	pong22
+磅	pong22
+篣	pong22
+膀	pong22	3%
+螃	pong22	3%
+逄	pong22
+逢	pong22	3%
+鰟	pong22
+龐	pong22	0%
+耪	pong32	3%
 謗	pong55	0%
 潑	pot33	3%
 醱	pot33
 鏺	pot33
 㧊	pot33
 婆	pu21
-匍	pu11
-婆	pu11
-浦	pu11	0%
-皤	pu11
-砣	pu11
-砣	pu11
-莆	pu11
-菩	pu11
-葡	pu11
-蒲	pu11	3%
-逋	pu11
-酺	pu11
-鉈	pu11	3%
-𥓿	pu11
+匍	pu22
+婆	pu22
+浦	pu22	0%
+皤	pu22
+砣	pu22
+砣	pu22
+莆	pu22
+菩	pu22
+葡	pu22
+蒲	pu22	3%
+逋	pu22
+酺	pu22
+鉈	pu22	3%
+𥓿	pu22
 甫	pu33	3%
 破	pu33
 舖	pu33	3%
@@ -9057,19 +8927,19 @@ import_tables:
 盆	pun21
 噴	pun33	3%
 濆	pun33	3%
-塜	pung11
-塳	pung11
-漨	pung11
-篷	pung11
-芃	pung11
-莑	pung11
-菶	pung11
-蓬	pung11
-逢	pung11	3%
-髼	pung11
-𥭗	pung11
-𥴣	pung11
-𦪪	pung11
+塜	pung22
+塳	pung22
+漨	pung22
+篷	pung22
+芃	pung22
+莑	pung22
+菶	pung22
+蓬	pung22
+逢	pung22	3%
+髼	pung22
+𥭗	pung22
+𥴣	pung22
+𦪪	pung22
 掽	pung33
 碰	pung33
 踫	pung33
@@ -9078,8 +8948,6 @@ import_tables:
 捧	pung55	0%
 摓	pung55
 淎	pung55
-胊	kui11
-瑢	yung11
 挱	sa21
 挲	sa21
 沙	sa21
@@ -9106,11 +8974,11 @@ import_tables:
 舓	sai21
 䑛	sai21
 𦧇	sai21
-貰	sai11
-誓	sai31
-逝	sai31
-䛈	sai31
-䤱	sai31
+貰	sai22
+誓	sai32
+逝	sai32
+䛈	sai32
+䤱	sai32
 世	sai33
 丗	sai33	0%
 勢	sai33
@@ -9134,9 +9002,9 @@ import_tables:
 栓	san21
 殘	san21
 閂	san21
-孱	san11	0%
-潺	san11
-驏	san11	3%
+孱	san22	0%
+潺	san22
+驏	san22	3%
 刪	san33
 埏	san33	3%
 姍	san33	3%
@@ -9172,23 +9040,7 @@ import_tables:
 賞	sang55
 𧍖	sang55
 𨜜	sang55
-扔	sao31
-哨	sao33
-嘯	sao33	0%
-捎	sao33	3%
-梢	sao33
-潲	sao33	3%
-筲	sao33
-耖	sao33	0%
-艄	sao33
-蛸	sao33
-銹	sao33
-鏥	sao33	0%
-鏽	sao33
-鞘	sao33
-稍	sao55
-颼	sao55	0%
-煮	sap31
+煮	sap32
 唼	sap33	3%
 眨	sap33
 翣	sap33
@@ -9202,149 +9054,33 @@ import_tables:
 鎩	sat33
 𣻑	sat33
 剎	sat55
-社	seh21	0%
-䬷	seh21
-佘	seh11
-畬	seh11	0%
-畲	seh11
-虵	seh11	0%
-蛇	seh11
-輋	seh11	0%
-闍	seh11	0%
-射	seh31	0%
-麝	seh31
-䠶	seh31
-厙	seh33
-啥	seh33	0%
-猞	seh33
-舍	seh33	0%
-舎	seh33	0%
-賒	seh33
-捨	seh55
-䬷	seh55
-蝕	seik31
-食	seik31	3%
-奭	seik55
-式	seik55
-拭	seik55
-歮	seik55	0%
-穡	seik55
-色	seik55
-螫	seik55
-識	seik55
-軾	seik55
-適	seik55	3%
-釋	seik55	3%
-銫	seik55
-飭	seik55	3%
-飾	seik55	3%
-骰	seik55
-岑	seim11
-忱	seim11
-愖	seim11	0%
-森	seim11
-涔	seim11
-芩	seim11
-諶	seim11
-抋	seim33	0%
-沁	seim33
-滲	seim33
-升	sein21
-丞	sein11	0%
-乘	sein11
-城	sein11	3%
-堘	sein11	0%
-塍	sein11
-塖	sein11
-娍	sein11
-宬	sein11
-成	sein11	3%
-承	sein11	0%
-晟	sein11
-晠	sein11	0%
-洆	sein11
-澠	sein11	0%
-珹	sein11	0%
-畻	sein11
-盛	sein11
-繩	sein11
-荿	sein11
-誠	sein11
-郕	sein11
-鋮	sein11
-䫆	sein11
-𢦩	sein11
-𣎒	sein11
-𨭘	sein11
-𨹚	sein11
-乘	sein31
-單	sein31	5%
-娍	sein31
-嵊	sein31
-晟	sein31
-晠	sein31	0%
-盛	sein31
-𦛙	sein31
-勝	sein33
-升	sein33
-昇	sein33
-檉	sein33
-琞	sein33
-聖	sein33
-聲	sein33	3%
-苫	sein33
-蟶	sein33
-阩	sein33
-陞	sein33	0%
-𠅫	sein33
-𠙟	sein33
-𡕲	sein33
-𤳔	sein33
-升	sein55
-澀	seip55	3%
-澁	seip55
-㒊	seip55
-炻	sek21
-石	sek21
-碩	sek21
-祏	sek21
-鼫	sek21
-䂖	sek21
-䄷	sek21
-石	sek31
-濕	sek33	6%
-勺	sek55
-妁	sek55
-杓	sek55
-灼	sek55
-爍	sek55	3%
-繳	sek55	3%
-芍	sek55	3%
-鑠	sek55
-兆	sel21
-苕	sel11
-韶	sel11
-劭	sel31
-召	sel31	0%
-紹	sel31
-肇	sel31
-邵	sel31
-少	sel33
-燒	sel33
-少	sel55
-儃	sem11	0%
-單	sem11	5%
-嬋	sem11	0%
-檐	sem11	0%
-禪	sem11	0%
-簷	sem11	0%
-蟬	sem11	0%
-蟾	sem11
-剡	sem31
-贍	sem31
-閃	sem55
-陝	sem55
-䀹	sem55	0%
+扔	sau32
+哨	sau33
+嘯	sau33	0%
+捎	sau33	3%
+梢	sau33
+潲	sau33	3%
+筲	sau33
+耖	sau33	0%
+艄	sau33
+蛸	sau33
+銹	sau33
+鏥	sau33	0%
+鏽	sau33
+鞘	sau33
+稍	sau55
+颼	sau55	0%
+岑	sem22
+忱	sem22
+愖	sem22	0%
+森	sem22
+涔	sem22
+芩	sem22
+諶	sem22
+抋	sem33	0%
+沁	sem33
+滲	sem33
+升	sen21
 繕	sen21
 膳	sen21
 蟮	sen21
@@ -9353,16 +9089,66 @@ import_tables:
 饍	sen21
 鱔	sen21
 鱣	sen21	0%
-倩	sen31	3%
-善	sen31
-墡	sen31
-嬗	sen31
-掞	sen31
-撣	sen31
-擅	sen31
-禪	sen31	0%
-茜	sen31	3%
-鄯	sen31
+丞	sen22	0%
+乘	sen22
+城	sen22	3%
+堘	sen22	0%
+塍	sen22
+塖	sen22
+娍	sen22
+宬	sen22
+成	sen22	3%
+承	sen22	0%
+晟	sen22
+晠	sen22	0%
+洆	sen22
+澠	sen22	0%
+珹	sen22	0%
+畻	sen22
+盛	sen22
+繩	sen22
+荿	sen22
+誠	sen22
+郕	sen22
+鋮	sen22
+䫆	sen22
+𢦩	sen22
+𣎒	sen22
+𨭘	sen22
+𨹚	sen22
+乘	sen32
+單	sen32	5%
+娍	sen32
+嵊	sen32
+晟	sen32
+晠	sen32	0%
+盛	sen32
+𦛙	sen32
+倩	sen32	3%
+善	sen32
+墡	sen32
+嬗	sen32
+掞	sen32
+撣	sen32
+擅	sen32
+禪	sen32	0%
+茜	sen32	3%
+鄯	sen32
+勝	sen33
+升	sen33
+昇	sen33
+檉	sen33
+琞	sen33
+聖	sen33
+聲	sen33	3%
+苫	sen33
+蟶	sen33
+阩	sen33
+陞	sen33	0%
+𠅫	sen33
+𠙟	sen33
+𡕲	sen33
+𤳔	sen33
 扇	sen33
 搧	sen33
 煽	sen33
@@ -9371,103 +9157,85 @@ import_tables:
 膻	sen33	0%
 蒨	sen33	0%
 騸	sen33
-聲	seng21	3%
-倘	seng11	3%
-償	seng11
-嘗	seng11
-城	seng11	3%
-嫦	seng11
-常	seng11
-徜	seng11
-成	seng11	3%
-甞	seng11
-裳	seng11
-鱨	seng11
-上	seng31
-尙	seng31	0%
-尚	seng31
-蠰	seng31
-鞝	seng31	0%
-上	seng33
-傷	seng33
-商	seng33
-墒	seng33
-殤	seng33
-湯	seng33	3%
-熵	seng33
-聲	seng33	3%
-觴	seng33
-賞	seng55
-愁	seo11
-瘦	seo33
-拾	sep31	3%
-歙	sep31	0%
-涉	sep31	3%
-渉	sep31	0%
-箑	sep31	3%
-霅	sep31	0%
-閃	sep33
-曄	sep55
-曅	sep55	0%
-熠	sep55	0%
-燁	sep55
-爗	sep55	0%
+升	sen55
+澀	sep55	3%
+澁	sep55
+㒊	sep55
 揲	set21	3%
 舌	set21
 鞨	set21	0%
-折	set31	3%
-蝕	set31
+蝕	set32
+食	set32	3%
+折	set32	3%
+蝕	set32
+奭	set55
+式	set55
+拭	set55
+歮	set55	0%
+穡	set55
+色	set55
+螫	set55
+識	set55
+軾	set55
+適	set55	3%
+釋	set55	3%
+銫	set55
+飭	set55	3%
+飾	set55	3%
+骰	set55
 色	set55
 虱	set55
 蝨	set55
 設	set55
 鯴	set55
+愁	seu22
+瘦	seu33
 市	si21
 恃	si21	0%
 時	si21
 柹	si21
 柿	si21
 鈰	si21
-匙	si11
-塒	si11
-旹	si11
-時	si11
-曙	si11	0%
-杸	si11	0%
-殊	si11
-殳	si11
-糬	si11
-茨	si11
-蒔	si11
-薯	si11	0%
-藷	si11	0%
-諟	si11
-軗	si11
-鍉	si11
-鰣	si11
-㖷	si11
-𠸭	si11
-侍	si31
-媞	si31
-峙	si31	0%
-忕	si31
-惿	si31
-是	si31
-昰	si31
-曙	si31	0%
-樹	si31
-氏	si31
-澍	si31
-眎	si31
-眡	si31
-示	si31	3%
-社	si31	0%
-署	si31	0%
-視	si31
-豉	si31
-豎	si31
-䜵	si31
-䜻	si31
+匙	si22
+塒	si22
+旹	si22
+時	si22
+曙	si22	0%
+杸	si22	0%
+殊	si22
+殳	si22
+糬	si22
+茨	si22
+蒔	si22
+薯	si22	0%
+藷	si22	0%
+諟	si22
+軗	si22
+鍉	si22
+鰣	si22
+㖷	si22
+𠸭	si22
+侍	si32
+媞	si32
+峙	si32	0%
+忕	si32
+惿	si32
+是	si32
+昰	si32
+曙	si32	0%
+樹	si32
+氏	si32
+澍	si32
+眎	si32
+眡	si32
+示	si32	3%
+社	si32	0%
+署	si32	0%
+視	si32
+豉	si32
+豎	si32
+䜵	si32
+䜻	si32
 俞	si33	3%
 嗜	si33
 噓	si33
@@ -9507,10 +9275,110 @@ import_tables:
 鼠	si55
 鼡	si55	0%
 䑕	si55
-什	sim31	3%
-椹	sim31
-甚	sim31	0%
-葚	sim31	0%
+炻	siak21
+石	siak21
+碩	siak21
+祏	siak21
+鼫	siak21
+䂖	siak21
+䄷	siak21
+石	siak32
+濕	siak33	6%
+勺	siak55
+妁	siak55
+杓	siak55
+灼	siak55
+爍	siak55	3%
+繳	siak55	3%
+芍	siak55	3%
+鑠	siak55
+儃	siam22	0%
+單	siam22	5%
+嬋	siam22	0%
+檐	siam22	0%
+禪	siam22	0%
+簷	siam22	0%
+蟬	siam22	0%
+蟾	siam22
+剡	siam32
+贍	siam32
+閃	siam55
+陝	siam55
+䀹	siam55	0%
+聲	siang21	3%
+倘	siang22	3%
+償	siang22
+嘗	siang22
+城	siang22	3%
+嫦	siang22
+常	siang22
+徜	siang22
+成	siang22	3%
+甞	siang22
+裳	siang22
+鱨	siang22
+上	siang32
+尙	siang32	0%
+尚	siang32
+蠰	siang32
+鞝	siang32	0%
+上	siang33
+傷	siang33
+商	siang33
+墒	siang33
+殤	siang33
+湯	siang33	3%
+熵	siang33
+聲	siang33	3%
+觴	siang33
+賞	siang55
+拾	siap32	3%
+歙	siap32	0%
+涉	siap32	3%
+渉	siap32	0%
+箑	siap32	3%
+霅	siap32	0%
+閃	siap33
+曄	siap55
+曅	siap55	0%
+熠	siap55	0%
+燁	siap55
+爗	siap55	0%
+兆	siau21
+苕	siau22
+韶	siau22
+劭	siau32
+召	siau32	0%
+紹	siau32
+肇	siau32
+邵	siau32
+少	siau33
+燒	siau33
+少	siau55
+社	sie21	0%
+䬷	sie21
+佘	sie22
+畬	sie22	0%
+畲	sie22
+虵	sie22	0%
+蛇	sie22
+輋	sie22	0%
+闍	sie22	0%
+射	sie32	0%
+麝	sie32
+䠶	sie32
+厙	sie33
+啥	sie33	0%
+猞	sie33
+舍	sie33	0%
+舎	sie33	0%
+賒	sie33
+捨	sie55
+䬷	sie55
+什	sim32	3%
+椹	sim32
+甚	sim32	0%
+葚	sim32	0%
 深	sim33
 琛	sim33	0%
 郴	sim33	0%
@@ -9522,17 +9390,17 @@ import_tables:
 諗	sim55	0%
 讅	sim55
 身	sin21	0%
-娠	sin11
-宸	sin11
-晨	sin11
-神	sin11
-臣	sin11
-辰	sin11
-𠈌	sin11
-愼	sin31	0%
-慎	sin31
-眘	sin31
-縝	sin31	3%
+娠	sin22
+宸	sin22
+晨	sin22
+神	sin22
+臣	sin22
+辰	sin22
+𠈌	sin22
+愼	sin32	0%
+慎	sin32
+眘	sin32
+縝	sin32	3%
 伸	sin33
 呻	sin33
 抻	sin33
@@ -9542,26 +9410,26 @@ import_tables:
 紳	sin33
 胂	sin33	0%
 身	sin33	0%
-什	sip31	3%
-十	sip31
-拾	sip31	3%
+什	sip32	3%
+十	sip32
+拾	sip32	3%
 溼	sip55
 澀	sip55	3%
 濕	sip55	6%
-実	sit31	0%
-寔	sit31	0%
-實	sit31
+実	sit32	0%
+寔	sit32	0%
+實	sit32
 失	sit55	0%
 室	sit55
 瑟	sit55
-仇	siu11
-售	siu11
-讎	siu11
-受	siu31
-售	siu31
-壽	siu31
-授	siu31
-綬	siu31
+仇	siu22
+售	siu22
+讎	siu22
+受	siu32
+售	siu32
+壽	siu32
+授	siu32
+綬	siu32
 收	siu33
 狩	siu33	0%
 守	siu55
@@ -9574,7 +9442,7 @@ import_tables:
 𩠐	siu55
 傻	so21
 梭	so21
-睃	so31	0%
+睃	so32	0%
 唆	so33
 娑	so33
 挱	so33
@@ -9606,9 +9474,9 @@ import_tables:
 蒴	sok55
 吮	son21	0%
 楯	son21
-舡	son11	3%
-舩	son11	0%
-船	son11
+舡	son22	3%
+舩	son22	0%
+船	son22
 孀	song33
 瀧	song33	0%
 蠰	song33
@@ -9632,10 +9500,10 @@ import_tables:
 蔬	su33
 數	su55	3%
 誰	sui21
-垂	sui11
-誰	sui11
-陲	sui11
-睡	sui31
+垂	sui22
+誰	sui22
+陲	sui22
+睡	sui32
 帥	sui33
 稅	sui33	3%
 衰	sui33
@@ -9643,16 +9511,16 @@ import_tables:
 水	sui55
 誰	sui55
 縮	suk21
-塾	suk31
-孰	suk31
-屬	suk31	3%
-淑	suk31
-熟	suk31
-菽	suk31	0%
-蜀	suk31
-蠋	suk31	0%
-蠾	suk31
-贖	suk31	3%
+塾	suk32
+孰	suk32
+屬	suk32	3%
+淑	suk32
+熟	suk32
+菽	suk32	0%
+蜀	suk32
+蠋	suk32	0%
+蠾	suk32
+贖	suk32	3%
 縮	suk33
 倏	suk55
 叔	suk55
@@ -9662,32 +9530,32 @@ import_tables:
 蜃	sun21	0%
 蜄	sun21	0%
 鶉	sun21
-唇	sun11
-淳	sun11
-純	sun11	3%
-脣	sun11
-蒓	sun11
-蓴	sun11
-醇	sun11
-錞	sun11
-馴	sun11	0%
-順	sun31
+唇	sun22
+淳	sun22
+純	sun22	3%
+脣	sun22
+蒓	sun22
+蓴	sun22
+醇	sun22
+錞	sun22
+馴	sun22	0%
+順	sun32
 舜	sun33
-嫞	sung11
-崇	sung11
-崈	sung11
-鱅	sung11
-㓽	sung11
-沭	sut31
-秫	sut31
-術	sut31
-述	sut31
-鉥	sut31
-亝	tai11
-懠	tai11
-薺	tai11	3%
-蠐	tai11
-齊	tai11	3%
+嫞	sung22
+崇	sung22
+崈	sung22
+鱅	sung22
+㓽	sung22
+沭	sut32
+秫	sut32
+術	sut32
+述	sut32
+鉥	sut32
+亝	tai22
+懠	tai22
+薺	tai22	3%
+蠐	tai22
+齊	tai22	3%
 凄	tai33	0%
 切	tai33
 悽	tai33
@@ -9700,14 +9568,14 @@ import_tables:
 𪗏	tai33
 呔	tai55
 銻	tai55
-賊	tak31
-鰂	tak31
+賊	tak32
+鰂	tak32
 蠶	tam21
-巉	tam11
-慚	tam11
-欃	tam11
-讒	tam11
-饞	tam11
+巉	tam22
+慚	tam22
+欃	tam22
+讒	tam22
+饞	tam22
 參	tam33	0%
 叅	tam33	0%
 噆	tam33	3%
@@ -9721,7 +9589,7 @@ import_tables:
 慘	tam55
 黲	tam55
 殘	tan21
-殘	tan11
+殘	tan22
 嘆	tan33	0%
 湌	tan33
 飡	tan33
@@ -9730,168 +9598,168 @@ import_tables:
 燦	tan55
 璨	tan55
 粲	tan55
-層	tang11
-曾	tang11
-嘈	tao11
-曹	tao11
-槽	tao11
-漕	tao11
-艚	tao11
-螬	tao11
-鰽	tao11	0%
-噪	tao33
-操	tao33
-澡	tao33
-燥	tao33
-糙	tao33
-藻	tao33
-趮	tao33	0%
-躁	tao33
-㿷	tao33
-屮	tao55
-艸	tao55	0%
-草	tao55
+層	tang22
+曾	tang22
 甴	tat21
 遢	tat21
 羍	tat33
 踏	tat33
 遢	tat33
 撻	tat55	5%
-斜	teh11	3%
-邪	teh11	3%
-切	teik33
-竊	teik33
-俶	teik55
-倜	teik55
-切	teik55
-剔	teik55	3%
-嘁	teik55	3%
-忑	teik55
-忒	teik55
-惕	teik55
-慝	teik55	3%
-慼	teik55
-慽	teik55	0%
-戚	teik55	3%
-槭	teik55	0%
-脦	teik55
-裼	teik55	0%
-趯	teik55
-鋱	teik55
-前	tein11
-情	tein11
-錢	tein11	0%
-䝼	tein11
-仟	tein33
-千	tein33
-圊	tein33
-扦	tein33	3%
-氰	tein33	3%
-淸	tein33	0%
-清	tein33	0%
-箐	tein33	3%
-芊	tein33
-菁	tein33	0%
-蜻	tein33
-蹮	tein33	0%
-躚	tein33
-遷	tein33
-郬	tein33
-釺	tein33
-阡	tein33
-靑	tein33	0%
-青	tein33	3%
-靘	tein33
-韆	tein33
-鯖	tein33	0%
-淺	tein55	3%
-請	tein55	3%
-兛	teinhak55	0%
-兛	teinhak55	0%
-瓩	teinnga55
-瓩	teinnga55
-疼	tek33	0%
-赤	tek33
-憔	tel11
-樵	tel11
-癄	tel11	0%
-瞧	tel11
-譙	tel11	0%
-顦	tel11
-俏	tel33
-峭	tel33
-誚	tel33	0%
-鍫	tel33
-鍬	tel33
-悄	tel55	0%
-愀	tel55	0%
-塹	tem21
-槧	tem21	0%
-簽	tem21
-籖	tem21	0%
-籤	tem21
-撏	tem11	3%
-潛	tem11
-懺	tem33	0%
-暹	tem33
-殲	tem33
-簽	tem33
-讖	tem33	0%
-詳	teng21	0%
-青	teng21	3%
-墻	teng11
-嬙	teng11
-庠	teng11
-廧	teng11
-戕	teng11
-晴	teng11	0%
-暒	teng11
-檣	teng11
-爿	teng11	3%
-牆	teng11
-祥	teng11
-羏	teng11	0%
-翔	teng11
-艢	teng11
-薔	teng11	3%
-詳	teng11	0%
-嗆	teng33
-戧	teng33
-槍	teng33	3%
-牄	teng33
-瑲	teng33
-篬	teng33	0%
-蹌	teng33	3%
-蹡	teng33	3%
-錆	teng33
-鎗	teng33	0%
-鑲	teng33
-青	teng33	3%
-搶	teng55	3%
-請	teng55	3%
-楱	teo33
-湊	teo33
-輳	teo33
-呫	tep55
-妾	tep55
-踥	tep55	0%
+嘈	tau22
+曹	tau22
+槽	tau22
+漕	tau22
+艚	tau22
+螬	tau22
+鰽	tau22	0%
+噪	tau33
+操	tau33
+澡	tau33
+燥	tau33
+糙	tau33
+藻	tau33
+趮	tau33	0%
+躁	tau33
+㿷	tau33
+屮	tau55
+艸	tau55	0%
+草	tau55
+前	ten22
+情	ten22
+錢	ten22	0%
+䝼	ten22
+仟	ten33
+千	ten33
+圊	ten33
+扦	ten33	3%
+氰	ten33	3%
+淸	ten33	0%
+清	ten33	0%
+箐	ten33	3%
+芊	ten33
+菁	ten33	0%
+蜻	ten33
+蹮	ten33	0%
+躚	ten33
+遷	ten33
+郬	ten33
+釺	ten33
+阡	ten33
+靑	ten33	0%
+青	ten33	3%
+靘	ten33
+韆	ten33
+鯖	ten33	0%
+淺	ten55	3%
+請	ten55	3%
+兛	tenhak55	0%
+兛	tenhak55	0%
+瓩	tennga55
+瓩	tennga55
+切	tet33
+竊	tet33
+俶	tet55
+倜	tet55
+切	tet55
+剔	tet55	3%
+嘁	tet55	3%
+忑	tet55
+忒	tet55
+惕	tet55
+慝	tet55	3%
+慼	tet55
+慽	tet55	0%
+戚	tet55	3%
+槭	tet55	0%
+脦	tet55
+裼	tet55	0%
+趯	tet55
+鋱	tet55
+楱	teu33
+湊	teu33
+輳	teu33
 似	ti21
 糍	ti21
 臍	ti21
 薺	ti21	3%
 蹄	ti21
-粢	ti11	3%
-糍	ti11
-餈	ti11
+粢	ti22	3%
+糍	ti22
+餈	ti22
 揌	ti33
+疼	tiak33	0%
+赤	tiak33
+塹	tiam21
+槧	tiam21	0%
+簽	tiam21
+籖	tiam21	0%
+籤	tiam21
+撏	tiam22	3%
+潛	tiam22
+懺	tiam33	0%
+暹	tiam33
+殲	tiam33
+簽	tiam33
+讖	tiam33	0%
+詳	tiang21	0%
+青	tiang21	3%
+墻	tiang22
+嬙	tiang22
+庠	tiang22
+廧	tiang22
+戕	tiang22
+晴	tiang22	0%
+暒	tiang22
+檣	tiang22
+爿	tiang22	3%
+牆	tiang22
+祥	tiang22
+羏	tiang22	0%
+翔	tiang22
+艢	tiang22
+薔	tiang22	3%
+詳	tiang22	0%
+嗆	tiang33
+戧	tiang33
+槍	tiang33	3%
+牄	tiang33
+瑲	tiang33
+篬	tiang33	0%
+蹌	tiang33	3%
+蹡	tiang33	3%
+錆	tiang33
+鎗	tiang33	0%
+鑲	tiang33
+青	tiang33	3%
+搶	tiang55	3%
+請	tiang55	3%
+呫	tiap55
+妾	tiap55
+踥	tiap55	0%
+憔	tiau22
+樵	tiau22
+癄	tiau22	0%
+瞧	tiau22
+譙	tiau22	0%
+顦	tiau22
+俏	tiau33
+峭	tiau33
+誚	tiau33	0%
+鍫	tiau33
+鍬	tiau33
+悄	tiau55	0%
+愀	tiau55	0%
+斜	tie22	3%
+邪	tie22	3%
 尋	tim21
-尋	tim11
-潯	tim11
-灥	tim11	0%
-蕁	tim11	0%
-覃	tim11
-鐔	tim11	0%
-鱘	tim11
+尋	tim22
+潯	tim22
+灥	tim22	0%
+蕁	tim22	0%
+覃	tim22
+鐔	tim22	0%
+鱘	tim22
 侵	tim33
 僉	tim33
 唚	tim33
@@ -9920,8 +9788,8 @@ import_tables:
 舙	tit55	0%
 葺	tit55
 鰍	tiu21
-囚	tiu11
-泅	tiu11
+囚	tiu22
+泅	tiu22
 啾	tiu33
 揪	tiu33
 楸	tiu33
@@ -9956,12 +9824,12 @@ import_tables:
 錯	to33	3%
 鹺	to33	0%
 菜	toi21
-才	toi11
-材	toi11
-纔	toi11
-裁	toi11
-財	toi11
-䴭	toi11
+才	toi22
+材	toi22
+纔	toi22
+裁	toi22
+財	toi22
+䴭	toi22
 菜	toi33
 蔡	toi33	3%
 埰	toi55	3%
@@ -9981,7 +9849,7 @@ import_tables:
 爨	ton55
 竄	ton55
 蹌	ton55	3%
-藏	tong11	3%
+藏	tong22	3%
 倉	tong33
 傖	tong33	0%
 囱	tong33	0%
@@ -10004,8 +9872,8 @@ import_tables:
 猝	tot55
 吐	tu21	3%
 唾	tu21	0%
-徂	tu11
-殂	tu11
+徂	tu22
+殂	tu22
 厝	tu33
 唑	tu33
 坐	tu33
@@ -10020,9 +9888,9 @@ import_tables:
 麁	tu33
 麄	tu33
 麤	tu33
-徐	tui11
-隋	tui11	0%
-隨	tui11
+徐	tui22
+隋	tui22	0%
+隨	tui22
 催	tui33
 啐	tui33	0%
 娶	tui33	3%
@@ -10078,54 +9946,54 @@ import_tables:
 諄	tun21	0%
 迍	tun21	3%
 邨	tun21
-佺	tun11
-全	tun11
-嗪	tun11
-囤	tun11	3%
-存	tun11
-巡	tun11
-廵	tun11
-循	tun11
-旬	tun11
-栒	tun11	3%
-栓	tun11
-泉	tun11
-溱	tun11	3%
-痊	tun11
-秦	tun11
-筌	tun11
-荃	tun11
-螓	tun11
-詮	tun11
-蹲	tun11	3%
-輇	tun11	0%
-醛	tun11
-鰁	tun11
+佺	tun22
+全	tun22
+嗪	tun22
+囤	tun22	3%
+存	tun22
+巡	tun22
+廵	tun22
+循	tun22
+旬	tun22
+栒	tun22	3%
+栓	tun22
+泉	tun22
+溱	tun22	3%
+痊	tun22
+秦	tun22
+筌	tun22
+荃	tun22
+螓	tun22
+詮	tun22
+蹲	tun22	3%
+輇	tun22	0%
+醛	tun22
+鰁	tun22
 吋	tun33	3%
 寸	tun33
 村	tun33
 𧨸	tun55
 蔥	tung21
-叢	tung11
-従	tung11
-從	tung11	0%
-悰	tung11
-松	tung11	0%
-枀	tung11
-枩	tung11
-柗	tung11
-梥	tung11
-淞	tung11
-漎	tung11
-潀	tung11
-潨	tung11
-灇	tung11
-茼	tung11
-藂	tung11
-賨	tung11
-䕺	tung11
-𠚪	tung11
-𥵫	tung11
+叢	tung22
+従	tung22
+從	tung22	0%
+悰	tung22
+松	tung22	0%
+枀	tung22
+枩	tung22
+柗	tung22
+梥	tung22
+淞	tung22
+漎	tung22
+潀	tung22
+潨	tung22
+灇	tung22
+茼	tung22
+藂	tung22
+賨	tung22
+䕺	tung22
+𠚪	tung22
+𥵫	tung22
 匆	tung33
 怱	tung33
 悤	tung33
@@ -10142,18 +10010,18 @@ import_tables:
 慫	tung55
 𥓿	tuo21
 擦	tut33
-妒	u31
-妬	u31
-度	u31
-斁	u31
-杜	u31
-渡	u31
-芏	u31	0%
-螙	u31
-蠧	u31
-蠹	u31
-鍍	u31
-𤢕	u31
+妒	u32
+妬	u32
+度	u32
+斁	u32
+杜	u32
+渡	u32
+芏	u32	0%
+螙	u32
+蠧	u32
+蠹	u32
+鍍	u32
+𤢕	u32
 哆	u33	0%
 嘟	u33
 多	u33
@@ -10185,7 +10053,7 @@ import_tables:
 堆	ui21	3%
 對	ui21
 碓	ui21
-堆	ui31	3%
+堆	ui32	3%
 兌	ui33	0%
 堆	ui33	3%
 對	ui33
@@ -10195,13 +10063,13 @@ import_tables:
 錞	ui33
 鐓	ui33
 嗝	uk21
-毒	uk31	3%
-獨	uk31
-碡	uk31	0%
-纛	uk31
-讀	uk31	3%
-髑	uk31
-黷	uk31
+毒	uk32	3%
+獨	uk32
+碡	uk32	0%
+纛	uk32
+讀	uk32	3%
+髑	uk32
+黷	uk32
 督	uk33
 厾	uk55
 喔	uk55	3%
@@ -10212,21 +10080,21 @@ import_tables:
 齷	uk55
 盹	un21	0%
 頓	un21
-惇	un31
-扽	un31	3%
-撴	un31	0%
-敦	un31	3%
-楯	un31
-沌	un31	3%
-炖	un31
-燉	un31	3%
-盾	un31	0%
-砘	un31
-蹾	un31
-遁	un31
-鈍	un31
-頓	un31
-㪟	un31
+惇	un32
+扽	un32	3%
+撴	un32	0%
+敦	un32	3%
+楯	un32
+沌	un32	3%
+炖	un32
+燉	un32	3%
+盾	un32	0%
+砘	un32
+蹾	un32
+遁	un32
+鈍	un32
+頓	un32
+㪟	un32
 敦	un33	3%
 暾	un33
 鐓	un33
@@ -10242,24 +10110,24 @@ import_tables:
 瓮	ung21
 甕	ung21
 罋	ung21	0%
-侗	ung31
-動	ung31
-垌	ung31	3%
-峒	ung31
-崠	ung31
-幢	ung31
-恫	ung31
-慟	ung31
-戙	ung31
-挏	ung31
-棟	ung31
-洞	ung31	3%
-硐	ung31
-絧	ung31
-胴	ung31
-詷	ung31
-㗢	ung31
-𨔝	ung31
+侗	ung32
+動	ung32
+垌	ung32	3%
+峒	ung32
+崠	ung32
+幢	ung32
+恫	ung32
+慟	ung32
+戙	ung32
+挏	ung32
+棟	ung32
+洞	ung32	3%
+硐	ung32
+絧	ung32
+胴	ung32
+詷	ung32
+㗢	ung32
+𨔝	ung32
 冬	ung33
 凍	ung33
 咚	ung33
@@ -10286,24 +10154,24 @@ import_tables:
 㧬	ung55
 𢫨	ung55
 突	ut21
-凸	ut31	0%
-奪	ut31
-突	ut31
-腯	ut31	0%
-葖	ut31
-頓	ut31
-飿	ut31
+凸	ut32	0%
+奪	ut32
+突	ut32
+腯	ut32	0%
+葖	ut32
+頓	ut32
+飿	ut32
 舙	va21	0%
-嘩	va11	0%
-樺	va11
-華	va11	0%
-鏵	va11	0%
-驊	va11
-嘩	va31	0%
-畫	va31
-砉	va31
-華	va31	0%
-話	va31
+嘩	va22	0%
+樺	va22
+華	va22	0%
+鏵	va22	0%
+驊	va22
+嘩	va32	0%
+畫	va32
+砉	va32
+華	va32	0%
+話	va32
 凹	va33	3%
 哇	va33
 嘩	va33	0%
@@ -10317,23 +10185,23 @@ import_tables:
 搲	va55
 攨	va55	0%
 鏵	va55	0%
-懷	vai11
-槐	vai11
-淮	vai11
-耲	vai11
-壞	vai31
+懷	vai22
+槐	vai22
+淮	vai22
+耲	vai22
+壞	vai32
 歪	vai55	3%
 劃	vak21
 畫	vak21
-划	vak31	3%
-劃	vak31
-惐	vak31	0%
-惑	vak31
-或	vak31
-畫	vak31
-砉	vak31
-豁	vak31	3%
-騞	vak31	0%
+划	vak32	3%
+劃	vak32
+惐	vak32	0%
+惑	vak32
+或	vak32
+畫	vak32
+砉	vak32
+豁	vak32	3%
+騞	vak32	0%
 域	vak55
 棫	vak55
 幻	van21
@@ -10342,96 +10210,96 @@ import_tables:
 綰	van21	0%
 輓	van21
 鯇	van21
-圜	van11
-嬛	van11
-寰	van11
-擐	van11	0%
-澴	van11
-灣	van11	0%
-環	van11
-睘	van11
-瞏	van11
-繯	van11	0%
-還	van11	0%
-鍰	van11
-鬟	van11
-㝁	van11
-圂	van31
-宦	van31
-患	van31
-漶	van31	0%
-豢	van31
+圜	van22
+嬛	van22
+寰	van22
+擐	van22	0%
+澴	van22
+灣	van22	0%
+環	van22
+睘	van22
+瞏	van22
+繯	van22	0%
+還	van22	0%
+鍰	van22
+鬟	van22
+㝁	van22
+圂	van32
+宦	van32
+患	van32
+漶	van32	0%
+豢	van32
 彎	van33
 灣	van33	0%
 鐶	van55
-揘	vang11
-橫	vang11	5%
-黌	vang11	0%
-橫	vang31	5%
-澋	vang31
-胶	vao11
-吼	vao55	3%
-滑	vat31
-猾	vat31
-螖	vat31
+揘	vang22
+橫	vang22	5%
+黌	vang22	0%
+橫	vang32	5%
+澋	vang32
+滑	vat32
+猾	vat32
+螖	vat32
 挖	vat33	5%
 斡	vat33	3%
 穵	vat33
-域	veik31
-役	veik31
-棫	veik31
-淢	veik31	0%
-疫	veik31
-蜮	veik31	0%
-閾	veik31	0%
-永	vein21
-嶸	vein11	0%
-榮	vein11
-濚	vein11
-蠑	vein11
-鎣	vein11
-咏	vein31
-扔	vein31
-泂	vein31
-泳	vein31
-潁	vein31
-禜	vein31
-穎	vein31
-詠	vein31
-頴	vein31
-𢫨	vein31
-𣊫	vein55
-𣊭	vein55
-唯	vi11	0%
-囗	vi11
-囲	vi11	0%
-圍	vi11
-圩	vi11	0%
-帷	vi11
-幃	vi11
-惟	vi11
-桅	vi11	0%
-溈	vi11	0%
-潿	vi11
-濰	vi11
-為	vi11	0%
-爲	vi11
-維	vi11	3%
-違	vi11
-遺	vi11
-闈	vi11
-位	vi31	0%
-喂	vi31	0%
-渭	vi31
-為	vi31	0%
-爲	vi31
-碨	vi31
-胃	vi31
-蝟	vi31
-衛	vi31
-謂	vi31
-軎	vi31	0%
-遺	vi31
+胶	vau22
+吼	vau55	3%
+永	ven21
+嶸	ven22	0%
+榮	ven22
+濚	ven22
+蠑	ven22
+鎣	ven22
+咏	ven32
+扔	ven32
+泂	ven32
+泳	ven32
+潁	ven32
+禜	ven32
+穎	ven32
+詠	ven32
+頴	ven32
+𢫨	ven32
+𣊫	ven55
+𣊭	ven55
+域	vet32
+役	vet32
+棫	vet32
+淢	vet32	0%
+疫	vet32
+蜮	vet32	0%
+閾	vet32	0%
+唯	vi22	0%
+囗	vi22
+囲	vi22	0%
+圍	vi22
+圩	vi22	0%
+帷	vi22
+幃	vi22
+惟	vi22
+桅	vi22	0%
+溈	vi22	0%
+潿	vi22
+濰	vi22
+為	vi22	0%
+爲	vi22
+維	vi22	3%
+違	vi22
+遺	vi22
+闈	vi22
+位	vi32	0%
+喂	vi32	0%
+渭	vi32
+為	vi32	0%
+爲	vi32
+碨	vi32
+胃	vi32
+蝟	vi32
+衛	vi32
+謂	vi32
+軎	vi32	0%
+遺	vi32
 偎	vi33
 噦	vi33	0%
 威	vi33
@@ -10470,12 +10338,12 @@ import_tables:
 韡	vi55
 鮪	vi55	0%
 𣨙	vi55
-俰	vo11	0%
-和	vo11	3%
-禾	vo11
-龢	vo11
-和	vo31	3%
-禍	vo31	0%
+俰	vo22	0%
+和	vo22	3%
+禾	vo22
+龢	vo22
+和	vo32	3%
+禍	vo32	0%
 倭	vo33	3%
 和	vo33	3%
 喎	vo33	90%
@@ -10491,40 +10359,40 @@ import_tables:
 踒	vo33
 鍋	vo33
 會	voi21	0%
-佪	voi11
-回	voi11
-徊	voi11
-洄	voi11
-痐	voi11	0%
-茴	voi11
-蚘	voi11	0%
-蛔	voi11
-蛕	voi11	0%
-蜖	voi11	0%
-迴	voi11
-逥	voi11	0%
-匯	voi31
-彙	voi31
-彚	voi31
-會	voi31	0%
-燴	voi31
-薈	voi31	0%
-㧟	voi31
-𢑥	voi31
+佪	voi22
+回	voi22
+徊	voi22
+洄	voi22
+痐	voi22	0%
+茴	voi22
+蚘	voi22	0%
+蛔	voi22
+蛕	voi22	0%
+蜖	voi22	0%
+迴	voi22
+逥	voi22	0%
+匯	voi32
+彙	voi32
+彚	voi32
+會	voi32	0%
+燴	voi32
+薈	voi32	0%
+㧟	voi32
+𢑥	voi32
 煨	voi33
 穢	voi33
 鍋	vok21
 鑊	vok21
-劐	vok31
-彠	vok31
-獲	vok31	3%
-矱	vok31	3%
-穫	vok31	3%
-耠	vok31
-蒦	vok31	0%
-蠖	vok31	0%
-換	von31
-逭	von31
+劐	vok32
+彠	vok32
+獲	vok32	3%
+矱	vok32	3%
+穫	vok32	3%
+耠	vok32
+蒦	vok32	0%
+蠖	vok32	0%
+換	von32
+逭	von32
 剜	von55
 婉	von55	0%
 宛	von55	0%
@@ -10543,33 +10411,33 @@ import_tables:
 㼝	von55
 往	vong21
 徃	vong21
-凰	vong11
-喤	vong11	0%
-徨	vong11
-惶	vong11
-湟	vong11
-潢	vong11
-煌	vong11
-王	vong11
-瑝	vong11	0%
-璜	vong11
-癀	vong11
-皇	vong11
-磺	vong11
-篁	vong11
-簧	vong11
-葟	vong11
-蝗	vong11
-蟥	vong11
-遑	vong11
-鍠	vong11	0%
-鐄	vong11
-隍	vong11
-鰉	vong11
-鱑	vong11
-黃	vong11
-旺	vong31
-王	vong31
+凰	vong22
+喤	vong22	0%
+徨	vong22
+惶	vong22
+湟	vong22
+潢	vong22
+煌	vong22
+王	vong22
+瑝	vong22	0%
+璜	vong22
+癀	vong22
+皇	vong22
+磺	vong22
+篁	vong22
+簧	vong22
+葟	vong22
+蝗	vong22
+蟥	vong22
+遑	vong22
+鍠	vong22	0%
+鐄	vong22
+隍	vong22
+鰉	vong22
+鱑	vong22
+黃	vong22
+旺	vong32
+王	vong32
 尢	vong55	0%
 尣	vong55	0%
 尩	vong55	0%
@@ -10577,33 +10445,33 @@ import_tables:
 尫	vong55	0%
 枉	vong55
 汪	vong55
-活	vot31	3%
+活	vot32	3%
 芋	vu21	3%
 護	vu21
-和	vu11	3%
-嘸	vu11	3%
-壺	vu11
-弧	vu11
-湖	vu11
-煳	vu11
-狐	vu11
-猢	vu11
-瑚	vu11
-瓠	vu11	3%
-糊	vu11
-胡	vu11
-蝴	vu11
-衚	vu11
-醐	vu11
-餬	vu11
-鬍	vu11
-鶘	vu11
-互	vu31
-冱	vu31
-楛	vu31
-瓠	vu31	3%
-護	vu31
-鸌	vu31
+和	vu22	3%
+嘸	vu22	3%
+壺	vu22
+弧	vu22
+湖	vu22
+煳	vu22
+狐	vu22
+猢	vu22
+瑚	vu22
+瓠	vu22	3%
+糊	vu22
+胡	vu22
+蝴	vu22
+衚	vu22
+醐	vu22
+餬	vu22
+鬍	vu22
+鶘	vu22
+互	vu32
+冱	vu32
+楛	vu32
+瓠	vu32	3%
+護	vu32
+鸌	vu32
 嗚	vu33
 圬	vu33
 埡	vu33
@@ -10624,37 +10492,37 @@ import_tables:
 允	vun21	3%
 尹	vun21
 狁	vun21
-云	vun11
-勻	vun11
-暈	vun11	3%
-煇	vun11	0%
-畇	vun11
-紜	vun11
-耘	vun11
-芸	vun11
-葷	vun11
-蕓	vun11
-贇	vun11
-鄖	vun11
-雲	vun11
-餛	vun11
-餫	vun11
-魂	vun11
-圂	vun31
-惲	vun31	0%
-慁	vun31
-殞	vun31
-混	vun31	3%
-渾	vun31	3%
-溷	vun31
-熨	vun31	3%
-琿	vun31
-葷	vun31
-諢	vun31
-運	vun31
-鄆	vun31
-隕	vun31	3%
-韻	vun31	3%
+云	vun22
+勻	vun22
+暈	vun22	3%
+煇	vun22	0%
+畇	vun22
+紜	vun22
+耘	vun22
+芸	vun22
+葷	vun22
+蕓	vun22
+贇	vun22
+鄖	vun22
+雲	vun22
+餛	vun22
+餫	vun22
+魂	vun22
+圂	vun32
+惲	vun32	0%
+慁	vun32
+殞	vun32
+混	vun32	3%
+渾	vun32	3%
+溷	vun32
+熨	vun32	3%
+琿	vun32
+葷	vun32
+諢	vun32
+運	vun32
+鄆	vun32
+隕	vun32	3%
+韻	vun32	3%
 員	vun33
 慍	vun33	0%
 榲	vun33	0%
@@ -10680,860 +10548,136 @@ import_tables:
 詘	vut55
 鬰	vut55	0%
 鬱	vut55
-壻	xai21
-婿	xai21
-細	xai21
-嗮	xai33
-嶲	xai33	0%
-巂	xai33	0%
-恓	xai33
-棲	xai33	3%
-樨	xai33
-氥	xai33
-犀	xai33
-硒	xai33
-粞	xai33
-細	xai33
-舾	xai33
-茜	xai33	3%
-西	xai33
-鍶	xai33
-㯕	xai33
-𠧧	xai33
-嘥	xai55
-壐	xai55	0%
-屣	xai55
-徙	xai55
-枲	xai55
-洗	xai55	3%
-漇	xai55
-璽	xai55
-縰	xai55
-纚	xai55
-葸	xai55
-蓰	xai55
-蹝	xai55
-躧	xai55
-𨑭	xai55
-𩌦	xai55
-噻	xak21
-噻	xak55
-塞	xak55
-揌	xak55
-㩙	xak55
-𡨄	xak55
-三	xam21
-三	xam33
-仨	xam33	3%
-叄	xam33
-弎	xam33
-毿	xam33
-蔘	xam33	0%
-衫	xam33
-糂	xam55	0%
-糝	xam55	3%
-糣	xam55	0%
-傘	xan33
-散	xan33
-潵	xan33
-㪚	xan33
-散	xan55
-饊	xan55
-僧	xang33	0%
-鬙	xang33	0%
-掃	xao21	3%
-埽	xao33
-掃	xao33	3%
-搔	xao33
-瘙	xao33
-簑	xao33	0%
-繅	xao33
-繰	xao33
-臊	xao33
-蓑	xao33
-騷	xao33
-鰠	xao33	0%
-嫂	xao55
-卅	xap31	0%
-撒	xat33
-攃	xat33
-潵	xat33
-薩	xat33
-撒	xat55
-噓	xeh21
-些	xeh33	3%
-卸	xeh33
-瀉	xeh33	0%
-缷	xeh33	0%
-赦	xeh33
-寫	xeh55
-嗇	xeik55
-契	xeik55
-媟	xeik55
-媳	xeik55
-屑	xeik55
-息	xeik55	3%
-悉	xeik55
-惜	xeik55
-昔	xeik55
-晰	xeik55	0%
-晳	xeik55	0%
-析	xeik55	0%
-枻	xeik55	0%
-楔	xeik55
-榍	xeik55
-泄	xeik55
-洩	xeik55	3%
-淅	xeik55
-渫	xeik55
-潟	xeik55
-熄	xeik55
-燮	xeik55	0%
-皙	xeik55
-窸	xeik55
-紲	xeik55
-絏	xeik55
-腊	xeik55	0%
-舄	xeik55
-菥	xeik55
-薛	xeik55
-蜥	xeik55
-螅	xeik55
-蟋	xeik55
-褻	xeik55
-跬	xeik55
-踖	xeik55
-躞	xeik55	0%
-躠	xeik55
-錫	xeik55
-鍥	xeik55
-㞕	xeik55
-䱑	xeik55
-𨇨	xeik55
-糝	xeim55	3%
-仙	xein33
-仚	xein33	0%
-佡	xein33
-僊	xein33
-先	xein33	0%
-姓	xein33	0%
-性	xein33
-惺	xein33	0%
-旌	xein33
-星	xein33	0%
-曐	xein33
-煋	xein33
-狌	xein33	0%
-猩	xein33
-瑆	xein33
-秈	xein33
-箵	xein33
-篂	xein33
-籼	xein33
-綫	xein33
-線	xein33
-胜	xein33
-腺	xein33
-詵	xein33	3%
-酰	xein33
-銛	xein33
-霰	xein33
-騂	xein33
-鮏	xein33
-鮮	xein33
-鯹	xein33
-鱻	xein33
-㽮	xein33
-䃏	xein33
-䗌	xein33
-䤼	xein33
-𤙡	xein33
-𤯕	xein33
-𥠀	xein33
-冼	xein55
-洗	xein55	3%
-渻	xein55
-燹	xein55
-獮	xein55
-癬	xein55
-省	xein55
-睲	xein55
-筅	xein55
-蘚	xein55
-跣	xein55
-醒	xein55	3%
-銑	xein55
-鮮	xein55
-㝭	xein55
-𢜫	xein55
-𦔄	xein55
-圾	xeip55	3%
-颯	xeip55
-削	xek33	3%
-惜	xek33
-錫	xek33
-削	xek55	3%
-鵲	xek55
-嘯	xel33	0%
-宵	xel33
-峭	xel33
-消	xel33
-瀟	xel33
-硝	xel33
-笑	xel33
-箾	xel33
-簫	xel33
-綃	xel33
-翛	xel33	0%
-肖	xel33	3%
-蕭	xel33
-蛸	xel33
-蠨	xel33
-逍	xel33
-銷	xel33
-陗	xel33
-霄	xel33
-鞘	xel33
-魈	xel33
-𥬇	xel33
-小	xel55
-皛	xel55	0%
-筱	xel55	0%
-筿	xel55
-篠	xel55	0%
-星	xeng21	0%
-箱	xeng21
-廂	xeng33
-湘	xeng33
-瓖	xeng33
-相	xeng33	3%
-箱	xeng33
-緗	xeng33
-腥	xeng33	3%
-葙	xeng33
-襄	xeng33
-鉎	xeng33
-銹	xeng33
-鍟	xeng33	0%
-鏥	xeng33	0%
-鏽	xeng33
-鑲	xeng33
-驤	xeng33
-想	xeng55
-醒	xeng55	3%
-鮝	xeng55
-鯗	xeng55
-鱶	xeng55	0%
-嗽	xeo33	3%
-傁	xeo55	0%
-叜	xeo55
-叟	xeo55
-嗖	xeo55
-嗾	xeo55
-廋	xeo55
-搜	xeo55	5%
-擻	xeo55	3%
-溲	xeo55	0%
-漱	xeo55	0%
-瞍	xeo55
-艘	xeo55
-蒐	xeo55
-藪	xeo55
-螋	xeo55
-鎪	xeo55	0%
-颼	xeo55	0%
-䬒	xeo55
-楔	xep21
-揳	xep33	0%
-楔	xep33
-四	xi21	3%
-四	xi33	3%
-肆	xi33
-死	xi55
-心	xim21
-芯	xim21
-贐	xim21	0%
-心	xim33
-芯	xim33
-唚	xim55
-信	xin33	0%
-囟	xin33
-擤	xin33
-新	xin33
-汛	xin33
-燊	xin33
-莘	xin33
-蕈	xin33
-薪	xin33
-訊	xin33
-詵	xin33	3%
-辛	xin33
-鋅	xin33
-㐰	xin33
-卌	xip31
-厀	xip55
-膝	xip55
-修	xiu33
-宿	xiu33
-琇	xiu33
-秀	xiu33
-繡	xiu33
-羞	xiu33
-脩	xiu33
-饈	xiu33
-䐰	xiu33
-𦟤	xiu33
-腮	xoi33
-顋	xoi33
-鰓	xoi33	3%
-髄	xoi55	0%
-髓	xoi55
-索	xok21	5%
-索	xok55	5%
-蒜	xon21
-狻	xon33
-痠	xon33
-祘	xon33
-筭	xon33
-算	xon33
-酸	xon33
-嗓	xong21	0%
-搡	xong21
-桑	xong21
-磉	xong21
-顙	xong21
-喪	xong33
-桑	xong33
-似	xu21
-兕	xu21	0%
-姒	xu21
-疵	xu21	0%
-眥	xu21	3%
-糸	xu21
-絲	xu21
-鬚	xu21
-𤉡	xu21
-慈	xu11
-瓷	xu11
-甆	xu11
-磁	xu11
-祠	xu11
-茈	xu11
-茨	xu11
-茲	xu11
-詞	xu11
-辤	xu11
-辭	xu11
-飼	xu11
-鶿	xu11
-鷀	xu11
-鷥	xu11
-事	xu31
-仕	xu31
-伺	xu31	3%
-侍	xu31
-士	xu31
-佽	xu33
-刺	xu33	0%
-厶	xu33	0%
-司	xu33
-嗉	xu33
-嘶	xu33	3%
-噝	xu33
-四	xu33	3%
-塑	xu33	3%
-師	xu33
-廁	xu33	3%
-廝	xu33
-思	xu33
-恣	xu33	0%
-愫	xu33
-愬	xu33
-撕	xu33	3%
-斯	xu33
-榡	xu33	0%
-次	xu33	3%
-泗	xu33
-泝	xu33
-溮	xu33
-溯	xu33
-溸	xu33
-澌	xu33	0%
-獅	xu33
-私	xu33
-穌	xu33
-笥	xu33	0%
-素	xu33
-絲	xu33
-緦	xu33
-罳	xu33
-肆	xu33
-蘇	xu33
-虒	xu33
-蛓	xu33
-螄	xu33
-訴	xu33
-賜	xu33
-遡	xu33
-酥	xu33
-釃	xu33
-颸	xu33	0%
-駟	xu33
-鬚	xu33
-魳	xu33	0%
-鰤	xu33
-鳾	xu33
-鷥	xu33
-鼶	xu33	0%
-㴑	xu33
-䫢	xu33
-䲉	xu33
-𢠹	xu33
-使	xu55
-史	xu55
-嗩	xu55
-此	xu55
-泚	xu55	0%
-瑣	xu55
-縰	xu55
-纚	xu55
-鎖	xu55
-鎻	xu55	0%
-鏁	xu55
-墅	xui21
-碎	xui21
-絮	xui21	0%
-緒	xui21
-悴	xui31	3%
-淬	xui31
-燧	xui31
-瑞	xui31
-疩	xui31	0%
-瘁	xui31
-祟	xui31
-穗	xui31
-粋	xui31	0%
-粹	xui31	3%
-脺	xui31	0%
-膵	xui31	0%
-萃	xui31
-誶	xui31	0%
-遂	xui31
-邃	xui31	0%
-隧	xui31	0%
-顇	xui31	0%
-夊	xui33
-晬	xui33
-桵	xui33
-歲	xui33
-浽	xui33
-濉	xui33
-眭	xui33
-睢	xui33	0%
-碎	xui33
-稰	xui33	0%
-糈	xui33
-綏	xui33
-緌	xui33	0%
-胥	xui33
-荽	xui33
-蕤	xui33	3%
-諝	xui33	0%
-醑	xui33
-雖	xui33
-需	xui33
-須	xui33
-僳	xuk55
-夙	xuk55
-宿	xuk55
-粟	xuk55
-肅	xuk55
-蓿	xuk55
-謖	xuk55
-足	xuk55	0%
-餿	xuk55
-鷫	xuk55
-㝛	xuk55
-悛	xun11	0%
-旋	xun11
-漩	xun11
-璇	xun11
-璿	xun11
-鏇	xun11	3%
-拴	xun31	3%
-篆	xun31
-羡	xun31	0%
-銓	xun31
-儇	xun33
-吅	xun33	0%
-咺	xun33	0%
-喧	xun33
-噀	xun33
-孫	xun33	3%
-宣	xun33
-峋	xun33
-巽	xun33
-徇	xun33	3%
-恂	xun33
-揎	xun33
-昍	xun33
-晅	xun33	0%
-暄	xun33
-楦	xun33
-殉	xun33	0%
-洵	xun33	3%
-浚	xun33
-渲	xun33	3%
-烜	xun33
-煊	xun33
-狥	xun33
-猻	xun33
-珣	xun33
-瑄	xun33
-碹	xun33
-絢	xun33	0%
-翾	xun33
-荀	xun33
-萱	xun33
-蓀	xun33
-詢	xun33
-諼	xun33	0%
-迅	xun33
-遜	xun33
-郇	xun33	3%
-飧	xun33
-飱	xun33
-損	xun55
-榫	xun55
-筍	xun55
-篹	xun55	3%
-簨	xun55	0%
-選	xun55	0%
-餸	xung21
-娀	xung33
-宋	xung33
-從	xung33	0%
-忪	xung33
-樅	xung33
-菘	xung33
-送	xung33
-鬆	xung33
-㩳	xung33
-䯳	xung33
-𢱤	xung33
-傱	xung55
-凇	xung55
-崧	xung55
-嵩	xung55
-嵷	xung55
-悚	xung55
-愯	xung55
-慫	xung55
-漎	xung55
-竦	xung55
-聳	xung55
-𪀚	xung55
-恤	xut55
-戌	xut55
-摔	xut55	0%
-率	xut55	3%
-窣	xut55
-蟀	xut55
-賉	xut55
-雪	xut55
-鱈	xut55
-䘏	xut55
 也	ya21
 吔	ya21	3%
-呀	ya11
+呀	ya22
 吔	ya33	3%
 襾	ya33	0%
 覀	ya33	0%
-孬	yai11	3%
-窳	yai11
-拽	yai31
-曳	yai31	0%
-枍	yai31
-枻	yai31	0%
-泄	yai31
-跩	yai31
-㹭	yai31
-𤤺	yai31
-𦥙	yai31
+孬	yai22	3%
+窳	yai22
+拽	yai32
+曳	yai32	0%
+枍	yai32
+枻	yai32	0%
+泄	yai32
+跩	yai32
+㹭	yai32
+𤤺	yai32
+𦥙	yai32
 蹬	yang33	3%
-冶	yeh21
-夜	yeh21
-爺	yeh21
-野	yeh21
-倻	yeh11
-揶	yeh11
-椰	yeh11
-爺	yeh11
-玡	yeh11	0%
-耶	yeh11
-邪	yeh11	3%
-釾	yeh11
-鋣	yeh11	0%
-夜	yeh31
-嘢	yeh33	1000000%
-耶	yeh33
-野	yeh33
-爹	yeh55
-爺	yeh55
-翼	yeik21
-亦	yeik31
-埸	yeik31
-奕	yeik31
-嶧	yeik31
-弈	yeik31
-弋	yeik31
-役	yeik31
-懌	yeik31
-斁	yeik31
-易	yeik31
-昳	yeik31
-榏	yeik31	0%
-液	yeik31	0%
-燚	yeik31	0%
-疫	yeik31
-繹	yeik31
-翊	yeik31
-翌	yeik31
-翼	yeik31
-艗	yeik31
-蜴	yeik31
-譯	yeik31
-驛	yeik31
-𤢕	yeik31
-億	yeik55
-咽	yeik55
-嗌	yeik55
-噎	yeik55
-嚥	yeik55
-憶	yeik55
-暍	yeik55	0%
-檍	yeik55
-癔	yeik55
-益	yeik55
-臆	yeik55
-謁	yeik55	0%
-鷁	yeik55
-蠅	yein21
-侀	yein11
-刑	yein11
-型	yein11
-塋	yein11
-夃	yein11	0%
-嬴	yein11
-形	yein11
-櫿	yein11
-滎	yein11
-瀛	yein11
-瀠	yein11
-瀯	yein11
-灜	yein11
-熒	yein11
-營	yein11
-瑩	yein11
-硎	yein11
-禜	yein11
-籝	yein11
-籯	yein11
-縈	yein11
-藀	yein11
-螢	yein11
-蠅	yein11
-謍	yein11
-贏	yein11
-邢	yein11
-郉	yein11
-醟	yein11
-鈃	yein11	3%
-鉶	yein11
-鉶	yein11
-陘	yein11
-䁝	yein11
-䕦	yein11
-䤯	yein11
-𤁽	yein11
-𦾵	yein11
-𧓌	yein11
-媵	yein31	0%
-⿱賏火	yein33
-偀	yein33
-噟	yein33
-嚶	yein33
-媖	yein33
-媵	yein33	0%
-嫈	yein33
-嬰	yein33
-孆	yein33
-孾	yein33
-應	yein33
-攖	yein33
-朠	yein33
-柍	yein33
-桜	yein33	0%
-楧	yein33
-櫻	yein33
-渶	yein33
-濙	yein33	0%
-濴	yein33
-瀅	yein33	0%
-煐	yein33
-瑛	yein33
-瓔	yein33
-甖	yein33
-癭	yein33
-碤	yein33
-纓	yein33
-罃	yein33	3%
-罌	yein33	0%
-膺	yein33
-英	yein33
-蘡	yein33
-譍	yein33
-譻	yein33
-鍈	yein33
-鑍	yein33
-霙	yein33
-韺	yein33
-鶧	yein33
-鷹	yein33
-鸚	yein33
-㶈	yein33
-䣐	yein33
-𠊶	yein33
-𡄖	yein33
-⿰矛英	yein33
-𦔃	yein33
-𧕄	yein33
-𩘑	yein33
-影	yein55	0%
-映	yein55	3%
-景	yein55	3%
-暎	yein55
-浧	yein55
-澋	yein55
-賏	yein55
-郢	yein55	0%
-𣤵	yein55
-𣻯	yein55
-葯	yek21	3%
-藥	yek21	3%
-䶳	yek21
-亦	yek31
-吁	yek31	3%
-瀹	yek31
-籥	yek31
-籲	yek31	0%
-藥	yek31	3%
-趯	yek31
-躍	yek31	3%
-鑰	yek31
-龠	yek31
-龥	yek31
-約	yek33	3%
-約	yek55	3%
-鷂	yel21	3%
-傜	yel11	0%
-垚	yel11
-姚	yel11
-徭	yel11
-搖	yel11
-珧	yel11
-瑤	yel11
-窯	yel11
-窰	yel11
-繇	yel11	3%
-脁	yel11
-謠	yel11
-軺	yel11
-遙	yel11
-銚	yel11	3%
-陶	yel11
-颻	yel11
-鰩	yel11
-曜	yel31
-耀	yel31
-㿢	yel31
-么	yel33
-吆	yel33
-崾	yel33	0%
-幺	yel33
-徼	yel33	3%
-穾	yel33	0%
-約	yel33	3%
-腰	yel33
-要	yel33	3%
-邀	yel33
-靿	yel33	0%
-夭	yel55	3%
-妖	yel55
-抌	yel55
-窅	yel55
-窈	yel55
-舀	yel55
-黝	yel55
-嫌	yem11
-閆	yem11
-閻	yem11
-鹽	yem11
-㿕	yem11
-剡	yem31
-灧	yem31	0%
-灩	yem31
-炎	yem31
-焔	yem31	0%
-焰	yem31	0%
-焱	yem31
-燄	yem31	0%
-琰	yem31
-艷	yem31
-豔	yem31
-厭	yem33	3%
-懨	yem33
-閹	yem33
-阽	yem33
-饜	yem33	0%
-魘	yem33	0%
-俺	yem55	3%
-厴	yem55
-垵	yem55	3%
-埯	yem55
-奄	yem55
-崦	yem55
-弇	yem55
-掩	yem55
-淹	yem55
-罨	yem55
-腌	yem55	0%
-菴	yem55
-醃	yem55	3%
-靨	yem55	0%
-黶	yem55
-龑	yem55	0%
+蠅	yen21
 燕	yen21
 鷰	yen21
-埏	yen11	3%
-廴	yen11
-延	yen11
-弦	yen11	0%
-涎	yen11
-焉	yen11
-痃	yen11	0%
-筵	yen11
-絃	yen11
-舷	yen11
-蜒	yen11
-賢	yen11
-鄢	yen11
-鉉	yen11
-峴	yen31
-現	yen31
-睍	yen31
-見	yen31	0%
-鋧	yen31	0%
+侀	yen22
+刑	yen22
+型	yen22
+塋	yen22
+夃	yen22	0%
+嬴	yen22
+形	yen22
+櫿	yen22
+滎	yen22
+瀛	yen22
+瀠	yen22
+瀯	yen22
+灜	yen22
+熒	yen22
+營	yen22
+瑩	yen22
+硎	yen22
+禜	yen22
+籝	yen22
+籯	yen22
+縈	yen22
+藀	yen22
+螢	yen22
+蠅	yen22
+謍	yen22
+贏	yen22
+邢	yen22
+郉	yen22
+醟	yen22
+鈃	yen22	3%
+鉶	yen22
+鉶	yen22
+陘	yen22
+䁝	yen22
+䕦	yen22
+䤯	yen22
+𤁽	yen22
+𦾵	yen22
+𧓌	yen22
+埏	yen22	3%
+廴	yen22
+延	yen22
+弦	yen22	0%
+涎	yen22
+焉	yen22
+痃	yen22	0%
+筵	yen22
+絃	yen22
+舷	yen22
+蜒	yen22
+賢	yen22
+鄢	yen22
+鉉	yen22
+媵	yen32	0%
+峴	yen32
+現	yen32
+睍	yen32
+見	yen32	0%
+鋧	yen32	0%
+⿱賏火	yen33
+偀	yen33
+噟	yen33
+嚶	yen33
+媖	yen33
+媵	yen33	0%
+嫈	yen33
+嬰	yen33
+孆	yen33
+孾	yen33
+應	yen33
+攖	yen33
+朠	yen33
+柍	yen33
+桜	yen33	0%
+楧	yen33
+櫻	yen33
+渶	yen33
+濙	yen33	0%
+濴	yen33
+瀅	yen33	0%
+煐	yen33
+瑛	yen33
+瓔	yen33
+甖	yen33
+癭	yen33
+碤	yen33
+纓	yen33
+罃	yen33	3%
+罌	yen33	0%
+膺	yen33
+英	yen33
+蘡	yen33
+譍	yen33
+譻	yen33
+鍈	yen33
+鑍	yen33
+霙	yen33
+韺	yen33
+鶧	yen33
+鷹	yen33
+鸚	yen33
+㶈	yen33
+䣐	yen33
+𠊶	yen33
+𡄖	yen33
+⿰矛英	yen33
+𦔃	yen33
+𧕄	yen33
+𩘑	yen33
 咽	yen33
 嚥	yen33
 堙	yen33
@@ -11553,6 +10697,16 @@ import_tables:
 醼	yen33	0%
 閼	yen33
 闉	yen33
+影	yen55	0%
+映	yen55	3%
+景	yen55	3%
+暎	yen55
+浧	yen55
+澋	yen55
+賏	yen55
+郢	yen55	0%
+𣤵	yen55
+𣻯	yen55
 偃	yen55	0%
 匽	yen55	0%
 堰	yen55
@@ -11561,56 +10715,44 @@ import_tables:
 衍	yen55
 郾	yen55
 鼴	yen55
-氧	yeng21
-癢	yeng21
-養	yeng21
-佯	yeng11
-垟	yeng11
-徉	yeng11
-揚	yeng11
-暘	yeng11
-楊	yeng11
-氜	yeng11	0%
-洋	yeng11
-烊	yeng11	0%
-煬	yeng11	3%
-瑒	yeng11	3%
-瘍	yeng11
-羊	yeng11	0%
-羏	yeng11	0%
-蛘	yeng11	0%
-蝆	yeng11	0%
-贏	yeng11
-鍚	yeng11
-鐊	yeng11	0%
-陽	yeng11
-颺	yeng11
-恙	yeng31
-樣	yeng31
-漾	yeng31
-央	yeng33	3%
-怏	yeng33
-柍	yeng33
-楧	yeng33
-殃	yeng33
-泱	yeng33	0%
-秧	yeng33
-霙	yeng33
-鞅	yeng33	3%
-養	yeng33
-鴦	yeng33
-䄃	yeng33
-䱀	yeng33
-影	yeng55	0%
-鞅	yeng55	3%
-擖	yep21	0%
-枼	yep21	0%
-枽	yep21	0%
-楪	yep21	0%
-葉	yep21	3%
-頁	yep21	3%
-葉	yep31	3%
-腌	yep33	0%
+翼	yet21
+亦	yet32
+埸	yet32
+奕	yet32
+嶧	yet32
+弈	yet32
+弋	yet32
+役	yet32
+懌	yet32
+斁	yet32
+易	yet32
+昳	yet32
+榏	yet32	0%
+液	yet32	0%
+燚	yet32	0%
+疫	yet32
+繹	yet32
+翊	yet32
+翌	yet32
+翼	yet32
+艗	yet32
+蜴	yet32
+譯	yet32
+驛	yet32
+𤢕	yet32
+億	yet55
+咽	yet55
+嗌	yet55
+噎	yet55
+嚥	yet55
+憶	yet55
+暍	yet55	0%
+檍	yet55
+癔	yet55
+益	yet55
+臆	yet55
+謁	yet55	0%
+鷁	yet55
 予	yi21
 以	yi21
 姨	yi21	3%
@@ -11625,101 +10767,101 @@ import_tables:
 苡	yi21
 苢	yi21
 雨	yi21
-予	yi11
-余	yi11
-俞	yi11	3%
-儒	yi11
-匜	yi11
-咦	yi11	3%
-嚅	yi11
-圯	yi11
-夷	yi11
-妤	yi11
-姨	yi11	3%
-婾	yi11	0%
-媮	yi11	0%
-孺	yi11	0%
-宧	yi11
-嵛	yi11
-嶼	yi11	3%
-庾	yi11
-彞	yi11	0%
-怡	yi11
-愉	yi11	0%
-揄	yi11	3%
-擩	yi11	3%
-椸	yi11
-榆	yi11
-歟	yi11
-毹	yi11	0%
-沂	yi11
-洟	yi11
-渝	yi11
-濡	yi11
-狳	yi11
-瑜	yi11
-痍	yi11
-瘐	yi11
-盂	yi11
-眙	yi11
-移	yi11
-窬	yi11	0%
-簃	yi11
-胰	yi11
-腴	yi11
-臾	yi11	3%
-舁	yi11
-與	yi11	0%
-荑	yi11
-萮	yi11	0%
-萸	yi11
-薷	yi11
-蛇	yi11
-蝓	yi11
-螔	yi11
-蠕	yi11	3%
-襦	yi11
-覦	yi11	0%
-詒	yi11	3%
-諛	yi11
-謻	yi11
-貐	yi11
-貽	yi11
-踰	yi11	0%
-輿	yi11
-迆	yi11	0%
-迤	yi11
-迻	yi11
-逾	yi11
-酏	yi11	0%
-雩	yi11
-頤	yi11
-顬	yi11
-飴	yi11
-餘	yi11
-魣	yi11	0%
-㧫	yi11
-㺄	yi11
-𣽉	yi11
-勩	yi31
-喻	yi31
-峪	yi31
-愈	yi31
-懿	yi31
-易	yi31
-澦	yi31
-異	yi31
-瘉	yi31
-癒	yi31
-矣	yi31
-肄	yi31	0%
-蕷	yi31
-裕	yi31
-諭	yi31
-譽	yi31	0%
-豫	yi31
-預	yi31
-飫	yi31
+予	yi22
+余	yi22
+俞	yi22	3%
+儒	yi22
+匜	yi22
+咦	yi22	3%
+嚅	yi22
+圯	yi22
+夷	yi22
+妤	yi22
+姨	yi22	3%
+婾	yi22	0%
+媮	yi22	0%
+孺	yi22	0%
+宧	yi22
+嵛	yi22
+嶼	yi22	3%
+庾	yi22
+彞	yi22	0%
+怡	yi22
+愉	yi22	0%
+揄	yi22	3%
+擩	yi22	3%
+椸	yi22
+榆	yi22
+歟	yi22
+毹	yi22	0%
+沂	yi22
+洟	yi22
+渝	yi22
+濡	yi22
+狳	yi22
+瑜	yi22
+痍	yi22
+瘐	yi22
+盂	yi22
+眙	yi22
+移	yi22
+窬	yi22	0%
+簃	yi22
+胰	yi22
+腴	yi22
+臾	yi22	3%
+舁	yi22
+與	yi22	0%
+荑	yi22
+萮	yi22	0%
+萸	yi22
+薷	yi22
+蛇	yi22
+蝓	yi22
+螔	yi22
+蠕	yi22	3%
+襦	yi22
+覦	yi22	0%
+詒	yi22	3%
+諛	yi22
+謻	yi22
+貐	yi22
+貽	yi22
+踰	yi22	0%
+輿	yi22
+迆	yi22	0%
+迤	yi22
+迻	yi22
+逾	yi22
+酏	yi22	0%
+雩	yi22
+頤	yi22
+顬	yi22
+飴	yi22
+餘	yi22
+魣	yi22	0%
+㧫	yi22
+㺄	yi22
+𣽉	yi22
+勩	yi32
+喻	yi32
+峪	yi32
+愈	yi32
+懿	yi32
+易	yi32
+澦	yi32
+異	yi32
+瘉	yi32
+癒	yi32
+矣	yi32
+肄	yi32	0%
+蕷	yi32
+裕	yi32
+諭	yi32
+譽	yi32	0%
+豫	yi32
+預	yi32
+飫	yi32
 于	yi33
 伊	yi33
 依	yi33
@@ -11772,13 +10914,176 @@ import_tables:
 瘀	yi55	6%
 綺	yi55
 飫	yi55
+葯	yiak21	3%
+藥	yiak21	3%
+䶳	yiak21
+亦	yiak32
+吁	yiak32	3%
+瀹	yiak32
+籥	yiak32
+籲	yiak32	0%
+藥	yiak32	3%
+趯	yiak32
+躍	yiak32	3%
+鑰	yiak32
+龠	yiak32
+龥	yiak32
+約	yiak33	3%
+約	yiak55	3%
+嫌	yiam22
+閆	yiam22
+閻	yiam22
+鹽	yiam22
+㿕	yiam22
+剡	yiam32
+灧	yiam32	0%
+灩	yiam32
+炎	yiam32
+焔	yiam32	0%
+焰	yiam32	0%
+焱	yiam32
+燄	yiam32	0%
+琰	yiam32
+艷	yiam32
+豔	yiam32
+厭	yiam33	3%
+懨	yiam33
+閹	yiam33
+阽	yiam33
+饜	yiam33	0%
+魘	yiam33	0%
+俺	yiam55	3%
+厴	yiam55
+垵	yiam55	3%
+埯	yiam55
+奄	yiam55
+崦	yiam55
+弇	yiam55
+掩	yiam55
+淹	yiam55
+罨	yiam55
+腌	yiam55	0%
+菴	yiam55
+醃	yiam55	3%
+靨	yiam55	0%
+黶	yiam55
+龑	yiam55	0%
+氧	yiang21
+癢	yiang21
+養	yiang21
+佯	yiang22
+垟	yiang22
+徉	yiang22
+揚	yiang22
+暘	yiang22
+楊	yiang22
+氜	yiang22	0%
+洋	yiang22
+烊	yiang22	0%
+煬	yiang22	3%
+瑒	yiang22	3%
+瘍	yiang22
+羊	yiang22	0%
+羏	yiang22	0%
+蛘	yiang22	0%
+蝆	yiang22	0%
+贏	yiang22
+鍚	yiang22
+鐊	yiang22	0%
+陽	yiang22
+颺	yiang22
+恙	yiang32
+樣	yiang32
+漾	yiang32
+央	yiang33	3%
+怏	yiang33
+柍	yiang33
+楧	yiang33
+殃	yiang33
+泱	yiang33	0%
+秧	yiang33
+霙	yiang33
+鞅	yiang33	3%
+養	yiang33
+鴦	yiang33
+䄃	yiang33
+䱀	yiang33
+影	yiang55	0%
+鞅	yiang55	3%
+擖	yiap21	0%
+枼	yiap21	0%
+枽	yiap21	0%
+楪	yiap21	0%
+葉	yiap21	3%
+頁	yiap21	3%
+葉	yiap32	3%
+腌	yiap33	0%
+鷂	yiau21	3%
+傜	yiau22	0%
+垚	yiau22
+姚	yiau22
+徭	yiau22
+搖	yiau22
+珧	yiau22
+瑤	yiau22
+窯	yiau22
+窰	yiau22
+繇	yiau22	3%
+脁	yiau22
+謠	yiau22
+軺	yiau22
+遙	yiau22
+銚	yiau22	3%
+陶	yiau22
+颻	yiau22
+鰩	yiau22
+曜	yiau32
+耀	yiau32
+㿢	yiau32
+么	yiau33
+吆	yiau33
+崾	yiau33	0%
+幺	yiau33
+徼	yiau33	3%
+穾	yiau33	0%
+約	yiau33	3%
+腰	yiau33
+要	yiau33	3%
+邀	yiau33
+靿	yiau33	0%
+夭	yiau55	3%
+妖	yiau55
+抌	yiau55
+窅	yiau55
+窈	yiau55
+舀	yiau55
+黝	yiau55
+冶	yie21
+夜	yie21
+爺	yie21
+野	yie21
+倻	yie22
+揶	yie22
+椰	yie22
+爺	yie22
+玡	yie22	0%
+耶	yie22
+邪	yie22	3%
+釾	yie22
+鋣	yie22	0%
+夜	yie32
+嘢	yie33	1000000%
+耶	yie33
+野	yie33
+爹	yie55
+爺	yie55
 窨	yim21
 蔭	yim21	3%
 䕃	yim21
-乑	yim11
-淫	yim11
-霪	yim11
-㐺	yim11
+乑	yim22
+淫	yim22
+霪	yim22
+㐺	yim22
 喑	yim33	3%
 愔	yim33
 瘖	yim33
@@ -11794,16 +11099,16 @@ import_tables:
 螾	yin21
 隱	yin21	3%
 䌥	yin21
-夤	yin11
-寅	yin11
-仞	yin31
-刃	yin31
-孕	yin31
-牣	yin31
-紉	yin31	0%
-胤	yin31
-茚	yin31
-軔	yin31
+夤	yin22
+寅	yin22
+仞	yin32
+刃	yin32
+孕	yin32
+牣	yin32
+紉	yin32	0%
+胤	yin32
+茚	yin32
+軔	yin32
 印	yin33
 囙	yin33	0%
 因	yin33
@@ -11821,23 +11126,23 @@ import_tables:
 銦	yin33
 鮣	yin33
 引	yin55
-入	yip31
+入	yip32
 唈	yip55
 悒	yip55
 挹	yip55
 揖	yip55	3%
 浥	yip55
 邑	yip55	3%
-佚	yit31
-佾	yit31
-掖	yit31	3%
-泆	yit31
-液	yit31	0%
-溢	yit31
-腋	yit31	0%
-軼	yit31	0%
-逸	yit31
-鎰	yit31
+佚	yit32
+佾	yit32
+掖	yit32	3%
+泆	yit32
+液	yit32	0%
+溢	yit32
+腋	yit32	0%
+軼	yit32	0%
+逸	yit32
+鎰	yit32
 一	yit55
 壹	yit55	0%
 弌	yit55
@@ -11850,49 +11155,49 @@ import_tables:
 酉	yiu21
 銪	yiu21
 鼬	yiu21	0%
-尢	yiu11	0%
-尤	yiu11
-悠	yiu11
-攸	yiu11
-柚	yiu11	3%
-油	yiu11
-游	yiu11	0%
-犰	yiu11
-狖	yiu11
-猶	yiu11
-猷	yiu11
-珧	yiu11
-由	yiu11
-疣	yiu11
-繇	yiu11	3%
-羑	yiu11
-莜	yiu11
-蕕	yiu11
-蚰	yiu11
-蝣	yiu11	0%
-蝤	yiu11	0%
-輶	yiu11	0%
-遊	yiu11	0%
-遒	yiu11
-郵	yiu11
-酋	yiu11	0%
-釉	yiu11	3%
-鈾	yiu11	0%
-魷	yiu11
-㘥	yiu11	0%
-佑	yiu31
-侑	yiu31
-又	yiu31
-右	yiu31
-囿	yiu31
-宥	yiu31
-有	yiu31	3%
-牖	yiu31
-祐	yiu31
-莠	yiu31
-誘	yiu31
-釉	yiu31	3%
-䛻	yiu31
+尢	yiu22	0%
+尤	yiu22
+悠	yiu22
+攸	yiu22
+柚	yiu22	3%
+油	yiu22
+游	yiu22	0%
+犰	yiu22
+狖	yiu22
+猶	yiu22
+猷	yiu22
+珧	yiu22
+由	yiu22
+疣	yiu22
+繇	yiu22	3%
+羑	yiu22
+莜	yiu22
+蕕	yiu22
+蚰	yiu22
+蝣	yiu22	0%
+蝤	yiu22	0%
+輶	yiu22	0%
+遊	yiu22	0%
+遒	yiu22
+郵	yiu22
+酋	yiu22	0%
+釉	yiu22	3%
+鈾	yiu22	0%
+魷	yiu22
+㘥	yiu22	0%
+佑	yiu32
+侑	yiu32
+又	yiu32
+右	yiu32
+囿	yiu32
+宥	yiu32
+有	yiu32	3%
+牖	yiu32
+祐	yiu32
+莠	yiu32
+誘	yiu32
+釉	yiu32	3%
+䛻	yiu32
 優	yiu33
 呦	yiu33
 幼	yiu33
@@ -11906,49 +11211,49 @@ import_tables:
 唷	yo55
 喲	yo55
 圓	yon21
-丸	yon11
-元	yon11
-員	yon11
-園	yon11
-圓	yon11
-圜	yon11
-媛	yon11	3%
-媴	yon11
-完	yon11
-懸	yon11
-援	yon11	0%
-椽	yon11	0%
-櫞	yon11
-沿	yon11
-泫	yon11
-湲	yon11
-溳	yon11
-炫	yon11
-烷	yon11	3%
-爰	yon11
-猨	yon11
-猿	yon11
-玄	yon11
-瑗	yon11
-眩	yon11	0%
-紈	yon11
-緣	yon11	3%
-芄	yon11
-芫	yon11	0%
-蝯	yon11	0%
-衒	yon11
-袁	yon11
-轅	yon11
-鈆	yon11	0%
-鉛	yon11
-魭	yon11	0%
-鶢	yon11	0%
-黿	yon11
-垸	yon31
-掾	yon31
-縣	yon31	3%
-遠	yon31
-院	yon31
+丸	yon22
+元	yon22
+員	yon22
+園	yon22
+圓	yon22
+圜	yon22
+媛	yon22	3%
+媴	yon22
+完	yon22
+懸	yon22
+援	yon22	0%
+椽	yon22	0%
+櫞	yon22
+沿	yon22
+泫	yon22
+湲	yon22
+溳	yon22
+炫	yon22
+烷	yon22	3%
+爰	yon22
+猨	yon22
+猿	yon22
+玄	yon22
+瑗	yon22
+眩	yon22	0%
+紈	yon22
+緣	yon22	3%
+芄	yon22
+芫	yon22	0%
+蝯	yon22	0%
+衒	yon22
+袁	yon22
+轅	yon22
+鈆	yon22	0%
+鉛	yon22
+魭	yon22	0%
+鶢	yon22	0%
+黿	yon22
+垸	yon32
+掾	yon32
+縣	yon32	3%
+遠	yon32
+院	yon32
 冤	yon33
 宛	yon33	0%
 怨	yon33
@@ -11961,51 +11266,51 @@ import_tables:
 鵷	yon33
 兗	yon55	0%
 遠	yon55
-戎	yong11
-噦	yot31	0%
-岤	yot31
-悅	yot31
-曰	yot31
-樾	yot31
-穴	yot31
-篗	yot31	0%
-籆	yot31	0%
-籰	yot31
-粵	yot31
-茓	yot31
-說	yot31	3%
-越	yot31
-軏	yot31
-鉞	yot31
-閱	yot31
-㧒	yot31
+戎	yong22
+噦	yot32	0%
+岤	yot32
+悅	yot32
+曰	yot32
+樾	yot32
+穴	yot32
+篗	yot32	0%
+籆	yot32	0%
+籰	yot32
+粵	yot32
+茓	yot32
+說	yot32	3%
+越	yot32
+軏	yot32
+鉞	yot32
+閱	yot32
+㧒	yot32
 乙	yot55
 釔	yot55	0%
-叡	yui31	0%
-枘	yui31
-汭	yui31
-睿	yui31
-芮	yui31
-蚋	yui31
-蜹	yui31
-裔	yui31
-銳	yui31
-㨅	yui31
-𧘉	yui31
-峪	yuk31
-慾	yuk31
-欲	yuk31
-浴	yuk31
-淯	yuk31
-溽	yuk31
-縟	yuk31
-育	yuk31	3%
-蓐	yuk31
-褥	yuk31	3%
-谷	yuk31
-辱	yuk31
-鬻	yuk31
-鵒	yuk31
+叡	yui32	0%
+枘	yui32
+汭	yui32
+睿	yui32
+芮	yui32
+蚋	yui32
+蜹	yui32
+裔	yui32
+銳	yui32
+㨅	yui32
+𧘉	yui32
+峪	yuk32
+慾	yuk32
+欲	yuk32
+浴	yuk32
+淯	yuk32
+溽	yuk32
+縟	yuk32
+育	yuk32	3%
+蓐	yuk32
+褥	yuk32	3%
+谷	yuk32
+辱	yuk32
+鬻	yuk32
+鵒	yuk32
 勖	yuk55
 勗	yuk55
 彧	yuk55
@@ -12018,46 +11323,47 @@ import_tables:
 薁	yuk55
 郁	yuk55	3%
 鋈	yuk55
-勻	yun11
-昀	yun11
-筠	yun11
+勻	yun22
+昀	yun22
+筠	yun22
 勇	yung21
 勈	yung21
-傛	yung11
-傭	yung11	3%
-喁	yung11
-墉	yung11
-嫆	yung11
-容	yung11
-庸	yung11
-慵	yung11
-戎	yung11
-榕	yung11
-溶	yung11
-瀜	yung11
-熔	yung11
-狨	yung11
-狨	yung11
-瑢	yung11
-肜	yung11
-蓉	yung11
-融	yung11
-螎	yung11	0%
-鄘	yung11
-鎔	yung11
-鏞	yung11
-駥	yung11
-鰫	yung11
-㝐	yung11
-䗤	yung11
-𠈋	yung11
-𢫨	yung11
-𥬪	yung11
-傭	yung31	3%
-嫞	yung31
-用	yung31
-苚	yung31
-醟	yung31
+瑢	yung22
+傛	yung22
+傭	yung22	3%
+喁	yung22
+墉	yung22
+嫆	yung22
+容	yung22
+庸	yung22
+慵	yung22
+戎	yung22
+榕	yung22
+溶	yung22
+瀜	yung22
+熔	yung22
+狨	yung22
+狨	yung22
+瑢	yung22
+肜	yung22
+蓉	yung22
+融	yung22
+螎	yung22	0%
+鄘	yung22
+鎔	yung22
+鏞	yung22
+駥	yung22
+鰫	yung22
+㝐	yung22
+䗤	yung22
+𠈋	yung22
+𢫨	yung22
+𥬪	yung22
+傭	yung32	3%
+嫞	yung32
+用	yung32
+苚	yung32
+醟	yung32
 噰	yung33
 壅	yung33	3%
 暡	yung33
@@ -12103,3 +11409,697 @@ import_tables:
 𧗴	yung55
 𩔚	yung55
 𩟀	yung55
+渣	za21
+皻	za21
+齄	za21
+齇	za21
+厏	za32
+乍	za33	0%
+侘	za33
+吒	za33	3%
+咋	za33	3%
+哳	za33
+垞	za33
+奓	za33	3%
+奼	za33	0%
+抓	za33	0%
+抯	za33
+拃	za33
+挓	za33
+揸	za33
+摣	za33
+撾	za33	0%
+柞	za33	0%
+查	za33
+楂	za33
+榨	za33
+樝	za33
+溠	za33
+炸	za33
+煠	za33	0%
+痄	za33
+矺	za33
+砟	za33	0%
+笮	za33	0%
+苲	za33	0%
+蚱	za33	3%
+蜡	za33	0%
+詐	za33
+詫	za33
+餷	za33
+髽	za33
+鮓	za33	0%
+鮺	za33
+䖳	za33	0%
+咱	za55
+咱	za55
+喳	za55
+臢	za55	3%
+寨	zai32
+滯	zai32
+砦	zai32
+齊	zai32	3%
+亝	zai33
+債	zai33
+傺	zai33
+制	zai33
+劑	zai33	0%
+嚌	zai33
+掣	zai33
+擠	zai33
+穧	zai33
+製	zai33
+霽	zai33	0%
+齊	zai33	3%
+齋	zai33
+齏	zai33
+䱥	zai33
+𢮓	zai33
+宅	zak32	3%
+摘	zak32
+擇	zak32
+擲	zak32
+澤	zak32	3%
+矺	zak32
+砸	zak32
+磔	zak32	0%
+翟	zak32
+蠌	zak32
+謫	zak32
+蹢	zak32	0%
+躑	zak32	0%
+岞	zak33
+柞	zak33	0%
+窄	zak33
+笮	zak33	0%
+舴	zak33
+虴	zak33
+迮	zak33	0%
+側	zak55
+嘖	zak55	0%
+幘	zak55	3%
+溭	zak55	0%
+笮	zak55	0%
+簀	zak55
+蔶	zak55	0%
+責	zak55	3%
+賾	zak55	0%
+㺓	zak55
+暫	zam32
+站	zam32
+鏨	zam32
+戡	zam33	0%
+湛	zam33	3%
+緘	zam33
+嶄	zam55	3%
+斬	zam55
+眨	zam55
+䁪	zam55
+撰	zan32	0%
+棧	zan32	0%
+綻	zan32
+賺	zan32
+贃	zan32	0%
+饌	zan32	3%
+盞	zan55
+踭	zang21
+掙	zang32	0%
+撐	zang32	0%
+丁	zang33	3%
+崢	zang33	3%
+掙	zang33	0%
+爭	zang33	3%
+猙	zang33	0%
+琤	zang33	3%
+箏	zang33	3%
+諍	zang33	3%
+踭	zang33
+錚	zang33	3%
+鬇	zang33
+䦛	zang33	0%
+倀	zang55	3%
+睜	zang55	3%
+喋	zap21	3%
+牐	zap32
+鍘	zap32	0%
+閘	zap32
+靸	zap32
+劄	zap55	3%
+咂	zap55
+執	zap55
+帀	zap55	0%
+匝	zat21
+扎	zat21	0%
+挃	zat21
+䍉	zat32
+匝	zat33
+咂	zat33
+哳	zat33
+扎	zat33	0%
+拶	zat33
+砸	zat33
+紥	zat33
+紮	zat33	0%
+軋	zat33	3%
+魳	zat33	0%
+劄	zat55	3%
+扎	zat55	0%
+札	zat55	3%
+猰	zat55	0%
+罩	zau21
+䈇	zau21
+宙	zau32
+棹	zau32	3%
+櫂	zau32
+籀	zau32
+籒	zau32	0%
+紂	zau32
+繇	zau32	3%
+胄	zau32	0%
+葤	zau32
+酎	zau32
+驟	zau32	3%
+鮦	zau32	0%
+嘲	zau33
+笊	zau33
+罩	zau33
+䈇	zau33
+帚	zau55	3%
+找	zau55
+抓	zau55	0%
+爪	zau55
+箒	zau55
+肘	zau55	3%
+菷	zau55	0%
+㕚	zau55	0%
+㕚	zau55	0%
+鵮	zem33	0%
+剩	zen32	3%
+賸	zen32
+阱	zen32	0%
+佂	zen33
+偵	zen33
+媜	zen33
+幀	zen33
+征	zen33
+徴	zen33	0%
+徵	zen33	0%
+怔	zen33
+政	zen33
+楨	zen33
+正	zen33	3%
+湞	zen33
+烝	zen33
+症	zen33	0%
+癥	zen33	0%
+禎	zen33
+篜	zen33
+聇	zen33
+蒸	zen33
+証	zen33
+證	zen33
+貞	zen33
+赬	zen33	0%
+遉	zen33	0%
+鉦	zen33
+鯖	zen33	0%
+䒱	zen33
+𢌛	zen33
+𤇶	zen33
+𤏾	zen33
+𦙫	zen33
+𦡅	zen33
+𧗆	zen33
+𧘿	zen33
+𧾸	zen33
+𨒌	zen33
+𨜓	zen33
+𩜎	zen33
+戰	zen33
+旃	zen33
+氈	zen33
+氊	zen33
+邅	zen33
+顫	zen33
+飦	zen33
+饘	zen33
+鱣	zen33	0%
+鸇	zen33
+抍	zen55
+拯	zen55
+整	zen55
+氶	zen55
+値	zet32	0%
+值	zet32
+埴	zet32
+植	zet32
+殖	zet32
+湜	zet32
+直	zet32
+稙	zet32	0%
+蟄	zet32	0%
+陟	zet32
+折	zet33	3%
+踅	zet33	3%
+仄	zet55
+摭	zet55
+昃	zet55
+炙	zet55	0%
+織	zet55	3%
+職	zet55
+蝍	zet55
+跖	zet55
+蹠	zet55	0%
+軄	zet55	0%
+陟	zet55
+哲	zet55
+喆	zet55
+嚞	zet55	0%
+折	zet55	3%
+晢	zet55
+晣	zet55
+浙	zet55
+矺	zet55
+蜇	zet55
+騭	zet55
+䇽	zet55
+𧋍	zet55
+皺	zeu33
+縐	zeu33
+諏	zeu33
+謅	zeu33	3%
+鄒	zeu33
+鄹	zeu33
+陬	zeu33
+騶	zeu33
+鯫	zeu33	3%
+㑇	zeu33
+㥮	zeu33
+皺	zeu55
+注	zi21
+珠	zi21
+疰	zi21
+註	zi21
+駐	zi21
+乿	zi32	0%
+住	zi32
+廌	zi32	0%
+櫡	zi32	0%
+治	zi32
+痔	zi32
+筯	zi32
+箸	zi32	0%
+豸	zi32
+之	zi33
+侏	zi33
+卮	zi33
+厔	zi33	0%
+吱	zi33	3%
+姝	zi33
+寘	zi33
+彘	zi33
+志	zi33
+忮	zi33	0%
+摯	zi33
+支	zi33
+智	zi33
+朱	zi33	3%
+枝	zi33	3%
+株	zi33
+栺	zi33
+梔	zi33
+梽	zi33
+椥	zi33
+櫧	zi33
+櫫	zi33
+氏	zi33
+洙	zi33	0%
+瀦	zi33
+炷	zi33
+疐	zi33	0%
+疷	zi33	0%
+痣	zi33
+知	zi33
+硃	zi33
+稚	zi33
+稺	zi33
+穉	zi33
+緻	zi33
+置	zi33
+肢	zi33
+胝	zi33	0%
+脂	zi33
+至	zi33
+致	zi33
+芝	zi33
+茱	zi33	0%
+著	zi33
+蛀	zi33
+蛛	zi33
+蜘	zi33
+袾	zi33
+觶	zi33	0%
+誅	zi33
+誌	zi33
+諸	zi33
+識	zi33
+豬	zi33
+質	zi33
+贄	zi33
+躓	zi33
+輊	zi33
+遲	zi33	3%
+邾	zi33
+銖	zi33
+鑄	zi33
+雉	zi33
+髭	zi33
+鷙	zi33
+鼄	zi33
+鼅	zi33
+䄺	zi33
+䕌	zi33
+䵹	zi33
+主	zi55
+只	zi55	0%
+吱	zi55	3%
+咫	zi55
+嘁	zi55	3%
+址	zi55
+夂	zi55
+徴	zi55	0%
+徵	zi55	0%
+扺	zi55
+拄	zi55
+指	zi55
+旨	zi55
+枳	zi55	3%
+止	zi55
+沚	zi55
+渚	zi55
+煑	zi55
+煮	zi55
+祇	zi55
+祉	zi55	0%
+祗	zi55	0%
+紙	zi55
+翥	zi55	0%
+耆	zi55	3%
+芷	zi55
+趾	zi55
+軹	zi55
+酯	zi55
+麈	zi55
+黹	zi55
+䬡	zi55
+著	ziak32
+著	ziak33
+隻	ziak33
+桌	ziak55
+棹	ziak55	3%
+禚	ziak55	0%
+著	ziak55
+酌	ziak55
+鐯	ziak55	0%
+佔	ziam33	3%
+占	ziam33	3%
+呫	ziam33
+沾	ziam33	0%
+瞻	ziam33
+粘	ziam33	0%
+覘	ziam33	0%
+詹	ziam33
+譫	ziam33
+贍	ziam33
+霑	ziam33
+韂	ziam33
+䩞	ziam33	0%
+丈	ziang32
+仗	ziang32
+杖	ziang32
+鄭	ziang32	0%
+仗	ziang33
+嫜	ziang33
+嶂	ziang33
+帳	ziang33
+幛	ziang33
+張	ziang33
+彰	ziang33
+樟	ziang33
+正	ziang33	3%
+漲	ziang33
+漳	ziang33
+獐	ziang33
+璋	ziang33
+瘴	ziang33
+章	ziang33
+脹	ziang33
+蟑	ziang33
+賬	ziang33
+鄣	ziang33
+障	ziang33
+麞	ziang33
+仉	ziang55
+掌	ziang55
+長	ziang55
+鞝	ziang55	0%
+褶	ziap21	3%
+折	ziap33	3%
+摺	ziap33	0%
+讋	ziap33
+就	ziau32
+趙	ziau32	3%
+召	ziau33	0%
+招	ziau33
+昭	ziau33	0%
+曌	ziau33
+朝	ziau33	3%
+炤	ziau33	3%
+照	ziau33
+瞾	ziau33	0%
+詔	ziau33	0%
+釗	ziau33	0%
+沼	ziau55
+毑	zie21
+蔗	zie21
+嗻	zie33
+柘	zie33
+罝	zie33	0%
+這	zie33	5%
+遮	zie33
+鷓	zie33
+者	zie55
+赭	zie55
+鍺	zie55
+譖	zim21	0%
+針	zim21
+朕	zim32
+浸	zim32	3%
+鴆	zim32
+斟	zim33
+箴	zim33
+針	zim33
+鍼	zim33	3%
+枕	zim55
+陣	zin32
+珍	zin33
+瑱	zin33	0%
+甄	zin33
+眞	zin33
+真	zin33
+稹	zin33	0%
+鎮	zin33
+囅	zin55	3%
+展	zin55
+振	zin55	3%
+搌	zin55
+碾	zin55	3%
+誫	zin55	0%
+賑	zin55
+蹍	zin55
+輾	zin55	3%
+震	zin55
+㜊	zin55
+執	zip55
+汁	zip55
+縶	zip55
+輒	zip55	0%
+輙	zip55	0%
+侄	zit32	3%
+姪	zit32
+桎	zit32	0%
+窒	zit32	3%
+膣	zit32
+蛭	zit32
+螲	zit32	0%
+郅	zit32	0%
+厔	zit55	0%
+挃	zit55
+質	zit55
+鑕	zit55
+騭	zit55
+咒	ziu21
+晝	ziu21
+洲	ziu21
+侜	ziu33
+周	ziu33
+咒	ziu33
+咮	ziu33
+啁	ziu33	3%
+州	ziu33
+晝	ziu33
+洲	ziu33
+盩	ziu33
+緅	ziu33
+舟	ziu33
+賙	ziu33
+輈	ziu33
+週	ziu33
+鵃	ziu33	0%
+助	zo32
+阻	zo55
+咮	zoi21
+喙	zoi33
+擢	zok32
+濯	zok32	3%
+鷟	zok32	0%
+捉	zok33	3%
+浞	zok55	0%
+傳	zon32	3%
+專	zon33
+磚	zon33
+篿	zon33
+耑	zon33
+顓	zon33
+囀	zon55	0%
+孨	zon55	0%
+膞	zon55
+轉	zon55
+壵	zong32	0%
+幢	zong32
+撞	zong32	0%
+狀	zong32
+駔	zong32	3%
+僮	zong33	0%
+壯	zong33	3%
+奘	zong33	0%
+妝	zong33
+娤	zong33	0%
+戇	zong33
+樁	zong33
+粧	zong33	0%
+糚	zong33	0%
+莊	zong33
+裝	zong33
+䚎	zong33
+咄	zot55	0%
+啜	zot55	3%
+怵	zot55	0%
+惙	zot55
+拙	zot55	0%
+掇	zot55
+敠	zot55
+敪	zot55
+柮	zot55	3%
+梲	zot55	0%
+棳	zot55
+絀	zot55	3%
+綴	zot55	3%
+腏	zot55
+茁	zot55	0%
+蝃	zot55
+裰	zot55
+輟	zot55	0%
+醊	zot55	0%
+餟	zot55
+黜	zot55	3%
+俎	zu55
+詛	zu55
+阻	zu55
+錐	zui21	0%
+叕	zui32
+墜	zui32
+惴	zui32	0%
+憝	zui32	3%
+懟	zui32
+箠	zui32	0%
+綴	zui32	3%
+縋	zui32
+譈	zui32
+贅	zui32	3%
+錘	zui32
+隊	zui32	0%
+且	zui33	3%
+椎	zui33
+濉	zui33
+睢	zui33	0%
+脧	zui33
+菹	zui33
+蛆	zui33	3%
+追	zui33	3%
+錐	zui33	0%
+隹	zui33
+雎	zui33
+騅	zui33
+妯	zuk32	3%
+牘	zuk32
+瘃	zuk32	3%
+舳	zuk32
+軸	zuk32	3%
+逐	zuk32	3%
+鐲	zuk32	3%
+囑	zuk33
+囑	zuk55
+屬	zuk55	3%
+燭	zuk55
+矚	zuk55
+祝	zuk55	3%
+竹	zuk55
+竺	zuk55
+笁	zuk55	0%
+築	zuk55
+粥	zuk55	3%
+鬻	zuk55
+圳	zun32	0%
+汌	zun32
+汌	zun32
+津	zun32
+准	zun55
+埻	zun55
+準	zun55	3%
+隼	zun55	0%
+鶽	zun55	0%
+盅	zung21
+仲	zung32
+重	zung32
+中	zung33
+乑	zung33
+伀	zung33
+忠	zung33
+忪	zung33
+憃	zung33
+橦	zung33
+盅	zung33
+眾	zung33	3%
+種	zung33
+穜	zung33
+終	zung33
+舂	zung33
+舯	zung33
+蔠	zung33
+螤	zung33	0%
+螽	zung33
+衆	zung33
+衳	zung33
+衶	zung33
+蹱	zung33
+鍾	zung33
+鐘	zung33
+㐺	zung33
+䈺	zung33
+種	zung55
+穜	zung55
+腫	zung55
+踵	zung55
+捽	zut33	0%
+𢫋	zut33

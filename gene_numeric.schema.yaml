@@ -30,20 +30,20 @@ translator:
     - xform/215\b/²¹⁵ /
     - xform/55\b/⁵⁵ /
     - xform/33\b/³³ /
-    - xform/35\b/³⁵ /
-    - xform/11\b/¹¹ /
-    - xform/15\b/¹⁵ /
-    - xform/31\b/³¹ /
+    - xform/335\b/³³⁵ /
+    - xform/22\b/²² /
+    - xform/225\b/²²⁵ /
+    - xform/32\b/³² /
     - xform/21\b/²¹ /
   preedit_format:
     # `xform` tones with longer strings first so they don't get intercepted by
     # substring `xform`s.
-    - xform/(?:q[rwz]|r[qwr]|w[qrz]|z[qrw])\b/⁵⁵/
-    - xform/qq\b/³⁵/
-    - xform/rr\b/¹⁵/
+    - xform/x\b/⁵⁵/
+    - xform/qq\b/³³⁵/
+    - xform/rr\b/²²⁵/
     - xform/ww\b/³²⁵/
     - xform/zz\b/²¹⁵/
     - xform/q\b/³³/
-    - xform/r\b/¹¹/
-    - xform/w\b/³¹/
+    - xform/r\b/²²/
+    - xform/w\b/³²/
     - xform/z\b/²¹/
