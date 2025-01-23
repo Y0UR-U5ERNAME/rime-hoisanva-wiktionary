@@ -3,6 +3,8 @@ A RIME IME for Taishanese (Wiktionary-like romanization fork)
 
 The romanization is based on [this](https://en.wiktionary.org/wiki/Wiktionary:About_Chinese/Cantonese/Taishanese) but with the i-ei merge (ei written as i) and uu written as u (ut-uut merge).
 
+The files still say "gene" as I didn't bother to change them.
+
 ## Hoisanva IME Windows Install Instructions (credits to [suspiciouscactus](https://github.com/suspiciouscactus)) ##
 1. Follow [this guide](https://github.com/rime/rime-cantonese/wiki/Windows-%E5%AE%89%E8%A3%9D%E6%95%99%E7%A8%8B#%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%AE%89%E8%A3%9D%E5%B0%8F%E7%8B%BC%E6%AF%AB%E5%89%8D%E8%87%BA%E7%A8%8B%E5%BC%8F-step-1-install-the-weasel-frontend) until you click 獲取更多輸入方案.
 2. Instead of typing `cantonese`, `emoji`, and `sgalal/rime-opencc-32bit-latest` in the console, type `Y0UR-U5ERNAME/rime-hoisanva-wiktionary`.
