@@ -61,13 +61,13 @@ speller:
     - derive/[1235]//
     # `xform` tones with longer strings first so they don't get intercepted by
     # substring `xform`s.
+    - xform/335$/qq/
+    - xform/225$/rr/
     - xform/325$/ww/
     - xform/215$/xx/
     - xform/55$/j/
     - xform/33$/q/
-    - xform/335$/qq/
     - xform/22$/r/
-    - xform/225$/rr/
     - xform/32$/w/
     - xform/21$/x/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
