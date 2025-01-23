@@ -62,14 +62,14 @@ speller:
     # `xform` tones with longer strings first so they don't get intercepted by
     # substring `xform`s.
     - xform/325$/ww/
-    - xform/215$/zz/
+    - xform/215$/jj/
     - xform/55$/x/
     - xform/33$/q/
     - xform/335$/qq/
     - xform/22$/r/
     - xform/225$/rr/
     - xform/32$/w/
-    - xform/21$/z/
+    - xform/21$/j/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
 
@@ -123,8 +123,8 @@ translator:
     - xform_\b(m)rr\b_$1̃/_
     - xform/\b(m)w\b/$1̀/
     - xform_\b(m)ww\b_$1̀/_
-    - xform/\b(m)z\b/$1̂/
-    - xform_\b(m)zz\b_$1̂/_
+    - xform/\b(m)j\b/$1̂/
+    - xform_\b(m)jj\b_$1̂/_
     - xform/(ui|iu)x\b/$1̄/
     - xform/(ui|iu)q\b/$1̈/
     - xform_(ui|iu)qq\b_$1̈/_
@@ -132,17 +132,17 @@ translator:
     - xform_(ui|iu)rr\b_$1̃/_
     - xform/(ui|iu)w\b/$1̀/
     - xform_(ui|iu)ww\b_$1̀/_
-    - xform/(ui|iu)z\b/$1̂/
-    - xform_(ui|iu)zz\b_$1̂/_
-    - xform/([aeiou])([^qrwz ]*)x\b/$1̄$2/
-    - xform/([aeiou])([^qrwz ]*)q\b/$1̈$2/
-    - xform_([aeiou])([^qrwz ]*)qq\b_$1̈$2/_
-    - xform/([aeiou])([^qrwz ]*)r\b/$1̃$2/
-    - xform_([aeiou])([^qrwz ]*)rr\b_$1̃$2/_
-    - xform/([aeiou])([^qrwz ]*)w\b/$1̀$2/
-    - xform_([aeiou])([^qrwz ]*)ww\b_$1̀$2/_
-    - xform/([aeiou])([^qrwz ]*)z\b/$1̂$2/
-    - xform_([aeiou])([^qrwz ]*)zz\b_$1̂$2/_
+    - xform/(ui|iu)j\b/$1̂/
+    - xform_(ui|iu)jj\b_$1̂/_
+    - xform/([aeiou])([^xqrwj ]*)x\b/$1̄$2/
+    - xform/([aeiou])([^xqrwj ]*)q\b/$1̈$2/
+    - xform_([aeiou])([^xqrwj ]*)qq\b_$1̈$2/_
+    - xform/([aeiou])([^xqrwj ]*)r\b/$1̃$2/
+    - xform_([aeiou])([^xqrwj ]*)rr\b_$1̃$2/_
+    - xform/([aeiou])([^xqrwj ]*)w\b/$1̀$2/
+    - xform_([aeiou])([^xqrwj ]*)ww\b_$1̀$2/_
+    - xform/([aeiou])([^xqrwj ]*)j\b/$1̂$2/
+    - xform_([aeiou])([^xqrwj ]*)jj\b_$1̂$2/_
 
 
 reverse_lookup:

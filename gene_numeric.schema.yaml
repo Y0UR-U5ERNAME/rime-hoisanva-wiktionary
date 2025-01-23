@@ -42,8 +42,8 @@ translator:
     - xform/qq\b/³³⁵/
     - xform/rr\b/²²⁵/
     - xform/ww\b/³²⁵/
-    - xform/zz\b/²¹⁵/
+    - xform/jj\b/²¹⁵/
     - xform/q\b/³³/
     - xform/r\b/²²/
     - xform/w\b/³²/
-    - xform/z\b/²¹/
+    - xform/j\b/²¹/
