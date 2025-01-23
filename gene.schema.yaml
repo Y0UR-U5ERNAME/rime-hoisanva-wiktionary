@@ -97,24 +97,24 @@ translator:
     - xform_\b(m)325\b_$1̀ /_
     - xform/\b(m)21\b/$1̂ /
     - xform_\b(m)215\b_$1̂ /_
-    - xform/(ui|iu)55\b/$1̄ /
-    - xform/(ui|iu)33\b/$1̈ /
-    - xform_(ui|iu)335\b_$1̈ /_
-    - xform/(ui|iu)22\b/$1̃ /
-    - xform_(ui|iu)225\b_$1̃ /_
-    - xform/(ui|iu)32\b/$1̀ /
-    - xform_(ui|iu)325\b_$1̀ /_
-    - xform/(ui|iu)21\b/$1̂ /
-    - xform_(ui|iu)215\b_$1̂ /_
-    - xform/([aeiou])([a-z]*)55\b/$1̄$2 /
-    - xform/([aeiou])([a-z]*)33\b/$1̈$2 /
-    - xform_([aeiou])([a-z]*)335\b_$1̈$2/ _
-    - xform/([aeiou])([a-z]*)22\b/$1̃$2 /
-    - xform_([aeiou])([a-z]*)225\b_$1̃$2/ _
-    - xform/([aeiou])([a-z]*)32\b/$1̀$2 /
-    - xform_([aeiou])([a-z]*)325\b_$1̀$2/ _
-    - xform/([aeiou])([a-z]*)21\b/$1̂$2 /
-    - xform_([aeiou])([a-z]*)215\b_$1̂$2/ _
+    - xform/(ui|iu|ie|ia)(u*)55\b/$1̄$2 /
+    - xform/(ui|iu|ie|ia)(u*)33\b/$1̈$2 /
+    - xform_(ui|iu|ie|ia)(u*)335\b_$1̈$2 /_
+    - xform/(ui|iu|ie|ia)(u*)22\b/$1̃$2 /
+    - xform_(ui|iu|ie|ia)(u*)225\b_$1̃$2 /_
+    - xform/(ui|iu|ie|ia)(u*)32\b/$1̀$2 /
+    - xform_(ui|iu|ie|ia)(u*)325\b_$1̀$2 /_
+    - xform/(ui|iu|ie|ia)(u*)21\b/$1̂$2 /
+    - xform_(ui|iu|ie|ia)(u*)215\b_$1̂$2 /_
+    - xform/([aeiou]+)([a-z]*)55\b/$1̄$2 /
+    - xform/([aeiou]+)([a-z]*)33\b/$1̈$2 /
+    - xform_([aeiou]+)([a-z]*)335\b_$1̈$2/ _
+    - xform/([aeiou]+)([a-z]*)22\b/$1̃$2 /
+    - xform_([aeiou]+)([a-z]*)225\b_$1̃$2/ _
+    - xform/([aeiou]+)([a-z]*)32\b/$1̀$2 /
+    - xform_([aeiou]+)([a-z]*)325\b_$1̀$2/ _
+    - xform/([aeiou]+)([a-z]*)21\b/$1̂$2 /
+    - xform_([aeiou]+)([a-z]*)215\b_$1̂$2/ _
   preedit_format:
     - xform/\b(m)j\b/$1̄/
     - xform/\b(m)q\b/$1̈/
